@@ -1,0 +1,7001 @@
+﻿[
+    {
+        "id": "8c153d3a-e141-4153-b78b-388ff570db28",
+        "nome": "Wine - Acient Coast Caberne",
+        "preco": 60.12,
+        "quantidade": 41,
+        "idVendedor": 12
+    },
+    {
+        "id": "c3693c3f-19ec-49ff-83ec-58a568d20f7b",
+        "nome": "Appetizer - Mushroom Tart",
+        "preco": 11.23,
+        "quantidade": 69,
+        "idVendedor": 15
+    },
+    {
+        "id": "531efa42-87d7-465e-9045-9a7de5bb97fe",
+        "nome": "Apples - Sliced / Wedge",
+        "preco": 31.93,
+        "quantidade": 75,
+        "idVendedor": 4
+    },
+    {
+        "id": "340db978-0520-46a0-ae36-fcaad8b5a7fc",
+        "nome": "Pork - Bacon, Sliced",
+        "preco": 58.86,
+        "quantidade": 7,
+        "idVendedor": 9
+    },
+    {
+        "id": "1688df4a-fc24-4d64-9d77-6951e4b9fa20",
+        "nome": "Kumquat",
+        "preco": 10.52,
+        "quantidade": 49,
+        "idVendedor": 6
+    },
+    {
+        "id": "f839f6c3-69eb-416c-b96c-d0c31fb7409e",
+        "nome": "Zucchini - Yellow",
+        "preco": 3.1,
+        "quantidade": 4,
+        "idVendedor": 8
+    },
+    {
+        "id": "ea9cd6d5-bccb-48a5-b9bb-2e1b7fd1fb7f",
+        "nome": "Higashimaru Usukuchi Soy",
+        "preco": 88.14,
+        "quantidade": 3,
+        "idVendedor": 14
+    },
+    {
+        "id": "7d66ee0d-6f8a-41f9-9085-7ebda5bb2a2b",
+        "nome": "Sugar - Monocystal / Rock",
+        "preco": 20.04,
+        "quantidade": 71,
+        "idVendedor": 16
+    },
+    {
+        "id": "9eb94342-5eb0-4512-a7e2-34b1a0a9475f",
+        "nome": "Mustard - Pommery",
+        "preco": 3.45,
+        "quantidade": 32,
+        "idVendedor": 6
+    },
+    {
+        "id": "6eb9ed1f-2091-40df-a784-37539daa6473",
+        "nome": "Neckerchief Blck",
+        "preco": 55.77,
+        "quantidade": 93,
+        "idVendedor": 3
+    },
+    {
+        "id": "b92a5cba-8997-4317-9856-54c0620d08b7",
+        "nome": "Chicken - Diced, Cooked",
+        "preco": 52.95,
+        "quantidade": 21,
+        "idVendedor": 12
+    },
+    {
+        "id": "a525986a-1cd7-4da3-935a-712684c2a314",
+        "nome": "Sultanas",
+        "preco": 44.46,
+        "quantidade": 5,
+        "idVendedor": 19
+    },
+    {
+        "id": "dd5d0e52-c0a2-456b-a0e7-451bda40e835",
+        "nome": "Scrubbie - Scotchbrite Hand Pad",
+        "preco": 90.23,
+        "quantidade": 22,
+        "idVendedor": 20
+    },
+    {
+        "id": "81ade292-7e10-4dfb-ad9b-947ec8903c22",
+        "nome": "Absolut Citron",
+        "preco": 38.75,
+        "quantidade": 45,
+        "idVendedor": 3
+    },
+    {
+        "id": "feda3418-c763-4a1b-8a7c-0ba63ac1e878",
+        "nome": "Grouper - Fresh",
+        "preco": 96.67,
+        "quantidade": 13,
+        "idVendedor": 16
+    },
+    {
+        "id": "7d9ed508-9d31-4725-990b-b32bbe017585",
+        "nome": "Muskox - French Rack",
+        "preco": 52.21,
+        "quantidade": 93,
+        "idVendedor": 7
+    },
+    {
+        "id": "1fcf91a0-81ca-44e8-8824-b18d87d4dfd9",
+        "nome": "Lentils - Green, Dry",
+        "preco": 65.27,
+        "quantidade": 47,
+        "idVendedor": 14
+    },
+    {
+        "id": "5c782f56-76c2-43db-bff0-9edbda090d71",
+        "nome": "Beef - Top Butt Aaa",
+        "preco": 51.6,
+        "quantidade": 29,
+        "idVendedor": 13
+    },
+    {
+        "id": "cf836aca-c880-4d52-bf95-3605c0673059",
+        "nome": "Couscous",
+        "preco": 13.25,
+        "quantidade": 21,
+        "idVendedor": 15
+    },
+    {
+        "id": "36b2eaba-b08a-4412-86cd-da6f000a7be4",
+        "nome": "Vinegar - Cider",
+        "preco": 40.97,
+        "quantidade": 48,
+        "idVendedor": 14
+    },
+    {
+        "id": "4dab865b-22aa-4b29-bbd0-aec8ca13900f",
+        "nome": "Nantucket - Kiwi Berry Cktl.",
+        "preco": 85.75,
+        "quantidade": 98,
+        "idVendedor": 4
+    },
+    {
+        "id": "7acc1f2f-0d0c-4d72-aa38-1376d7c802b4",
+        "nome": "Pork - Bacon,back Peameal",
+        "preco": 55.62,
+        "quantidade": 42,
+        "idVendedor": 20
+    },
+    {
+        "id": "c811f0c6-1818-4245-a404-d1e5f1b73ad1",
+        "nome": "Cheese - Pont Couvert",
+        "preco": 3.15,
+        "quantidade": 55,
+        "idVendedor": 3
+    },
+    {
+        "id": "0ed9b77b-6383-46cc-aa9e-a4691f771572",
+        "nome": "Flour - Corn, Fine",
+        "preco": 63.26,
+        "quantidade": 14,
+        "idVendedor": 14
+    },
+    {
+        "id": "78d4640d-3cf1-4b76-859f-62c2c67fb77d",
+        "nome": "Cheese - Le Cru Du Clocher",
+        "preco": 30.6,
+        "quantidade": 75,
+        "idVendedor": 13
+    },
+    {
+        "id": "c5b51a16-d834-4f43-8e61-e925c58d4c2e",
+        "nome": "White Fish - Filets",
+        "preco": 31.66,
+        "quantidade": 91,
+        "idVendedor": 13
+    },
+    {
+        "id": "2cd513af-eb96-4e5e-b09b-2428e915dd3b",
+        "nome": "Bamboo Shoots - Sliced",
+        "preco": 87.01,
+        "quantidade": 7,
+        "idVendedor": 2
+    },
+    {
+        "id": "06b724e8-c2c3-4b71-a867-eacf89501dd0",
+        "nome": "Pastry - Mini French Pastries",
+        "preco": 20.08,
+        "quantidade": 93,
+        "idVendedor": 18
+    },
+    {
+        "id": "dd338465-8c13-4a99-8edc-1ff75dc68c19",
+        "nome": "Okra",
+        "preco": 16.51,
+        "quantidade": 84,
+        "idVendedor": 14
+    },
+    {
+        "id": "ad0075b9-7a66-4383-beb3-0c2892613435",
+        "nome": "Lid Coffee Cup 8oz Blk",
+        "preco": 34.24,
+        "quantidade": 20,
+        "idVendedor": 7
+    },
+    {
+        "id": "268cc3e2-c705-4e49-b0d3-30d03f429893",
+        "nome": "Bread Bowl Plain",
+        "preco": 37.76,
+        "quantidade": 61,
+        "idVendedor": 10
+    },
+    {
+        "id": "862bbd82-6767-4d44-a4e6-b290418990d6",
+        "nome": "Basil - Pesto Sauce",
+        "preco": 99.42,
+        "quantidade": 45,
+        "idVendedor": 13
+    },
+    {
+        "id": "9f516b8c-fb8b-470a-9191-9c066a1a812e",
+        "nome": "Veal - Nuckle",
+        "preco": 75.93,
+        "quantidade": 54,
+        "idVendedor": 7
+    },
+    {
+        "id": "a08c7555-a5d9-40d3-a67e-468da51dfd71",
+        "nome": "Cranberries - Fresh",
+        "preco": 25.97,
+        "quantidade": 12,
+        "idVendedor": 11
+    },
+    {
+        "id": "a3c78843-d612-458b-97a9-dc5622c714d2",
+        "nome": "Blueberries - Frozen",
+        "preco": 33.06,
+        "quantidade": 7,
+        "idVendedor": 16
+    },
+    {
+        "id": "e1a948ba-d9b7-41b2-b260-39325cd5e7e2",
+        "nome": "Ecolab Silver Fusion",
+        "preco": 94.36,
+        "quantidade": 24,
+        "idVendedor": 16
+    },
+    {
+        "id": "e7c6a684-e639-4a47-bbea-30292a6639b5",
+        "nome": "Wine La Vielle Ferme Cote Du",
+        "preco": 18.1,
+        "quantidade": 78,
+        "idVendedor": 6
+    },
+    {
+        "id": "e086d1ab-ee94-45d6-8e26-eb70c66ae08b",
+        "nome": "Cheese - Blue",
+        "preco": 73.74,
+        "quantidade": 90,
+        "idVendedor": 13
+    },
+    {
+        "id": "eed8d19b-cc69-41c3-9e4b-683571d560af",
+        "nome": "Cheese - St. Paulin",
+        "preco": 61.27,
+        "quantidade": 80,
+        "idVendedor": 10
+    },
+    {
+        "id": "f3ce7457-9e61-41e8-b3f8-ce68ace0b39d",
+        "nome": "Transfer Sheets",
+        "preco": 72.99,
+        "quantidade": 65,
+        "idVendedor": 5
+    },
+    {
+        "id": "303ab711-4a0a-4f38-a075-e45b39519850",
+        "nome": "Sour Cream",
+        "preco": 90.38,
+        "quantidade": 64,
+        "idVendedor": 11
+    },
+    {
+        "id": "7c8cc8a3-5a8d-4ebe-b108-c6d0b3e05ba9",
+        "nome": "Sachet",
+        "preco": 98.54,
+        "quantidade": 83,
+        "idVendedor": 4
+    },
+    {
+        "id": "e4aea17c-b220-4039-bb79-0f5b8d0966cf",
+        "nome": "Puree - Strawberry",
+        "preco": 40.45,
+        "quantidade": 14,
+        "idVendedor": 13
+    },
+    {
+        "id": "15db6830-2a87-41c6-9bc9-c52b43425513",
+        "nome": "Cinnamon - Stick",
+        "preco": 29.15,
+        "quantidade": 19,
+        "idVendedor": 11
+    },
+    {
+        "id": "38156abc-9424-40a0-9f4c-de7efddaea0b",
+        "nome": "Wine - Harrow Estates, Vidal",
+        "preco": 16.36,
+        "quantidade": 48,
+        "idVendedor": 6
+    },
+    {
+        "id": "f5295621-8816-48d8-8840-7637db8f7db8",
+        "nome": "Cake - Lemon Chiffon",
+        "preco": 75.43,
+        "quantidade": 28,
+        "idVendedor": 13
+    },
+    {
+        "id": "1b4ece72-70af-49a1-aa3a-cd8d39dd16ea",
+        "nome": "Yoghurt Tubes",
+        "preco": 96.69,
+        "quantidade": 9,
+        "idVendedor": 3
+    },
+    {
+        "id": "478115c0-3f49-4d85-be08-9041a59afb9e",
+        "nome": "Wine - Red, Cabernet Sauvignon",
+        "preco": 74.41,
+        "quantidade": 58,
+        "idVendedor": 11
+    },
+    {
+        "id": "d7d07951-b8b2-4e23-9739-ef4e90d0ee51",
+        "nome": "Yokaline",
+        "preco": 11.1,
+        "quantidade": 8,
+        "idVendedor": 2
+    },
+    {
+        "id": "8bba78a7-6da0-422e-b1a4-fe47855cdbfb",
+        "nome": "Extract - Rum",
+        "preco": 75.17,
+        "quantidade": 22,
+        "idVendedor": 9
+    },
+    {
+        "id": "243efd35-66e1-4aac-b99e-200960f1ecbe",
+        "nome": "Beef - Bones, Marrow",
+        "preco": 15.01,
+        "quantidade": 99,
+        "idVendedor": 14
+    },
+    {
+        "id": "22e774cb-5da1-4805-b409-63015612c732",
+        "nome": "Canadian Emmenthal",
+        "preco": 42.63,
+        "quantidade": 16,
+        "idVendedor": 13
+    },
+    {
+        "id": "a2fa74c0-6015-4e2a-a33f-c472dece3524",
+        "nome": "Muffin Mix - Blueberry",
+        "preco": 80.19,
+        "quantidade": 57,
+        "idVendedor": 4
+    },
+    {
+        "id": "51e5d6c0-418a-4852-af43-76491aae5d4d",
+        "nome": "Mushroom Morel Fresh",
+        "preco": 98.18,
+        "quantidade": 98,
+        "idVendedor": 4
+    },
+    {
+        "id": "28f42fbf-b63f-47d6-9e3f-f8a9d38395fb",
+        "nome": "Nut - Walnut, Pieces",
+        "preco": 94.97,
+        "quantidade": 40,
+        "idVendedor": 17
+    },
+    {
+        "id": "c248997c-5c53-4659-be8c-f0275141103a",
+        "nome": "Bread - Raisin",
+        "preco": 1.0,
+        "quantidade": 87,
+        "idVendedor": 9
+    },
+    {
+        "id": "19434fd1-d24f-44a0-a6ab-c3bc25af7fb4",
+        "nome": "Beer - Molson Excel",
+        "preco": 95.15,
+        "quantidade": 13,
+        "idVendedor": 7
+    },
+    {
+        "id": "5d589370-67e1-4fdd-8339-d2f4d0ccc54f",
+        "nome": "Soup - French Onion, Dry",
+        "preco": 6.2,
+        "quantidade": 81,
+        "idVendedor": 20
+    },
+    {
+        "id": "c64d8982-234a-4ac8-aa01-f357248ec9ee",
+        "nome": "Lobster - Cooked",
+        "preco": 74.76,
+        "quantidade": 60,
+        "idVendedor": 7
+    },
+    {
+        "id": "ed938709-42d6-4e6b-a67d-b58b339e1b3b",
+        "nome": "Flounder - Fresh",
+        "preco": 72.46,
+        "quantidade": 1,
+        "idVendedor": 18
+    },
+    {
+        "id": "7cbeff3e-543a-4197-a0a9-34c8d078144d",
+        "nome": "Beef - Inside Round",
+        "preco": 64.81,
+        "quantidade": 50,
+        "idVendedor": 18
+    },
+    {
+        "id": "818e8a68-b8c5-41ad-9926-2138c2d096b5",
+        "nome": "Bread Fig And Almond",
+        "preco": 57.11,
+        "quantidade": 24,
+        "idVendedor": 20
+    },
+    {
+        "id": "2a574220-d14f-4a0d-b164-55de3e3af36a",
+        "nome": "Muffin - Blueberry Individual",
+        "preco": 58.51,
+        "quantidade": 35,
+        "idVendedor": 15
+    },
+    {
+        "id": "6cd30094-3875-4a29-8c87-b83b8c8160f0",
+        "nome": "Sunflower Seed Raw",
+        "preco": 91.02,
+        "quantidade": 87,
+        "idVendedor": 15
+    },
+    {
+        "id": "383d818e-4698-4ffb-8276-a509ddf1cbba",
+        "nome": "Chick Peas - Dried",
+        "preco": 7.15,
+        "quantidade": 25,
+        "idVendedor": 19
+    },
+    {
+        "id": "bea87cdb-8e24-47f3-848b-bddd6f91e22a",
+        "nome": "Sobe - Orange Carrot",
+        "preco": 49.57,
+        "quantidade": 71,
+        "idVendedor": 20
+    },
+    {
+        "id": "846b7ae7-7f22-4c5b-a573-d4f5424029fd",
+        "nome": "Veal - Ground",
+        "preco": 12.17,
+        "quantidade": 78,
+        "idVendedor": 12
+    },
+    {
+        "id": "81cfa7ea-e7d5-4c97-bba4-90c7c1849809",
+        "nome": "Apple - Granny Smith",
+        "preco": 14.16,
+        "quantidade": 56,
+        "idVendedor": 14
+    },
+    {
+        "id": "39922bc9-4ae8-4829-92e0-25e3273355f0",
+        "nome": "Ham - Cooked Italian",
+        "preco": 42.4,
+        "quantidade": 74,
+        "idVendedor": 3
+    },
+    {
+        "id": "85bd4703-2f9f-4625-94ff-5b9c9eb25cde",
+        "nome": "Ecolab - Ster Bac",
+        "preco": 69.55,
+        "quantidade": 23,
+        "idVendedor": 8
+    },
+    {
+        "id": "702cbf73-aa7c-40fb-bf9f-b0e4adf15160",
+        "nome": "Jolt Cola",
+        "preco": 29.3,
+        "quantidade": 20,
+        "idVendedor": 4
+    },
+    {
+        "id": "f4b3bd5c-5bfc-494a-833c-29a87ec3f9dd",
+        "nome": "Soup - Knorr, French Onion",
+        "preco": 65.07,
+        "quantidade": 50,
+        "idVendedor": 18
+    },
+    {
+        "id": "8b8c601a-b705-4029-a216-cfa92ea7423f",
+        "nome": "Bar Mix - Lemon",
+        "preco": 3.45,
+        "quantidade": 4,
+        "idVendedor": 20
+    },
+    {
+        "id": "644ddaeb-9a71-4dce-81bc-6c65354d6258",
+        "nome": "Cheese - Brie, Triple Creme",
+        "preco": 30.76,
+        "quantidade": 44,
+        "idVendedor": 19
+    },
+    {
+        "id": "0ec3efa4-daf0-4b7b-92df-054cde262de0",
+        "nome": "Ice Cream - Turtles Stick Bar",
+        "preco": 51.26,
+        "quantidade": 79,
+        "idVendedor": 13
+    },
+    {
+        "id": "cb7a5d2c-4b1c-4b9e-b6f2-097b8f66934c",
+        "nome": "Oil - Pumpkinseed",
+        "preco": 16.09,
+        "quantidade": 58,
+        "idVendedor": 16
+    },
+    {
+        "id": "1393062b-13b2-4430-9d62-8a7dc2345cb4",
+        "nome": "Sea Bass - Whole",
+        "preco": 61.27,
+        "quantidade": 63,
+        "idVendedor": 10
+    },
+    {
+        "id": "71ae1178-c2bb-4d2b-83bf-e6f215a04a17",
+        "nome": "Silicone Paper 16.5x24",
+        "preco": 39.49,
+        "quantidade": 24,
+        "idVendedor": 20
+    },
+    {
+        "id": "75847c1b-5ea6-427b-aac9-8f1d5f80fc2d",
+        "nome": "Cucumber - English",
+        "preco": 61.0,
+        "quantidade": 45,
+        "idVendedor": 18
+    },
+    {
+        "id": "13f0f33a-ccbd-4b58-b6ae-85fda5db0787",
+        "nome": "Milk - Chocolate 500ml",
+        "preco": 16.35,
+        "quantidade": 85,
+        "idVendedor": 7
+    },
+    {
+        "id": "ee5b9cf2-2f3f-4da0-a1f5-1ad6eb7c35bc",
+        "nome": "Bread - 10 Grain Parisian",
+        "preco": 61.39,
+        "quantidade": 86,
+        "idVendedor": 1
+    },
+    {
+        "id": "1d7d2abb-0563-42b4-bad1-2169856ac65a",
+        "nome": "Wine - White, Antinore Orvieto",
+        "preco": 31.94,
+        "quantidade": 77,
+        "idVendedor": 13
+    },
+    {
+        "id": "4db89d44-ccc7-46a1-821b-e739265788e1",
+        "nome": "Tuna - Sushi Grade",
+        "preco": 19.24,
+        "quantidade": 81,
+        "idVendedor": 9
+    },
+    {
+        "id": "e6389528-d3bd-4869-94f2-265db09a6e95",
+        "nome": "Wine - Magnotta - Cab Franc",
+        "preco": 31.3,
+        "quantidade": 95,
+        "idVendedor": 13
+    },
+    {
+        "id": "18f8c185-5086-40e1-9924-8c8fa8a93d4a",
+        "nome": "Cheese - Colby",
+        "preco": 90.81,
+        "quantidade": 25,
+        "idVendedor": 9
+    },
+    {
+        "id": "91215bff-c464-4748-9fa1-a88ac5186d09",
+        "nome": "Kellogs Special K Cereal",
+        "preco": 33.68,
+        "quantidade": 45,
+        "idVendedor": 8
+    },
+    {
+        "id": "14daa5ae-1f8f-4aec-be69-6114f20d4de1",
+        "nome": "Yeast Dry - Fermipan",
+        "preco": 45.33,
+        "quantidade": 17,
+        "idVendedor": 10
+    },
+    {
+        "id": "c833c36b-31b6-44fc-894c-12722ed649b1",
+        "nome": "Muffin Hinge 117n",
+        "preco": 47.95,
+        "quantidade": 89,
+        "idVendedor": 14
+    },
+    {
+        "id": "21a49165-5cb9-443e-bcdc-b6d927b1efdf",
+        "nome": "Gherkin",
+        "preco": 53.37,
+        "quantidade": 46,
+        "idVendedor": 1
+    },
+    {
+        "id": "8fe616e0-383f-4825-9444-ed28f43b4118",
+        "nome": "Bar Mix - Lemon",
+        "preco": 34.69,
+        "quantidade": 23,
+        "idVendedor": 18
+    },
+    {
+        "id": "bd586885-345f-485a-b5d6-41b2dd344519",
+        "nome": "Mayonnaise - Individual Pkg",
+        "preco": 73.92,
+        "quantidade": 44,
+        "idVendedor": 15
+    },
+    {
+        "id": "35e02515-3b52-4bd3-8899-6243c62b700d",
+        "nome": "Trout Rainbow Whole",
+        "preco": 36.32,
+        "quantidade": 77,
+        "idVendedor": 19
+    },
+    {
+        "id": "2c0c997a-6398-41e5-b75e-553f0f8221ec",
+        "nome": "Wine - Pinot Noir Latour",
+        "preco": 39.34,
+        "quantidade": 20,
+        "idVendedor": 18
+    },
+    {
+        "id": "8ef66b98-ede1-46b9-808f-a33572405db7",
+        "nome": "The Pop Shoppe - Cream Soda",
+        "preco": 35.66,
+        "quantidade": 67,
+        "idVendedor": 13
+    },
+    {
+        "id": "6085e755-135f-44a2-a78d-4b16d6a859bb",
+        "nome": "Veal - Heart",
+        "preco": 81.81,
+        "quantidade": 1,
+        "idVendedor": 1
+    },
+    {
+        "id": "e32a8e4b-ba7f-47aa-af8c-cda13f5806c7",
+        "nome": "Bread - Rye",
+        "preco": 50.51,
+        "quantidade": 29,
+        "idVendedor": 13
+    },
+    {
+        "id": "e4f0b03f-18db-4406-8c80-5b6a476395bf",
+        "nome": "Olives - Black, Pitted",
+        "preco": 16.35,
+        "quantidade": 69,
+        "idVendedor": 8
+    },
+    {
+        "id": "57df0958-b2d3-4ed5-8320-e4888746e707",
+        "nome": "Wine - Muscadet Sur Lie",
+        "preco": 21.68,
+        "quantidade": 73,
+        "idVendedor": 8
+    },
+    {
+        "id": "4a588e00-27fd-4dce-910d-c5d8e6c81b7e",
+        "nome": "Bread - Italian Sesame Poly",
+        "preco": 60.55,
+        "quantidade": 68,
+        "idVendedor": 10
+    },
+    {
+        "id": "7fd21611-fab7-4e24-b2e0-21f6be81fb4d",
+        "nome": "Crush - Cream Soda",
+        "preco": 38.04,
+        "quantidade": 37,
+        "idVendedor": 3
+    },
+    {
+        "id": "390ae2c1-ab2c-45ab-b827-881a2feed7c4",
+        "nome": "Lamb - Whole Head Off",
+        "preco": 12.05,
+        "quantidade": 37,
+        "idVendedor": 19
+    },
+    {
+        "id": "683b1579-3764-4907-8ae1-bdbfca0dacc8",
+        "nome": "Table Cloth 53x53 White",
+        "preco": 36.11,
+        "quantidade": 53,
+        "idVendedor": 13
+    },
+    {
+        "id": "4edfef6c-1d1a-4b16-ad94-bfafca66d3fb",
+        "nome": "Flour - Cake",
+        "preco": 37.02,
+        "quantidade": 79,
+        "idVendedor": 5
+    },
+    {
+        "id": "9a4c8e3b-d0d1-4265-a56f-442f65b9c896",
+        "nome": "Veal - Inside, Choice",
+        "preco": 68.25,
+        "quantidade": 63,
+        "idVendedor": 20
+    },
+    {
+        "id": "c63ac635-a0a5-46e2-9ae7-ca5b16cb6a5b",
+        "nome": "Sobe - Liz Blizz",
+        "preco": 90.13,
+        "quantidade": 27,
+        "idVendedor": 6
+    },
+    {
+        "id": "8bcd2d0b-126f-430c-8332-84fe976ef56a",
+        "nome": "Oil - Sunflower",
+        "preco": 58.44,
+        "quantidade": 20,
+        "idVendedor": 5
+    },
+    {
+        "id": "3ca1c408-791f-4634-b8e8-2db1f83b2f72",
+        "nome": "Mousse - Mango",
+        "preco": 26.62,
+        "quantidade": 44,
+        "idVendedor": 9
+    },
+    {
+        "id": "25b6ea99-dae5-447b-b2d7-520f8fde5fef",
+        "nome": "Wine - Merlot Vina Carmen",
+        "preco": 44.34,
+        "quantidade": 72,
+        "idVendedor": 6
+    },
+    {
+        "id": "e540e8b9-3e83-4a55-bfa3-f515dba05a2a",
+        "nome": "Wine - Rosso Del Veronese Igt",
+        "preco": 26.63,
+        "quantidade": 55,
+        "idVendedor": 13
+    },
+    {
+        "id": "166acaff-c374-46b8-89f8-08e0d23aad0f",
+        "nome": "Salmon - Atlantic, Fresh, Whole",
+        "preco": 99.2,
+        "quantidade": 68,
+        "idVendedor": 6
+    },
+    {
+        "id": "543e03a6-010a-4ae4-b711-605f77c976c4",
+        "nome": "Yeast - Fresh, Fleischman",
+        "preco": 24.09,
+        "quantidade": 80,
+        "idVendedor": 12
+    },
+    {
+        "id": "3c96df42-c38d-4cae-9a6b-fd71d2a8abab",
+        "nome": "Maintenance Removal Charge",
+        "preco": 32.12,
+        "quantidade": 44,
+        "idVendedor": 13
+    },
+    {
+        "id": "d88059cd-9831-4925-bf2b-68a2bc18f84d",
+        "nome": "Cup - 6oz, Foam",
+        "preco": 59.15,
+        "quantidade": 100,
+        "idVendedor": 3
+    },
+    {
+        "id": "7272a26f-d4c6-4b71-8a33-5e4ca046b0e6",
+        "nome": "Soup - Campbells, Cream Of",
+        "preco": 78.25,
+        "quantidade": 99,
+        "idVendedor": 14
+    },
+    {
+        "id": "c7fd642c-834b-4b48-a14b-d60b143d23a6",
+        "nome": "Wine - Guy Sage Touraine",
+        "preco": 23.53,
+        "quantidade": 60,
+        "idVendedor": 3
+    },
+    {
+        "id": "63d19a32-aafb-4a39-bd02-6e3eccf7dd42",
+        "nome": "Bread - Rolls, Rye",
+        "preco": 91.78,
+        "quantidade": 32,
+        "idVendedor": 16
+    },
+    {
+        "id": "4d2cd5b9-695a-482f-8f4e-753c01d8415a",
+        "nome": "Muffin Batt - Choc Chk",
+        "preco": 47.02,
+        "quantidade": 90,
+        "idVendedor": 9
+    },
+    {
+        "id": "09d87e4d-f568-4ebb-b21e-c9a2a73ed39b",
+        "nome": "Asparagus - White, Fresh",
+        "preco": 57.19,
+        "quantidade": 7,
+        "idVendedor": 18
+    },
+    {
+        "id": "ce55c696-6566-4b2b-aba6-b09a009896c6",
+        "nome": "Cookie Trail Mix",
+        "preco": 51.65,
+        "quantidade": 60,
+        "idVendedor": 8
+    },
+    {
+        "id": "e4850db0-992f-4eb8-84fb-da2fac6c6bf7",
+        "nome": "Squash - Pepper",
+        "preco": 73.02,
+        "quantidade": 16,
+        "idVendedor": 4
+    },
+    {
+        "id": "4917e1ce-ddaa-49a2-9537-db5047b043ac",
+        "nome": "Paste - Black Olive",
+        "preco": 93.43,
+        "quantidade": 4,
+        "idVendedor": 16
+    },
+    {
+        "id": "32e66cf7-4a94-47e8-9cb5-fcb2619de3b6",
+        "nome": "Appetizer - Shrimp Puff",
+        "preco": 53.86,
+        "quantidade": 91,
+        "idVendedor": 4
+    },
+    {
+        "id": "b548bfc1-977d-493b-aabe-c8244f2f5bbd",
+        "nome": "Beef - Tenderloin - Aa",
+        "preco": 97.48,
+        "quantidade": 85,
+        "idVendedor": 14
+    },
+    {
+        "id": "03c1e659-1889-4105-9132-de029802ce7f",
+        "nome": "Bandage - Fexible 1x3",
+        "preco": 50.5,
+        "quantidade": 93,
+        "idVendedor": 7
+    },
+    {
+        "id": "521cfda5-4e3c-4d83-a123-fbb306ea56b7",
+        "nome": "Oil - Olive",
+        "preco": 30.04,
+        "quantidade": 83,
+        "idVendedor": 5
+    },
+    {
+        "id": "e813fa47-89bc-431f-9ee3-09f7caaf0f6f",
+        "nome": "Cream - 18%",
+        "preco": 83.61,
+        "quantidade": 42,
+        "idVendedor": 10
+    },
+    {
+        "id": "537e62d1-f988-4342-a25e-123475f17f21",
+        "nome": "Crab - Meat Combo",
+        "preco": 41.71,
+        "quantidade": 37,
+        "idVendedor": 8
+    },
+    {
+        "id": "01445fa8-30f6-4026-aedc-e70e814c7d39",
+        "nome": "Curry Powder Madras",
+        "preco": 45.28,
+        "quantidade": 37,
+        "idVendedor": 19
+    },
+    {
+        "id": "01e2d808-79dd-4edb-a6f2-28479625c432",
+        "nome": "Apricots - Halves",
+        "preco": 32.97,
+        "quantidade": 37,
+        "idVendedor": 16
+    },
+    {
+        "id": "bee2b8c3-a4bb-402d-b7d3-4737cde871fe",
+        "nome": "Passion Fruit",
+        "preco": 95.95,
+        "quantidade": 19,
+        "idVendedor": 1
+    },
+    {
+        "id": "a1909fd6-2200-4650-99f8-db93267b2d8d",
+        "nome": "Filter - Coffee",
+        "preco": 94.65,
+        "quantidade": 1,
+        "idVendedor": 15
+    },
+    {
+        "id": "e87e52b3-48b8-4620-84ad-be71b38df25d",
+        "nome": "Energy Drink - Franks Pineapple",
+        "preco": 59.24,
+        "quantidade": 2,
+        "idVendedor": 1
+    },
+    {
+        "id": "2d34dd82-cb33-449b-8c43-207a8a7e5e57",
+        "nome": "Lamb - Whole, Frozen",
+        "preco": 59.97,
+        "quantidade": 50,
+        "idVendedor": 9
+    },
+    {
+        "id": "826d9dc9-8ef4-41f0-b924-3f05283b6390",
+        "nome": "Milk Powder",
+        "preco": 90.22,
+        "quantidade": 87,
+        "idVendedor": 18
+    },
+    {
+        "id": "2d55057d-e724-4122-9352-e75d3da87f92",
+        "nome": "Tea - Vanilla Chai",
+        "preco": 20.61,
+        "quantidade": 97,
+        "idVendedor": 15
+    },
+    {
+        "id": "31008297-42cf-47f5-bed6-e1efb2dec527",
+        "nome": "Pasta - Fett Alfredo, Single Serve",
+        "preco": 49.77,
+        "quantidade": 70,
+        "idVendedor": 7
+    },
+    {
+        "id": "3209f65d-1aa0-45c3-9212-d207d2a56077",
+        "nome": "Soup Campbells",
+        "preco": 73.45,
+        "quantidade": 57,
+        "idVendedor": 19
+    },
+    {
+        "id": "835ca4f9-1e8f-4d49-af49-6871e282adf4",
+        "nome": "Onions - Pearl",
+        "preco": 32.93,
+        "quantidade": 22,
+        "idVendedor": 9
+    },
+    {
+        "id": "18b0aa75-2939-4bbb-8687-1ca39788507b",
+        "nome": "Chicken - Whole Fryers",
+        "preco": 25.92,
+        "quantidade": 15,
+        "idVendedor": 19
+    },
+    {
+        "id": "da7c42f9-73e3-42e8-a7bd-6307a7ee07a6",
+        "nome": "Gatorade - Lemon Lime",
+        "preco": 89.14,
+        "quantidade": 82,
+        "idVendedor": 4
+    },
+    {
+        "id": "b711aa9c-c807-44c3-a04c-9b6aa78128ea",
+        "nome": "C - Plus, Orange",
+        "preco": 47.77,
+        "quantidade": 55,
+        "idVendedor": 5
+    },
+    {
+        "id": "d014b814-112b-4010-a81a-d161065a6d7c",
+        "nome": "Beans - Green",
+        "preco": 55.21,
+        "quantidade": 98,
+        "idVendedor": 20
+    },
+    {
+        "id": "8228f8b1-87c5-4c86-afb2-f93228dbebe1",
+        "nome": "Cake - Miini Cheesecake Cherry",
+        "preco": 21.39,
+        "quantidade": 90,
+        "idVendedor": 8
+    },
+    {
+        "id": "3ae2dcd6-24b4-45b9-96aa-31eaee047616",
+        "nome": "Pineapple - Regular",
+        "preco": 26.17,
+        "quantidade": 53,
+        "idVendedor": 9
+    },
+    {
+        "id": "c87fd52d-2cfd-4d75-b035-eece84704fa4",
+        "nome": "Sole - Iqf",
+        "preco": 38.2,
+        "quantidade": 44,
+        "idVendedor": 8
+    },
+    {
+        "id": "f34e375a-be1f-4451-ba25-4467a4d7c751",
+        "nome": "Pie Filling - Pumpkin",
+        "preco": 52.11,
+        "quantidade": 98,
+        "idVendedor": 20
+    },
+    {
+        "id": "652004c3-ab4d-42cd-a7d3-00aff66ebf59",
+        "nome": "Lamb - Whole Head Off,nz",
+        "preco": 24.32,
+        "quantidade": 36,
+        "idVendedor": 8
+    },
+    {
+        "id": "61830c7c-7d7f-429e-ba0c-d44599cb07f5",
+        "nome": "Cassis",
+        "preco": 62.88,
+        "quantidade": 39,
+        "idVendedor": 17
+    },
+    {
+        "id": "d8c91a62-f256-45eb-9a02-71277c6a796d",
+        "nome": "Salt And Pepper Mix - Black",
+        "preco": 11.43,
+        "quantidade": 63,
+        "idVendedor": 12
+    },
+    {
+        "id": "d6d2ab73-4853-4e0c-9e29-b73f1b907bc1",
+        "nome": "Eel Fresh",
+        "preco": 21.47,
+        "quantidade": 29,
+        "idVendedor": 10
+    },
+    {
+        "id": "de3bce48-d77d-4a4f-9fe4-6e0eece2b7c0",
+        "nome": "Bananas",
+        "preco": 94.12,
+        "quantidade": 1,
+        "idVendedor": 6
+    },
+    {
+        "id": "f0ea2191-076e-4079-b8af-5bbffbfa721e",
+        "nome": "Anchovy Paste - 56 G Tube",
+        "preco": 37.46,
+        "quantidade": 73,
+        "idVendedor": 12
+    },
+    {
+        "id": "ec109166-1c82-48e0-b112-246ecc014421",
+        "nome": "Potatoes - Yukon Gold, 80 Ct",
+        "preco": 74.76,
+        "quantidade": 86,
+        "idVendedor": 16
+    },
+    {
+        "id": "43d571fc-1d36-498f-bb50-ed4d0d4a9ede",
+        "nome": "Artichokes - Jerusalem",
+        "preco": 55.68,
+        "quantidade": 95,
+        "idVendedor": 13
+    },
+    {
+        "id": "1d6b53eb-8d27-47a3-ad71-5bbb8977f4cf",
+        "nome": "Jicama",
+        "preco": 33.74,
+        "quantidade": 37,
+        "idVendedor": 4
+    },
+    {
+        "id": "51f49d93-6b9d-4127-82c3-f1af7cd5b8cc",
+        "nome": "Sambuca - Opal Nera",
+        "preco": 77.26,
+        "quantidade": 89,
+        "idVendedor": 20
+    },
+    {
+        "id": "d3e711d0-0e0f-4f18-84c9-2efce5a04c0c",
+        "nome": "Beef - Ground Lean Fresh",
+        "preco": 34.82,
+        "quantidade": 76,
+        "idVendedor": 15
+    },
+    {
+        "id": "d473314a-f04a-47b2-a8c7-f6a83fd4334d",
+        "nome": "Pastry - Choclate Baked",
+        "preco": 57.55,
+        "quantidade": 39,
+        "idVendedor": 2
+    },
+    {
+        "id": "73e6510c-9e2c-460f-ab83-e89dc409c6ff",
+        "nome": "Magnotta Bel Paese Red",
+        "preco": 86.16,
+        "quantidade": 63,
+        "idVendedor": 15
+    },
+    {
+        "id": "237ed701-ace6-4e5f-a53f-3ab2cf853b94",
+        "nome": "Beer - Molson Excel",
+        "preco": 27.12,
+        "quantidade": 75,
+        "idVendedor": 4
+    },
+    {
+        "id": "e1dfe5e5-76d2-4652-b240-0cf28725b476",
+        "nome": "Orange Roughy 6/8 Oz",
+        "preco": 46.1,
+        "quantidade": 48,
+        "idVendedor": 13
+    },
+    {
+        "id": "38d0cd0f-c96c-44b1-b79d-d658f0091ad4",
+        "nome": "Sauce - Oyster",
+        "preco": 81.13,
+        "quantidade": 39,
+        "idVendedor": 4
+    },
+    {
+        "id": "8afa6cf5-accc-4f12-95cc-68f0df3faff6",
+        "nome": "Salmon Atl.whole 8 - 10 Lb",
+        "preco": 8.05,
+        "quantidade": 84,
+        "idVendedor": 2
+    },
+    {
+        "id": "f5b3b837-c3cf-4904-b63d-93714dff70a5",
+        "nome": "Scrubbie - Scotchbrite Hand Pad",
+        "preco": 19.02,
+        "quantidade": 91,
+        "idVendedor": 3
+    },
+    {
+        "id": "fdf6f3b4-1266-4462-a8ec-c30f9f5760c1",
+        "nome": "Wine - Stoneliegh Sauvignon",
+        "preco": 37.98,
+        "quantidade": 57,
+        "idVendedor": 15
+    },
+    {
+        "id": "7823e943-ae04-4873-90cf-eff1a2a6c58b",
+        "nome": "Wine - Carmenere Casillero Del",
+        "preco": 79.59,
+        "quantidade": 81,
+        "idVendedor": 20
+    },
+    {
+        "id": "39512caf-129a-45e3-90ef-72fcb220e8a2",
+        "nome": "Ostrich - Prime Cut",
+        "preco": 60.33,
+        "quantidade": 34,
+        "idVendedor": 16
+    },
+    {
+        "id": "a06d8d07-1594-4056-bdaa-7c710b729f67",
+        "nome": "Beef - Rib Roast, Capless",
+        "preco": 10.49,
+        "quantidade": 92,
+        "idVendedor": 3
+    },
+    {
+        "id": "e2c86f0f-d090-4b52-a11b-47e929a88aad",
+        "nome": "Bread - Raisin Walnut Oval",
+        "preco": 75.26,
+        "quantidade": 42,
+        "idVendedor": 6
+    },
+    {
+        "id": "af25040e-a08a-4381-8522-6d3b40df6421",
+        "nome": "Truffle Cups - Brown",
+        "preco": 72.69,
+        "quantidade": 27,
+        "idVendedor": 4
+    },
+    {
+        "id": "dd92e300-cc5a-4d85-9791-39e4f3462a3d",
+        "nome": "Container - Hngd Cll Blk 7x7x3",
+        "preco": 96.24,
+        "quantidade": 4,
+        "idVendedor": 13
+    },
+    {
+        "id": "6a55b03f-35aa-44ad-b73f-2dfcb1c5e313",
+        "nome": "Buffalo - Short Rib Fresh",
+        "preco": 54.43,
+        "quantidade": 71,
+        "idVendedor": 1
+    },
+    {
+        "id": "0849021b-4fd4-491f-ac8b-14b4afd5a457",
+        "nome": "Ice Cream Bar - Hagen Daz",
+        "preco": 50.23,
+        "quantidade": 80,
+        "idVendedor": 12
+    },
+    {
+        "id": "2138a866-e2ba-4be1-aaed-e4c73e2a7763",
+        "nome": "Steam Pan Full Lid",
+        "preco": 60.69,
+        "quantidade": 4,
+        "idVendedor": 9
+    },
+    {
+        "id": "74548973-0968-46da-83fc-c9b88586d42f",
+        "nome": "Fond - Chocolate",
+        "preco": 23.81,
+        "quantidade": 19,
+        "idVendedor": 4
+    },
+    {
+        "id": "adf4525e-820f-4458-b90e-b26787a8695f",
+        "nome": "Juice - Ocean Spray Kiwi",
+        "preco": 71.09,
+        "quantidade": 34,
+        "idVendedor": 14
+    },
+    {
+        "id": "5d10cce5-36a1-4151-83c1-5ef8cb08f057",
+        "nome": "Cheese - Stilton",
+        "preco": 89.72,
+        "quantidade": 16,
+        "idVendedor": 13
+    },
+    {
+        "id": "1f4896a0-3060-49a1-ba0c-1fb693d92640",
+        "nome": "Cheese - Manchego, Spanish",
+        "preco": 10.26,
+        "quantidade": 84,
+        "idVendedor": 15
+    },
+    {
+        "id": "d7714346-2773-4c67-8a03-11854affc6ce",
+        "nome": "Chocolate Liqueur - Godet White",
+        "preco": 49.62,
+        "quantidade": 20,
+        "idVendedor": 10
+    },
+    {
+        "id": "a8104db3-9346-4867-8542-b32d6eb70bd8",
+        "nome": "Carbonated Water - Strawberry",
+        "preco": 64.17,
+        "quantidade": 19,
+        "idVendedor": 19
+    },
+    {
+        "id": "b7e256fd-c69a-4a03-9bdf-b037eb0ab197",
+        "nome": "Energy Drink - Franks Pineapple",
+        "preco": 3.14,
+        "quantidade": 31,
+        "idVendedor": 7
+    },
+    {
+        "id": "a9654c56-a359-4dc8-907e-5bacc9ccfeba",
+        "nome": "Cheese - Brick With Pepper",
+        "preco": 65.3,
+        "quantidade": 23,
+        "idVendedor": 15
+    },
+    {
+        "id": "9cf9f183-cee0-49f0-8c05-6553f672e39f",
+        "nome": "Wine - Vouvray Cuvee Domaine",
+        "preco": 98.61,
+        "quantidade": 40,
+        "idVendedor": 3
+    },
+    {
+        "id": "2aab2f6e-2737-4bf5-a6d7-f56681bc0991",
+        "nome": "Wine - Red, Colio Cabernet",
+        "preco": 30.41,
+        "quantidade": 46,
+        "idVendedor": 18
+    },
+    {
+        "id": "6a030ff9-7adf-42f7-8e1e-ba8b68a52659",
+        "nome": "Pepper - Yellow Bell",
+        "preco": 1.89,
+        "quantidade": 34,
+        "idVendedor": 14
+    },
+    {
+        "id": "6dd7e3be-e364-4302-b7cc-208943159e4d",
+        "nome": "Wine - Puligny Montrachet A.",
+        "preco": 9.85,
+        "quantidade": 85,
+        "idVendedor": 1
+    },
+    {
+        "id": "398b7809-a758-4f69-8a94-00712a148124",
+        "nome": "Honey - Comb",
+        "preco": 23.17,
+        "quantidade": 47,
+        "idVendedor": 17
+    },
+    {
+        "id": "7bed1a3e-dbf6-45cb-ad66-808cf7b65747",
+        "nome": "Skirt - 29 Foot",
+        "preco": 21.14,
+        "quantidade": 58,
+        "idVendedor": 15
+    },
+    {
+        "id": "4ce5b963-9613-450d-9057-be5463c76002",
+        "nome": "Amaretto",
+        "preco": 84.77,
+        "quantidade": 58,
+        "idVendedor": 4
+    },
+    {
+        "id": "6a7ac632-8190-4176-a017-88ff4a59e7e3",
+        "nome": "Creme De Banane - Marie",
+        "preco": 59.5,
+        "quantidade": 79,
+        "idVendedor": 14
+    },
+    {
+        "id": "9d1c4a3a-fad3-40f6-bc5d-87349d912459",
+        "nome": "Apple - Macintosh",
+        "preco": 95.43,
+        "quantidade": 79,
+        "idVendedor": 18
+    },
+    {
+        "id": "9b1a8c50-5e13-4a42-81d3-12dd6ee8d4a3",
+        "nome": "Tomato Puree",
+        "preco": 98.13,
+        "quantidade": 98,
+        "idVendedor": 10
+    },
+    {
+        "id": "995fbeaf-0a03-4613-a748-e47077226c72",
+        "nome": "Beans - Kidney, Red Dry",
+        "preco": 4.54,
+        "quantidade": 13,
+        "idVendedor": 14
+    },
+    {
+        "id": "83177ce6-de5d-4dc8-b8a9-3bfdfec0b37a",
+        "nome": "Longos - Lasagna Beef",
+        "preco": 25.85,
+        "quantidade": 23,
+        "idVendedor": 2
+    },
+    {
+        "id": "d63ca3e0-0968-48e7-b838-5749d0f099bc",
+        "nome": "Chinese Foods - Chicken Wing",
+        "preco": 55.71,
+        "quantidade": 68,
+        "idVendedor": 3
+    },
+    {
+        "id": "7a4952e0-bf91-43f1-b88b-ee63b14d4b12",
+        "nome": "Sobe - Berry Energy",
+        "preco": 72.99,
+        "quantidade": 66,
+        "idVendedor": 8
+    },
+    {
+        "id": "476314c4-a87b-4ec1-8dfd-94f3de4da7f9",
+        "nome": "Oregano - Fresh",
+        "preco": 73.91,
+        "quantidade": 25,
+        "idVendedor": 10
+    },
+    {
+        "id": "3a497cf1-0929-4020-9385-e5d812d62e9b",
+        "nome": "Rum - Coconut, Malibu",
+        "preco": 95.43,
+        "quantidade": 86,
+        "idVendedor": 20
+    },
+    {
+        "id": "44e9c360-ce70-416a-a361-6d32abab075a",
+        "nome": "Steampan Lid",
+        "preco": 59.37,
+        "quantidade": 92,
+        "idVendedor": 12
+    },
+    {
+        "id": "f063c27d-b82c-4281-a218-13cf8789bd43",
+        "nome": "Bread Fig And Almond",
+        "preco": 50.73,
+        "quantidade": 86,
+        "idVendedor": 7
+    },
+    {
+        "id": "51dec925-2782-4548-b7b0-2438bc0ac1c4",
+        "nome": "Ecolab - Lime - A - Way 4/4 L",
+        "preco": 93.42,
+        "quantidade": 81,
+        "idVendedor": 6
+    },
+    {
+        "id": "6b065c2a-c169-4968-8d5b-82e2355630c4",
+        "nome": "Calvados - Boulard",
+        "preco": 57.91,
+        "quantidade": 80,
+        "idVendedor": 10
+    },
+    {
+        "id": "2c06df52-053d-4dc0-8830-9bac9098de73",
+        "nome": "Pork Casing",
+        "preco": 10.1,
+        "quantidade": 26,
+        "idVendedor": 10
+    },
+    {
+        "id": "8561ea4d-046e-4d00-83f6-54eb1038ffca",
+        "nome": "Table Cloth 62x120 White",
+        "preco": 7.91,
+        "quantidade": 1,
+        "idVendedor": 19
+    },
+    {
+        "id": "66c5f89e-e9df-499f-ba60-c5387459a510",
+        "nome": "Veal Inside - Provimi",
+        "preco": 93.46,
+        "quantidade": 28,
+        "idVendedor": 12
+    },
+    {
+        "id": "1c1f5434-4e5d-48ca-adfe-ab77bca3d367",
+        "nome": "Chocolate - Dark Callets",
+        "preco": 86.55,
+        "quantidade": 72,
+        "idVendedor": 6
+    },
+    {
+        "id": "a2d8db8d-3621-4509-af51-3c4bb3fbd58e",
+        "nome": "Hipnotiq Liquor",
+        "preco": 87.69,
+        "quantidade": 99,
+        "idVendedor": 14
+    },
+    {
+        "id": "c0f1a050-2a62-4c24-be45-d87aaba23548",
+        "nome": "Flour - Pastry",
+        "preco": 41.89,
+        "quantidade": 4,
+        "idVendedor": 8
+    },
+    {
+        "id": "39826691-ffd2-4874-a3aa-daef243ed935",
+        "nome": "Longos - Cheese Tortellini",
+        "preco": 15.12,
+        "quantidade": 82,
+        "idVendedor": 16
+    },
+    {
+        "id": "3a3914dc-cf39-460a-aa53-41efea904cd5",
+        "nome": "Sauce - Bernaise, Mix",
+        "preco": 66.8,
+        "quantidade": 20,
+        "idVendedor": 1
+    },
+    {
+        "id": "38dc0353-ae64-4820-bd2e-885307b92b6f",
+        "nome": "Muffin - Mix - Bran And Maple 15l",
+        "preco": 43.52,
+        "quantidade": 3,
+        "idVendedor": 10
+    },
+    {
+        "id": "df49918e-ea3a-435c-b8f2-93c77908acf9",
+        "nome": "Pepper - Red Thai",
+        "preco": 6.23,
+        "quantidade": 25,
+        "idVendedor": 11
+    },
+    {
+        "id": "8880cd3a-86d3-4679-a6f1-2ffe67846c3f",
+        "nome": "Pepper - Black, Whole",
+        "preco": 66.24,
+        "quantidade": 96,
+        "idVendedor": 6
+    },
+    {
+        "id": "8a93ec5d-f4a4-424a-8419-4f7c127022f0",
+        "nome": "Mini - Vol Au Vents",
+        "preco": 41.84,
+        "quantidade": 72,
+        "idVendedor": 17
+    },
+    {
+        "id": "d124a678-3494-4bb5-9ee2-dfb1dce72233",
+        "nome": "Lambcasing",
+        "preco": 8.56,
+        "quantidade": 58,
+        "idVendedor": 6
+    },
+    {
+        "id": "7df9c37e-ce75-4062-ac6b-dcb4bfa90a0c",
+        "nome": "Cheese - Gouda",
+        "preco": 28.89,
+        "quantidade": 44,
+        "idVendedor": 20
+    },
+    {
+        "id": "28ea9579-caf0-428e-9493-7228f073ea9b",
+        "nome": "Beer - True North Strong Ale",
+        "preco": 56.45,
+        "quantidade": 5,
+        "idVendedor": 12
+    },
+    {
+        "id": "8c55c29e-4e6d-4fa4-a164-9fe7bc86392e",
+        "nome": "Duck - Breast",
+        "preco": 32.61,
+        "quantidade": 78,
+        "idVendedor": 14
+    },
+    {
+        "id": "a8f8956f-7f17-4483-9b3c-00575a80a347",
+        "nome": "Tray - Foam, Square 4 - S",
+        "preco": 54.64,
+        "quantidade": 82,
+        "idVendedor": 14
+    },
+    {
+        "id": "bc1da8b9-1dbb-424f-8560-9975027d5aeb",
+        "nome": "Cheese - Asiago",
+        "preco": 17.74,
+        "quantidade": 22,
+        "idVendedor": 11
+    },
+    {
+        "id": "a8dbcece-a198-4ba1-a09c-c3c2e038bf9f",
+        "nome": "Cake - Lemon Chiffon",
+        "preco": 80.05,
+        "quantidade": 51,
+        "idVendedor": 20
+    },
+    {
+        "id": "b457ab8c-ae14-4959-bdf6-ee61a91eccc1",
+        "nome": "Icecream Cone - Areo Chocolate",
+        "preco": 44.65,
+        "quantidade": 4,
+        "idVendedor": 6
+    },
+    {
+        "id": "ab2c4499-a476-4a6a-8d84-716a13f61708",
+        "nome": "Okra",
+        "preco": 69.71,
+        "quantidade": 12,
+        "idVendedor": 13
+    },
+    {
+        "id": "6db0e85c-f974-43bd-ae99-bd66fd7f74ae",
+        "nome": "Bagel - Ched Chs Presliced",
+        "preco": 54.77,
+        "quantidade": 45,
+        "idVendedor": 8
+    },
+    {
+        "id": "c6c3eed2-9a98-411c-a5eb-5d0608ae361f",
+        "nome": "Crab - Soft Shell",
+        "preco": 5.92,
+        "quantidade": 8,
+        "idVendedor": 8
+    },
+    {
+        "id": "b3a2437e-c2bd-442d-a340-9c4aa013ce9b",
+        "nome": "Sherry - Dry",
+        "preco": 34.42,
+        "quantidade": 43,
+        "idVendedor": 17
+    },
+    {
+        "id": "04df12e6-4868-421f-8504-5f6419413003",
+        "nome": "Juice - Prune",
+        "preco": 61.08,
+        "quantidade": 59,
+        "idVendedor": 14
+    },
+    {
+        "id": "633fea61-4587-4b46-9395-b271852637b4",
+        "nome": "Wine - Ruffino Chianti Classico",
+        "preco": 20.85,
+        "quantidade": 28,
+        "idVendedor": 14
+    },
+    {
+        "id": "4daad2be-391f-4827-b899-7add55e8c232",
+        "nome": "Yogurt - Raspberry, 175 Gr",
+        "preco": 73.96,
+        "quantidade": 72,
+        "idVendedor": 18
+    },
+    {
+        "id": "ccf7596e-31ad-44a5-b838-9dcee1172e1a",
+        "nome": "Nori Sea Weed",
+        "preco": 97.58,
+        "quantidade": 6,
+        "idVendedor": 20
+    },
+    {
+        "id": "f8d9ac48-d5c1-4425-a8dc-7697b76014aa",
+        "nome": "Ham - Virginia",
+        "preco": 83.04,
+        "quantidade": 49,
+        "idVendedor": 7
+    },
+    {
+        "id": "8b1cba08-4f6f-4446-8c79-60b80fd0cd3b",
+        "nome": "Cloves - Whole",
+        "preco": 72.87,
+        "quantidade": 35,
+        "idVendedor": 13
+    },
+    {
+        "id": "6400346f-2194-4435-8698-c36a6197d21f",
+        "nome": "Lamb - Ground",
+        "preco": 17.11,
+        "quantidade": 7,
+        "idVendedor": 6
+    },
+    {
+        "id": "ec094fa4-95a2-4a70-95ea-71cf9b4aed75",
+        "nome": "Tofu - Soft",
+        "preco": 18.25,
+        "quantidade": 34,
+        "idVendedor": 7
+    },
+    {
+        "id": "9581cb88-8daa-460c-bd83-9e27bf51679b",
+        "nome": "Lettuce - Romaine",
+        "preco": 76.7,
+        "quantidade": 98,
+        "idVendedor": 12
+    },
+    {
+        "id": "56d6a238-1753-49e6-a056-fc44c4b5a97f",
+        "nome": "Tuna - Bluefin",
+        "preco": 31.77,
+        "quantidade": 29,
+        "idVendedor": 17
+    },
+    {
+        "id": "5e45b887-ac4d-4602-98d4-2199e4a228d2",
+        "nome": "Tomato - Plum With Basil",
+        "preco": 15.71,
+        "quantidade": 41,
+        "idVendedor": 4
+    },
+    {
+        "id": "9332489a-f0f8-4467-8e82-c65bc5ba03f8",
+        "nome": "Kellogs Special K Cereal",
+        "preco": 36.28,
+        "quantidade": 95,
+        "idVendedor": 6
+    },
+    {
+        "id": "9528ab0e-0915-4297-99c3-0906ea8fac41",
+        "nome": "Thermometer Digital",
+        "preco": 19.54,
+        "quantidade": 32,
+        "idVendedor": 13
+    },
+    {
+        "id": "852b5bf2-e8ee-4f61-acd5-459cbb1131e8",
+        "nome": "Beef - Tenderlion, Center Cut",
+        "preco": 43.64,
+        "quantidade": 75,
+        "idVendedor": 13
+    },
+    {
+        "id": "08ae41d5-78f1-44a0-80af-145f05b50a52",
+        "nome": "Butter Sweet",
+        "preco": 78.8,
+        "quantidade": 18,
+        "idVendedor": 10
+    },
+    {
+        "id": "8c74c42b-395c-4bbf-868c-0878220286fa",
+        "nome": "Placemat - Scallop, White",
+        "preco": 83.55,
+        "quantidade": 44,
+        "idVendedor": 17
+    },
+    {
+        "id": "06ee5af6-4d04-478e-8c1a-3789409b13ed",
+        "nome": "Pear - Asian",
+        "preco": 18.69,
+        "quantidade": 18,
+        "idVendedor": 8
+    },
+    {
+        "id": "9272e197-81e3-4f30-a987-c17c17593574",
+        "nome": "Iced Tea Concentrate",
+        "preco": 33.96,
+        "quantidade": 28,
+        "idVendedor": 2
+    },
+    {
+        "id": "eada89fd-2a38-49d2-b289-7e7a23c16b9e",
+        "nome": "Cheese - Camembert",
+        "preco": 4.11,
+        "quantidade": 91,
+        "idVendedor": 10
+    },
+    {
+        "id": "a6b57da8-3487-4ede-9f41-8b578de2d37d",
+        "nome": "Pepsi - Diet, 355 Ml",
+        "preco": 46.25,
+        "quantidade": 73,
+        "idVendedor": 14
+    },
+    {
+        "id": "73190dbf-0679-438e-bbe2-2134beafbdf3",
+        "nome": "Dr. Pepper - 355ml",
+        "preco": 72.41,
+        "quantidade": 11,
+        "idVendedor": 8
+    },
+    {
+        "id": "0af81a68-5bdb-47c1-b881-85c57c029923",
+        "nome": "Chips Potato Swt Chilli Sour",
+        "preco": 65.39,
+        "quantidade": 67,
+        "idVendedor": 13
+    },
+    {
+        "id": "bcd15414-4425-422d-8404-4de56c2e0dd2",
+        "nome": "Cheese - Blue",
+        "preco": 26.43,
+        "quantidade": 13,
+        "idVendedor": 19
+    },
+    {
+        "id": "f867b0b1-36c7-4126-ba0d-2dd7955dfc16",
+        "nome": "Snapple - Iced Tea Peach",
+        "preco": 93.62,
+        "quantidade": 22,
+        "idVendedor": 1
+    },
+    {
+        "id": "8a237b48-855b-42c3-a329-b8cfe2fa4dff",
+        "nome": "Soup Bowl Clear 8oz92008",
+        "preco": 44.9,
+        "quantidade": 73,
+        "idVendedor": 16
+    },
+    {
+        "id": "a93a4c76-93b0-431a-9d2b-6c45e59f46cb",
+        "nome": "Flour - Fast / Rapid",
+        "preco": 69.65,
+        "quantidade": 8,
+        "idVendedor": 7
+    },
+    {
+        "id": "b6129246-8853-4003-9902-8521eb02a748",
+        "nome": "Initation Crab Meat",
+        "preco": 23.03,
+        "quantidade": 66,
+        "idVendedor": 13
+    },
+    {
+        "id": "ed394a49-646f-4908-9766-17eb4e2f9bba",
+        "nome": "Cheese - Le Cheve Noir",
+        "preco": 54.99,
+        "quantidade": 85,
+        "idVendedor": 13
+    },
+    {
+        "id": "375ae506-5c18-4561-8eb8-4691d0fe0c38",
+        "nome": "Liners - Baking Cups",
+        "preco": 31.27,
+        "quantidade": 4,
+        "idVendedor": 12
+    },
+    {
+        "id": "0d49c71e-1633-4f61-ab67-7e8127d54e2d",
+        "nome": "Cookie Dough - Peanut Butter",
+        "preco": 40.58,
+        "quantidade": 30,
+        "idVendedor": 18
+    },
+    {
+        "id": "cc211da9-c3f0-40d9-9510-78135cccec23",
+        "nome": "Table Cloth 120 Round White",
+        "preco": 44.82,
+        "quantidade": 42,
+        "idVendedor": 15
+    },
+    {
+        "id": "ae8a4b8e-0d13-4a43-a059-76c73c76422a",
+        "nome": "Juice - Cranberry 284ml",
+        "preco": 72.16,
+        "quantidade": 99,
+        "idVendedor": 5
+    },
+    {
+        "id": "82e33db2-af44-48b3-ae63-912e47fb2ca5",
+        "nome": "Glaze - Apricot",
+        "preco": 62.12,
+        "quantidade": 32,
+        "idVendedor": 3
+    },
+    {
+        "id": "77333288-77a6-4b78-b515-e3aba7a89e35",
+        "nome": "Chocolate - Milk",
+        "preco": 77.28,
+        "quantidade": 39,
+        "idVendedor": 5
+    },
+    {
+        "id": "a0a84263-69fa-4464-8de2-6419c9fc578c",
+        "nome": "Lychee",
+        "preco": 50.92,
+        "quantidade": 56,
+        "idVendedor": 1
+    },
+    {
+        "id": "393ce0d4-3f3a-4df8-9fb4-dc8e189f483c",
+        "nome": "Nestea - Iced Tea",
+        "preco": 11.42,
+        "quantidade": 89,
+        "idVendedor": 2
+    },
+    {
+        "id": "f07a69ce-e495-4f0e-acc2-a8fdf375fc9a",
+        "nome": "Longos - Chicken Wings",
+        "preco": 96.59,
+        "quantidade": 21,
+        "idVendedor": 8
+    },
+    {
+        "id": "bcf213c7-3cfd-461e-8f43-a44666146b7f",
+        "nome": "Beef - Top Butt Aaa",
+        "preco": 84.58,
+        "quantidade": 10,
+        "idVendedor": 5
+    },
+    {
+        "id": "f6cd4caa-fb8c-4df3-b9fc-7d74219c7670",
+        "nome": "Vodka - Lemon, Absolut",
+        "preco": 12.78,
+        "quantidade": 78,
+        "idVendedor": 13
+    },
+    {
+        "id": "ae5bda92-66a9-4f38-9979-16d35697fcf8",
+        "nome": "Syrup - Chocolate",
+        "preco": 19.75,
+        "quantidade": 98,
+        "idVendedor": 13
+    },
+    {
+        "id": "3108ff45-1949-4b23-a352-08fe65f7b3d2",
+        "nome": "Cheese - St. Paulin",
+        "preco": 75.53,
+        "quantidade": 43,
+        "idVendedor": 18
+    },
+    {
+        "id": "f55cb270-2812-46b8-83a2-580b1984ab91",
+        "nome": "Pastry - Lemon Danish - Mini",
+        "preco": 63.08,
+        "quantidade": 82,
+        "idVendedor": 19
+    },
+    {
+        "id": "166403f7-c7ec-4f7d-b5d6-2cb2335b8863",
+        "nome": "Bread - Corn Muffaleta Onion",
+        "preco": 79.09,
+        "quantidade": 57,
+        "idVendedor": 20
+    },
+    {
+        "id": "93984b12-9bf6-4bd0-b8af-fc403d46e6f0",
+        "nome": "Rosemary - Fresh",
+        "preco": 51.28,
+        "quantidade": 30,
+        "idVendedor": 14
+    },
+    {
+        "id": "0c788d45-2e42-4adf-a268-bfa9908aa7d8",
+        "nome": "Dikon",
+        "preco": 37.48,
+        "quantidade": 72,
+        "idVendedor": 20
+    },
+    {
+        "id": "5cdf8766-a80f-48f1-96d4-18dc2df62650",
+        "nome": "Butter - Salted, Micro",
+        "preco": 83.41,
+        "quantidade": 98,
+        "idVendedor": 12
+    },
+    {
+        "id": "2d918f9e-66a7-4887-85c2-664b8bf017e6",
+        "nome": "Tart Shells - Sweet, 3",
+        "preco": 19.07,
+        "quantidade": 39,
+        "idVendedor": 16
+    },
+    {
+        "id": "2ec4d31d-a665-40e4-a9ea-6dd4364eede9",
+        "nome": "Higashimaru Usukuchi Soy",
+        "preco": 65.2,
+        "quantidade": 78,
+        "idVendedor": 7
+    },
+    {
+        "id": "6abb581b-6cfb-48fe-84ed-c981aeb8d757",
+        "nome": "Beef - Bresaola",
+        "preco": 44.9,
+        "quantidade": 52,
+        "idVendedor": 14
+    },
+    {
+        "id": "c10bd791-3cea-4133-b07c-de21104653b7",
+        "nome": "Soup - Campbells, Butternut",
+        "preco": 83.3,
+        "quantidade": 94,
+        "idVendedor": 19
+    },
+    {
+        "id": "df8252be-2972-43a5-8b1a-065a145deeec",
+        "nome": "Napkin - Beverage 1 Ply",
+        "preco": 78.67,
+        "quantidade": 17,
+        "idVendedor": 5
+    },
+    {
+        "id": "ddaff089-c617-42bb-91f1-58f99b74b038",
+        "nome": "Dc Hikiage Hira Huba",
+        "preco": 57.14,
+        "quantidade": 42,
+        "idVendedor": 20
+    },
+    {
+        "id": "3984e4cc-a250-434b-aff0-721cd6723bd9",
+        "nome": "Cornstarch",
+        "preco": 48.63,
+        "quantidade": 13,
+        "idVendedor": 16
+    },
+    {
+        "id": "dd56caab-cba5-4cc7-9e26-4224a301ec14",
+        "nome": "Scallops - U - 10",
+        "preco": 88.89,
+        "quantidade": 19,
+        "idVendedor": 16
+    },
+    {
+        "id": "bcdb8fbd-444c-4db1-bbf6-f850366359af",
+        "nome": "Veal - Brisket, Provimi, Bone - In",
+        "preco": 49.74,
+        "quantidade": 57,
+        "idVendedor": 19
+    },
+    {
+        "id": "bad67155-86d3-4dc0-ad26-2452fff938e2",
+        "nome": "Pasta - Penne, Lisce, Dry",
+        "preco": 13.54,
+        "quantidade": 67,
+        "idVendedor": 9
+    },
+    {
+        "id": "9a1c31d1-d2b1-4256-82bb-c59b18509080",
+        "nome": "Lamb - Rack",
+        "preco": 97.5,
+        "quantidade": 54,
+        "idVendedor": 4
+    },
+    {
+        "id": "f3a4fa87-028a-49da-b932-75e67d1f370b",
+        "nome": "Wine - Black Tower Qr",
+        "preco": 94.43,
+        "quantidade": 68,
+        "idVendedor": 6
+    },
+    {
+        "id": "c6b4b8d9-a33f-4379-9d40-670ead7fbd18",
+        "nome": "Bread - Pita",
+        "preco": 80.09,
+        "quantidade": 13,
+        "idVendedor": 11
+    },
+    {
+        "id": "0011071a-c00d-4a6a-aea9-74a9c2f1c151",
+        "nome": "Numi - Assorted Teas",
+        "preco": 48.32,
+        "quantidade": 57,
+        "idVendedor": 17
+    },
+    {
+        "id": "cff9b486-66d9-45d2-9b75-814a59a9692f",
+        "nome": "Gherkin - Sour",
+        "preco": 52.15,
+        "quantidade": 85,
+        "idVendedor": 15
+    },
+    {
+        "id": "207c361a-a200-413f-9d37-c94eff3388af",
+        "nome": "Cardamon Seed / Pod",
+        "preco": 7.61,
+        "quantidade": 50,
+        "idVendedor": 15
+    },
+    {
+        "id": "12084d3b-6e26-4ea0-9ef8-27e828a44d43",
+        "nome": "Nacho Chips",
+        "preco": 49.49,
+        "quantidade": 100,
+        "idVendedor": 19
+    },
+    {
+        "id": "93c228eb-2941-42e9-964c-043afbb571e2",
+        "nome": "Dill Weed - Fresh",
+        "preco": 38.29,
+        "quantidade": 34,
+        "idVendedor": 3
+    },
+    {
+        "id": "6c7760e6-4a8e-4dcc-afe7-5f927533ceec",
+        "nome": "Eggplant Oriental",
+        "preco": 93.05,
+        "quantidade": 93,
+        "idVendedor": 20
+    },
+    {
+        "id": "f056887d-eeff-4563-bc40-69e76ecf6866",
+        "nome": "Steampan - Foil",
+        "preco": 74.78,
+        "quantidade": 81,
+        "idVendedor": 13
+    },
+    {
+        "id": "909c136c-ef09-4e19-970a-fbc30dafce6a",
+        "nome": "Sprouts - Bean",
+        "preco": 43.41,
+        "quantidade": 46,
+        "idVendedor": 5
+    },
+    {
+        "id": "c6ca9f52-ca6a-42bb-b94e-0a5afce8d215",
+        "nome": "Bay Leaf",
+        "preco": 51.49,
+        "quantidade": 68,
+        "idVendedor": 1
+    },
+    {
+        "id": "889e9f7c-d79a-48fa-a667-922e5ce43f1f",
+        "nome": "Croissants Thaw And Serve",
+        "preco": 22.82,
+        "quantidade": 100,
+        "idVendedor": 15
+    },
+    {
+        "id": "00f09311-fb6b-4445-af4c-4cf6f57ee7b0",
+        "nome": "Ice Cream Bar - Hagen Daz",
+        "preco": 47.22,
+        "quantidade": 8,
+        "idVendedor": 20
+    },
+    {
+        "id": "e71581cc-2799-44e5-95f4-1c5310396495",
+        "nome": "Crab - Claws, 26 - 30",
+        "preco": 11.91,
+        "quantidade": 15,
+        "idVendedor": 20
+    },
+    {
+        "id": "0cd90790-3b1a-457e-b708-ab8d166d856b",
+        "nome": "Bar Bran Honey Nut",
+        "preco": 39.38,
+        "quantidade": 48,
+        "idVendedor": 2
+    },
+    {
+        "id": "39311af7-755b-4442-aee1-310fafbe4bd2",
+        "nome": "Veal - Inside, Choice",
+        "preco": 74.17,
+        "quantidade": 33,
+        "idVendedor": 19
+    },
+    {
+        "id": "9dcaf907-9fe6-4488-86cc-6626e27b66d1",
+        "nome": "Baking Powder",
+        "preco": 72.98,
+        "quantidade": 55,
+        "idVendedor": 8
+    },
+    {
+        "id": "af914b9b-af55-422f-8c57-ff51a41036b2",
+        "nome": "Breadfruit",
+        "preco": 48.7,
+        "quantidade": 2,
+        "idVendedor": 2
+    },
+    {
+        "id": "96fa833c-c617-4ecd-b353-7834b7eb8862",
+        "nome": "Wheat - Soft Kernal Of Wheat",
+        "preco": 28.85,
+        "quantidade": 57,
+        "idVendedor": 15
+    },
+    {
+        "id": "e92b7a29-16a1-446c-a9b0-8126294ef6a4",
+        "nome": "Bag - Clear 7 Lb",
+        "preco": 55.59,
+        "quantidade": 18,
+        "idVendedor": 9
+    },
+    {
+        "id": "5ced59fc-7d91-47fa-a7d4-2e949889e933",
+        "nome": "Wine - Prem Select Charddonany",
+        "preco": 46.23,
+        "quantidade": 28,
+        "idVendedor": 12
+    },
+    {
+        "id": "4b8c6d74-7ad5-4030-a202-959f973b4b7f",
+        "nome": "Tomatoes - Heirloom",
+        "preco": 20.81,
+        "quantidade": 67,
+        "idVendedor": 8
+    },
+    {
+        "id": "f77a55dd-22b8-45a6-bff2-a517ecd37a0e",
+        "nome": "Chocolate - Semi Sweet",
+        "preco": 47.29,
+        "quantidade": 99,
+        "idVendedor": 3
+    },
+    {
+        "id": "33e98a43-87d8-4ccb-85b5-79ed7a6a5114",
+        "nome": "Tabasco Sauce, 2 Oz",
+        "preco": 64.87,
+        "quantidade": 93,
+        "idVendedor": 9
+    },
+    {
+        "id": "b09b7467-af4f-47b0-a27a-05528d5528cf",
+        "nome": "Soup - Campbells Asian Noodle",
+        "preco": 44.9,
+        "quantidade": 64,
+        "idVendedor": 14
+    },
+    {
+        "id": "48efb07b-ab22-4123-81f0-e05918e6f085",
+        "nome": "Kellogs Special K Cereal",
+        "preco": 7.63,
+        "quantidade": 11,
+        "idVendedor": 18
+    },
+    {
+        "id": "a50e0635-a871-4035-89d0-09c657af32de",
+        "nome": "Cheese - Parmigiano Reggiano",
+        "preco": 67.73,
+        "quantidade": 73,
+        "idVendedor": 2
+    },
+    {
+        "id": "9f153faf-aa52-4e97-b8a8-3b4a56ccfbbe",
+        "nome": "Shrimp - Black Tiger 13/15",
+        "preco": 25.33,
+        "quantidade": 24,
+        "idVendedor": 18
+    },
+    {
+        "id": "94b44df4-aa9c-4a9c-a82a-29380d57131b",
+        "nome": "Lotus Root",
+        "preco": 51.99,
+        "quantidade": 42,
+        "idVendedor": 19
+    },
+    {
+        "id": "f2238f59-fc67-4288-a498-465b7f65ad90",
+        "nome": "Honey - Lavender",
+        "preco": 57.0,
+        "quantidade": 32,
+        "idVendedor": 10
+    },
+    {
+        "id": "6490bb65-09dc-4f88-9fc6-1d3d6f581099",
+        "nome": "Yogurt - Plain",
+        "preco": 98.03,
+        "quantidade": 85,
+        "idVendedor": 16
+    },
+    {
+        "id": "a8a4d2f8-2c1e-4746-ac03-b009882086b2",
+        "nome": "Coriander - Seed",
+        "preco": 2.83,
+        "quantidade": 34,
+        "idVendedor": 3
+    },
+    {
+        "id": "01ef3dc4-c082-448d-be86-a0b973700ea3",
+        "nome": "Sugar - White Packet",
+        "preco": 54.43,
+        "quantidade": 11,
+        "idVendedor": 1
+    },
+    {
+        "id": "5f9433dc-dba8-42e0-b6c2-ebcb24c08a38",
+        "nome": "Garbag Bags - Black",
+        "preco": 17.14,
+        "quantidade": 19,
+        "idVendedor": 17
+    },
+    {
+        "id": "f90dbc8f-22f5-4c7e-ae57-d84c18dc9fea",
+        "nome": "Versatainer Nc - 888",
+        "preco": 85.48,
+        "quantidade": 70,
+        "idVendedor": 18
+    },
+    {
+        "id": "964b34ab-dff8-4160-b713-56e4ca094e31",
+        "nome": "Hot Chocolate - Individual",
+        "preco": 47.74,
+        "quantidade": 25,
+        "idVendedor": 8
+    },
+    {
+        "id": "a8cda7a8-25ff-42a5-b239-56f14711871c",
+        "nome": "Mortadella",
+        "preco": 26.31,
+        "quantidade": 50,
+        "idVendedor": 6
+    },
+    {
+        "id": "23857b25-7b11-48ba-a9d6-3f593709e5ef",
+        "nome": "Muffin - Carrot Individual Wrap",
+        "preco": 72.63,
+        "quantidade": 59,
+        "idVendedor": 13
+    },
+    {
+        "id": "6d690ac8-d957-48b7-8a8a-b2cdbaaac29b",
+        "nome": "Artichokes - Knobless, White",
+        "preco": 25.8,
+        "quantidade": 50,
+        "idVendedor": 13
+    },
+    {
+        "id": "774b6ece-5036-4995-aa23-cee1cb96f1ae",
+        "nome": "Anchovy Paste - 56 G Tube",
+        "preco": 84.36,
+        "quantidade": 71,
+        "idVendedor": 9
+    },
+    {
+        "id": "262516a0-8d56-4092-b1c8-f263f3261376",
+        "nome": "Beets",
+        "preco": 31.3,
+        "quantidade": 71,
+        "idVendedor": 3
+    },
+    {
+        "id": "66dfa0cb-7023-4ec9-a5e0-ae849b30c330",
+        "nome": "Easy Off Oven Cleaner",
+        "preco": 32.65,
+        "quantidade": 84,
+        "idVendedor": 4
+    },
+    {
+        "id": "d7e98245-dca7-4aff-89f2-650d0db99358",
+        "nome": "Squeeze Bottle",
+        "preco": 99.49,
+        "quantidade": 47,
+        "idVendedor": 12
+    },
+    {
+        "id": "ac2acda2-12d8-49db-bb9a-b150787cb2a6",
+        "nome": "Vinegar - White Wine",
+        "preco": 94.59,
+        "quantidade": 95,
+        "idVendedor": 10
+    },
+    {
+        "id": "8ae401bd-d0a8-4ff6-a402-52ca3f4c0e0f",
+        "nome": "Yeast - Fresh, Fleischman",
+        "preco": 64.19,
+        "quantidade": 26,
+        "idVendedor": 3
+    },
+    {
+        "id": "0d8b5252-da8e-4242-9e6d-362314761198",
+        "nome": "Tart Shells - Sweet, 2",
+        "preco": 54.3,
+        "quantidade": 99,
+        "idVendedor": 20
+    },
+    {
+        "id": "e89cb8be-ce86-4be7-ac5e-fda785435470",
+        "nome": "Extract - Lemon",
+        "preco": 11.58,
+        "quantidade": 96,
+        "idVendedor": 15
+    },
+    {
+        "id": "4368b0e5-df6b-436a-8244-35afcb7fd922",
+        "nome": "Crush - Cream Soda",
+        "preco": 16.28,
+        "quantidade": 10,
+        "idVendedor": 8
+    },
+    {
+        "id": "7dd67e76-2bc5-4ffd-a1d6-b2ba4e30dd1b",
+        "nome": "Nantucket - Carrot Orange",
+        "preco": 57.39,
+        "quantidade": 13,
+        "idVendedor": 13
+    },
+    {
+        "id": "e1b55c6a-7058-46e2-8bd1-d1847223d244",
+        "nome": "Cheese - St. Paulin",
+        "preco": 61.06,
+        "quantidade": 99,
+        "idVendedor": 7
+    },
+    {
+        "id": "40f72d56-eace-4f3b-ab13-ca5ee232c7bc",
+        "nome": "Mangostein",
+        "preco": 15.0,
+        "quantidade": 85,
+        "idVendedor": 18
+    },
+    {
+        "id": "7bf4b417-1913-4578-b21a-af933ab88551",
+        "nome": "Dried Cranberries",
+        "preco": 75.9,
+        "quantidade": 16,
+        "idVendedor": 1
+    },
+    {
+        "id": "2e8541df-d09a-467c-81d2-2c58686ee7cf",
+        "nome": "Ecolab - Hobart Washarm End Cap",
+        "preco": 8.15,
+        "quantidade": 45,
+        "idVendedor": 7
+    },
+    {
+        "id": "cd125f5c-586e-4838-88ce-176128140a97",
+        "nome": "Beer - Upper Canada Lager",
+        "preco": 47.25,
+        "quantidade": 30,
+        "idVendedor": 13
+    },
+    {
+        "id": "f7404cab-9926-4e7a-8110-ad99d546ae19",
+        "nome": "Bread Roll Foccacia",
+        "preco": 71.29,
+        "quantidade": 32,
+        "idVendedor": 20
+    },
+    {
+        "id": "55760b25-9353-427b-ad1a-1db0f73a3a48",
+        "nome": "Wine - Remy Pannier Rose",
+        "preco": 45.96,
+        "quantidade": 54,
+        "idVendedor": 1
+    },
+    {
+        "id": "1aca5ac4-504c-47ed-aff0-78cdb4476646",
+        "nome": "Kirsch - Schloss",
+        "preco": 73.64,
+        "quantidade": 22,
+        "idVendedor": 9
+    },
+    {
+        "id": "4b066733-ed45-4ba3-bd26-4a5ebc2e0b15",
+        "nome": "Beets",
+        "preco": 98.55,
+        "quantidade": 77,
+        "idVendedor": 11
+    },
+    {
+        "id": "6ef4d18d-c573-4525-9ed5-fe3c2893c852",
+        "nome": "Asparagus - White, Canned",
+        "preco": 43.94,
+        "quantidade": 60,
+        "idVendedor": 18
+    },
+    {
+        "id": "5cd0fb6b-c627-48ea-8d6b-344945b17aa9",
+        "nome": "Cheese - Ricotta",
+        "preco": 26.54,
+        "quantidade": 51,
+        "idVendedor": 7
+    },
+    {
+        "id": "21d841d6-64e9-4195-8217-0e610c5995af",
+        "nome": "Garlic - Elephant",
+        "preco": 99.46,
+        "quantidade": 32,
+        "idVendedor": 16
+    },
+    {
+        "id": "1cda77e6-2cb3-4909-a3e9-fbf1a3cc9603",
+        "nome": "Beer - Sleeman Fine Porter",
+        "preco": 96.65,
+        "quantidade": 2,
+        "idVendedor": 1
+    },
+    {
+        "id": "725478a8-f598-4faf-91a8-74502ec3487c",
+        "nome": "Cherries - Frozen",
+        "preco": 5.92,
+        "quantidade": 51,
+        "idVendedor": 18
+    },
+    {
+        "id": "14f4f03a-3014-4ef6-9247-3f0f1dd24ddd",
+        "nome": "Mini - Vol Au Vents",
+        "preco": 56.27,
+        "quantidade": 45,
+        "idVendedor": 3
+    },
+    {
+        "id": "4e2f8bde-4934-43d9-8591-4ad9ac531689",
+        "nome": "Cinnamon Buns Sticky",
+        "preco": 53.1,
+        "quantidade": 67,
+        "idVendedor": 1
+    },
+    {
+        "id": "ebe04661-2c52-4ef2-a6b7-c1fc77931bf4",
+        "nome": "Shrimp - Tiger 21/25",
+        "preco": 19.83,
+        "quantidade": 24,
+        "idVendedor": 18
+    },
+    {
+        "id": "88dccedf-53a2-45b7-b2b9-084c3031bce4",
+        "nome": "Sultanas",
+        "preco": 75.58,
+        "quantidade": 85,
+        "idVendedor": 10
+    },
+    {
+        "id": "d0744512-23bb-4f08-b627-6d2ae548e7c0",
+        "nome": "Red Cod Fillets - 225g",
+        "preco": 77.35,
+        "quantidade": 45,
+        "idVendedor": 15
+    },
+    {
+        "id": "7386d2a8-388e-46a8-bf0c-501d747433ae",
+        "nome": "Muffin Batt - Blueberry Passion",
+        "preco": 36.07,
+        "quantidade": 26,
+        "idVendedor": 14
+    },
+    {
+        "id": "30e8e093-9c44-495d-92a8-b01c311d6df6",
+        "nome": "Yoplait Drink",
+        "preco": 30.36,
+        "quantidade": 10,
+        "idVendedor": 4
+    },
+    {
+        "id": "cca5c4fd-d7e1-4188-9ec4-b50beb52fb80",
+        "nome": "Cheese - Le Cheve Noir",
+        "preco": 31.87,
+        "quantidade": 88,
+        "idVendedor": 15
+    },
+    {
+        "id": "e3c9dd2c-bda1-4952-8b81-666ea69f52d3",
+        "nome": "Wine - Fino Tio Pepe Gonzalez",
+        "preco": 74.0,
+        "quantidade": 77,
+        "idVendedor": 17
+    },
+    {
+        "id": "bfa8d5db-f3af-4ff8-a356-3b4162761c47",
+        "nome": "Cookies Oatmeal Raisin",
+        "preco": 55.72,
+        "quantidade": 50,
+        "idVendedor": 5
+    },
+    {
+        "id": "97438848-5e30-4a7c-a3e4-8a2a41dfa841",
+        "nome": "Bacardi Breezer - Tropical",
+        "preco": 87.02,
+        "quantidade": 16,
+        "idVendedor": 11
+    },
+    {
+        "id": "63135660-2fdb-43cd-9d4b-74cf110501a5",
+        "nome": "Chervil - Fresh",
+        "preco": 57.31,
+        "quantidade": 52,
+        "idVendedor": 16
+    },
+    {
+        "id": "724145e1-bd19-4b46-88b3-77b10c8f905e",
+        "nome": "Nut - Macadamia",
+        "preco": 37.01,
+        "quantidade": 94,
+        "idVendedor": 12
+    },
+    {
+        "id": "8e3081d2-5185-461b-9fde-cac1257b5868",
+        "nome": "Jolt Cola - Red Eye",
+        "preco": 29.84,
+        "quantidade": 57,
+        "idVendedor": 5
+    },
+    {
+        "id": "e6f45d11-bbb8-4b27-8cda-dfd85ea0aeea",
+        "nome": "Coffee - Colombian, Portioned",
+        "preco": 35.47,
+        "quantidade": 38,
+        "idVendedor": 10
+    },
+    {
+        "id": "8c27817a-1211-43f4-a2d8-3373005f05b5",
+        "nome": "Veal - Provimi Inside",
+        "preco": 47.32,
+        "quantidade": 45,
+        "idVendedor": 9
+    },
+    {
+        "id": "d8d57765-eff2-4d7a-9766-a63c09e000bc",
+        "nome": "Apricots Fresh",
+        "preco": 30.24,
+        "quantidade": 88,
+        "idVendedor": 6
+    },
+    {
+        "id": "7a8d861a-867f-41bb-853c-9556bde97464",
+        "nome": "Daikon Radish",
+        "preco": 17.07,
+        "quantidade": 44,
+        "idVendedor": 8
+    },
+    {
+        "id": "c7ea37ab-fb40-4017-80bd-5d9d8c4367f2",
+        "nome": "Bread - Corn Muffaleta Onion",
+        "preco": 50.88,
+        "quantidade": 75,
+        "idVendedor": 9
+    },
+    {
+        "id": "61508d01-c659-4729-b05d-5688f1270c81",
+        "nome": "Laundry - Bag Cloth",
+        "preco": 36.68,
+        "quantidade": 84,
+        "idVendedor": 15
+    },
+    {
+        "id": "ea01e92e-5626-4414-8393-0cee6c81a2ba",
+        "nome": "Pastry - Apple Muffins - Mini",
+        "preco": 89.84,
+        "quantidade": 42,
+        "idVendedor": 19
+    },
+    {
+        "id": "9079f24d-a536-4505-b54a-085dd5537473",
+        "nome": "Lobak",
+        "preco": 96.43,
+        "quantidade": 42,
+        "idVendedor": 16
+    },
+    {
+        "id": "2fbc2aa5-7977-467a-a2fc-4ddea764bdf8",
+        "nome": "Taro Root",
+        "preco": 94.64,
+        "quantidade": 72,
+        "idVendedor": 13
+    },
+    {
+        "id": "c8a7197b-a60a-4b6d-8c24-df23ffaa8578",
+        "nome": "Steampan - Foil",
+        "preco": 69.61,
+        "quantidade": 62,
+        "idVendedor": 10
+    },
+    {
+        "id": "9008e102-2b5b-4c16-919d-303a3b4a0beb",
+        "nome": "Wine - Ej Gallo Sonoma",
+        "preco": 9.84,
+        "quantidade": 5,
+        "idVendedor": 16
+    },
+    {
+        "id": "754f9edb-e3e2-435b-8280-93810cd14170",
+        "nome": "Heavy Duty Dust Pan",
+        "preco": 72.83,
+        "quantidade": 48,
+        "idVendedor": 12
+    },
+    {
+        "id": "7a527f9d-0d55-4a6e-8938-7e3cc97bcc89",
+        "nome": "Appetizer - Mini Egg Roll, Shrimp",
+        "preco": 62.9,
+        "quantidade": 20,
+        "idVendedor": 18
+    },
+    {
+        "id": "81f11b6b-3eb9-4a4b-8f6b-0a4befc6b487",
+        "nome": "Bacardi Limon",
+        "preco": 29.42,
+        "quantidade": 45,
+        "idVendedor": 7
+    },
+    {
+        "id": "58d3e868-7c00-42aa-acba-7b689e23d2db",
+        "nome": "Shrimp - Tiger 21/25",
+        "preco": 26.25,
+        "quantidade": 45,
+        "idVendedor": 3
+    },
+    {
+        "id": "892814f4-46ec-4431-98af-5dc27d0e5a40",
+        "nome": "Pineapple - Regular",
+        "preco": 17.01,
+        "quantidade": 85,
+        "idVendedor": 19
+    },
+    {
+        "id": "79394f9b-a946-4dcb-b732-51db4e2ed3d1",
+        "nome": "Ice Cream Bar - Hagen Daz",
+        "preco": 14.03,
+        "quantidade": 86,
+        "idVendedor": 14
+    },
+    {
+        "id": "9c8e00a2-94d1-413c-9ce1-c1552a4e6830",
+        "nome": "Wine - Vineland Estate Semi - Dry",
+        "preco": 49.65,
+        "quantidade": 72,
+        "idVendedor": 2
+    },
+    {
+        "id": "d4518df2-75b9-4d3c-a693-d322f415d869",
+        "nome": "Muffin Puck Ww Carrot",
+        "preco": 79.74,
+        "quantidade": 42,
+        "idVendedor": 3
+    },
+    {
+        "id": "109f6e58-4117-4fd3-b389-a3855371e01e",
+        "nome": "Irish Cream - Baileys",
+        "preco": 48.09,
+        "quantidade": 28,
+        "idVendedor": 6
+    },
+    {
+        "id": "f72e0ad2-53ee-488a-8df1-8e60850ed92e",
+        "nome": "Ham - Black Forest",
+        "preco": 2.46,
+        "quantidade": 27,
+        "idVendedor": 7
+    },
+    {
+        "id": "0cdd5825-7d94-4616-8808-d03b902f9503",
+        "nome": "Soda Water - Club Soda, 355 Ml",
+        "preco": 81.87,
+        "quantidade": 44,
+        "idVendedor": 11
+    },
+    {
+        "id": "3b7ad0b4-f174-42f1-be70-a2556ffda3cc",
+        "nome": "Cheese Cloth No 60",
+        "preco": 71.59,
+        "quantidade": 49,
+        "idVendedor": 17
+    },
+    {
+        "id": "6146cfea-b275-437e-b0d7-c2f494106d01",
+        "nome": "Wine - White, French Cross",
+        "preco": 48.47,
+        "quantidade": 76,
+        "idVendedor": 3
+    },
+    {
+        "id": "137a4bf0-d4a7-421e-8519-8571757585dc",
+        "nome": "Carbonated Water - Cherry",
+        "preco": 30.83,
+        "quantidade": 34,
+        "idVendedor": 5
+    },
+    {
+        "id": "9459c207-a55e-4875-9c0a-5fa6258a6818",
+        "nome": "Bread - Hamburger Buns",
+        "preco": 45.78,
+        "quantidade": 26,
+        "idVendedor": 10
+    },
+    {
+        "id": "75f2d291-a92a-4da7-97eb-e6f0374e6efa",
+        "nome": "Schnappes - Peach, Walkers",
+        "preco": 45.49,
+        "quantidade": 3,
+        "idVendedor": 16
+    },
+    {
+        "id": "327163e6-15e2-4e2c-b3cd-9078e9535608",
+        "nome": "Sloe Gin - Mcguinness",
+        "preco": 90.4,
+        "quantidade": 69,
+        "idVendedor": 3
+    },
+    {
+        "id": "d62dcfbf-620b-4be4-aba0-17b967d8cf3e",
+        "nome": "Glaze - Clear",
+        "preco": 25.63,
+        "quantidade": 36,
+        "idVendedor": 16
+    },
+    {
+        "id": "b7ce436b-f2c2-48d1-9327-af7352e6a7bd",
+        "nome": "Oven Mitts 17 Inch",
+        "preco": 43.83,
+        "quantidade": 35,
+        "idVendedor": 18
+    },
+    {
+        "id": "1023a440-3ef4-4c78-9850-2b6d43ac763b",
+        "nome": "Wine - Peller Estates Late",
+        "preco": 26.81,
+        "quantidade": 56,
+        "idVendedor": 5
+    },
+    {
+        "id": "eb91df9b-7041-4d1f-8ef5-cdb04b137a9f",
+        "nome": "Beef Flat Iron Steak",
+        "preco": 29.1,
+        "quantidade": 44,
+        "idVendedor": 6
+    },
+    {
+        "id": "4cc41259-c2f7-4e8a-9cc7-423afc8c6b5c",
+        "nome": "Pate - Liver",
+        "preco": 53.28,
+        "quantidade": 30,
+        "idVendedor": 16
+    },
+    {
+        "id": "0853d697-fd6d-4b58-b966-3f385dd74530",
+        "nome": "Beef - Ox Tongue, Pickled",
+        "preco": 42.74,
+        "quantidade": 83,
+        "idVendedor": 12
+    },
+    {
+        "id": "9907621a-bef7-44d1-823b-b93b42fdf898",
+        "nome": "Plastic Arrow Stir Stick",
+        "preco": 60.14,
+        "quantidade": 21,
+        "idVendedor": 5
+    },
+    {
+        "id": "1176a1ec-cb01-43c1-8988-d36dc37bbc5e",
+        "nome": "Cheese - Grana Padano",
+        "preco": 66.94,
+        "quantidade": 30,
+        "idVendedor": 5
+    },
+    {
+        "id": "c68b02cb-af3a-4ddd-9116-5f0f8d8e10aa",
+        "nome": "Chips - Miss Vickies",
+        "preco": 19.54,
+        "quantidade": 7,
+        "idVendedor": 18
+    },
+    {
+        "id": "43aab371-56b2-4b08-b202-994e7390c9fd",
+        "nome": "Pepper - Chili Powder",
+        "preco": 61.24,
+        "quantidade": 82,
+        "idVendedor": 12
+    },
+    {
+        "id": "7003f4fb-29b2-4bd8-a22d-2b13654cd9f8",
+        "nome": "Island Oasis - Banana Daiquiri",
+        "preco": 58.3,
+        "quantidade": 10,
+        "idVendedor": 19
+    },
+    {
+        "id": "bca20091-1ef3-46b8-9689-a51625089352",
+        "nome": "Wine - Cotes Du Rhone",
+        "preco": 73.26,
+        "quantidade": 100,
+        "idVendedor": 2
+    },
+    {
+        "id": "067c825b-6713-4a0f-be34-041ce597fee9",
+        "nome": "Shrimp - Black Tiger 6 - 8",
+        "preco": 47.32,
+        "quantidade": 26,
+        "idVendedor": 15
+    },
+    {
+        "id": "e7aeb7e3-c483-4316-9e05-b5713d224c40",
+        "nome": "Pepper - Cubanelle",
+        "preco": 25.33,
+        "quantidade": 74,
+        "idVendedor": 2
+    },
+    {
+        "id": "e73d6500-5281-4729-a30e-73527a3bfc32",
+        "nome": "Dc - Frozen Momji",
+        "preco": 48.85,
+        "quantidade": 100,
+        "idVendedor": 19
+    },
+    {
+        "id": "2599fa25-c6c2-4c15-8cad-29cc9d08c193",
+        "nome": "Wine - Touraine Azay - Le - Rideau",
+        "preco": 29.79,
+        "quantidade": 56,
+        "idVendedor": 5
+    },
+    {
+        "id": "27827780-3bde-44c3-ab11-801c4bc46ef5",
+        "nome": "Wine - Mas Chicet Rose, Vintage",
+        "preco": 74.6,
+        "quantidade": 21,
+        "idVendedor": 1
+    },
+    {
+        "id": "f13eaf5c-0ec8-4834-998d-5477c0860311",
+        "nome": "Pineapple - Regular",
+        "preco": 78.32,
+        "quantidade": 86,
+        "idVendedor": 10
+    },
+    {
+        "id": "ba675eef-ad89-4f9b-8054-30fcd949c335",
+        "nome": "Tarts Assorted",
+        "preco": 61.55,
+        "quantidade": 32,
+        "idVendedor": 10
+    },
+    {
+        "id": "d621d0a9-ac29-448c-967d-7a585f4a1396",
+        "nome": "Beer - Heinekin",
+        "preco": 16.13,
+        "quantidade": 100,
+        "idVendedor": 18
+    },
+    {
+        "id": "10d56db3-f7d6-4000-8a92-71f116a9e5c3",
+        "nome": "Chinese Foods - Cantonese",
+        "preco": 72.96,
+        "quantidade": 17,
+        "idVendedor": 19
+    },
+    {
+        "id": "98c51f24-6de4-4be3-b7cc-c72b8637f080",
+        "nome": "Towels - Paper / Kraft",
+        "preco": 39.85,
+        "quantidade": 84,
+        "idVendedor": 9
+    },
+    {
+        "id": "0905c2ea-82b6-4057-adca-011f968550da",
+        "nome": "Mace",
+        "preco": 11.46,
+        "quantidade": 98,
+        "idVendedor": 17
+    },
+    {
+        "id": "6973f6c3-339e-4695-98d0-0400e1bf3f8f",
+        "nome": "Sugar - Cubes",
+        "preco": 62.63,
+        "quantidade": 71,
+        "idVendedor": 15
+    },
+    {
+        "id": "3b4917de-7056-4b2a-bea6-f37714639e18",
+        "nome": "Rabbit - Whole",
+        "preco": 16.87,
+        "quantidade": 44,
+        "idVendedor": 8
+    },
+    {
+        "id": "6cf3e124-49bc-40bd-8c85-66bbf8fd8438",
+        "nome": "Crab - Soft Shell",
+        "preco": 4.51,
+        "quantidade": 48,
+        "idVendedor": 9
+    },
+    {
+        "id": "d3d8fb0b-8c10-4bcb-8416-d857041c1e55",
+        "nome": "Coriander - Ground",
+        "preco": 44.57,
+        "quantidade": 67,
+        "idVendedor": 17
+    },
+    {
+        "id": "f2eb83ec-e5fd-4ecd-b40e-daa43c17f7da",
+        "nome": "Bread - French Stick",
+        "preco": 11.16,
+        "quantidade": 60,
+        "idVendedor": 10
+    },
+    {
+        "id": "222aef09-144f-42c4-9521-d9ebd0b3eb8e",
+        "nome": "Pasta - Ravioli",
+        "preco": 27.33,
+        "quantidade": 90,
+        "idVendedor": 3
+    },
+    {
+        "id": "05f362ea-4ea8-4085-bcd0-feb0b9fdf051",
+        "nome": "Pastry - Apple Large",
+        "preco": 69.69,
+        "quantidade": 77,
+        "idVendedor": 11
+    },
+    {
+        "id": "5bb2adea-99ac-42d6-b065-629776318ba5",
+        "nome": "Beef Tenderloin Aaa",
+        "preco": 87.74,
+        "quantidade": 18,
+        "idVendedor": 13
+    },
+    {
+        "id": "e530b182-621a-48aa-b90d-d50c887986d5",
+        "nome": "Eggwhite Frozen",
+        "preco": 4.71,
+        "quantidade": 13,
+        "idVendedor": 10
+    },
+    {
+        "id": "b03d4d77-309b-47df-8859-fe529cde2b68",
+        "nome": "Pears - Anjou",
+        "preco": 23.35,
+        "quantidade": 77,
+        "idVendedor": 16
+    },
+    {
+        "id": "e55a8414-2409-4ba8-854e-329d0a5e0e62",
+        "nome": "Doilies - 8, Paper",
+        "preco": 62.66,
+        "quantidade": 45,
+        "idVendedor": 20
+    },
+    {
+        "id": "22fb32b1-daad-4a3e-a1fb-ecf0c92612a5",
+        "nome": "Flour - Bread",
+        "preco": 52.35,
+        "quantidade": 56,
+        "idVendedor": 8
+    },
+    {
+        "id": "a282ee4b-8eb2-4e6f-b392-999f32e5de0c",
+        "nome": "Basil - Primerba, Paste",
+        "preco": 31.2,
+        "quantidade": 3,
+        "idVendedor": 15
+    },
+    {
+        "id": "8424bf99-11b0-45f1-93b9-d7dc81b3011f",
+        "nome": "Lamb - Leg, Diced",
+        "preco": 61.7,
+        "quantidade": 16,
+        "idVendedor": 18
+    },
+    {
+        "id": "0de72fa6-a7a6-4dab-a3c8-129d621c6e85",
+        "nome": "Raisin - Golden",
+        "preco": 32.75,
+        "quantidade": 67,
+        "idVendedor": 8
+    },
+    {
+        "id": "e7f29b18-445c-4664-97d6-942491f27aa4",
+        "nome": "Veal - Leg, Provimi - 50 Lb Max",
+        "preco": 10.55,
+        "quantidade": 64,
+        "idVendedor": 19
+    },
+    {
+        "id": "e1c154fb-182c-4026-b767-f838004f13bf",
+        "nome": "Edible Flower - Mixed",
+        "preco": 76.14,
+        "quantidade": 10,
+        "idVendedor": 19
+    },
+    {
+        "id": "a155312d-88fa-46b6-8289-88c9a026333b",
+        "nome": "Sauce - Mint",
+        "preco": 6.81,
+        "quantidade": 9,
+        "idVendedor": 12
+    },
+    {
+        "id": "c8eb73e4-7d46-450a-83c5-9464d3bfa1da",
+        "nome": "Sherbet - Raspberry",
+        "preco": 22.38,
+        "quantidade": 48,
+        "idVendedor": 6
+    },
+    {
+        "id": "507ee58e-c413-4b95-afaf-87f60e0639ff",
+        "nome": "Cream - 10%",
+        "preco": 90.5,
+        "quantidade": 67,
+        "idVendedor": 8
+    },
+    {
+        "id": "bb557b47-4d87-408f-adae-4f364f08f21d",
+        "nome": "Vodka - Smirnoff",
+        "preco": 13.64,
+        "quantidade": 54,
+        "idVendedor": 11
+    },
+    {
+        "id": "d20a1c01-aee1-4fda-be57-3074bc0e7c9d",
+        "nome": "Wine - Magnotta, Merlot Sr Vqa",
+        "preco": 19.21,
+        "quantidade": 42,
+        "idVendedor": 8
+    },
+    {
+        "id": "a8cacc96-c218-49f7-b2a3-0440c22beb3e",
+        "nome": "Truffle Shells - White Chocolate",
+        "preco": 99.25,
+        "quantidade": 97,
+        "idVendedor": 19
+    },
+    {
+        "id": "37aa147d-9ecf-405d-82cd-805797722b87",
+        "nome": "Bread - Wheat Baguette",
+        "preco": 1.51,
+        "quantidade": 80,
+        "idVendedor": 6
+    },
+    {
+        "id": "f0d6dcc2-12c9-4bba-86d7-4b3b0772b6fb",
+        "nome": "Garbage Bag - Clear",
+        "preco": 4.48,
+        "quantidade": 95,
+        "idVendedor": 14
+    },
+    {
+        "id": "5da0be86-a404-4909-a6bf-b77b691db4ee",
+        "nome": "Vector Energy Bar",
+        "preco": 33.67,
+        "quantidade": 40,
+        "idVendedor": 5
+    },
+    {
+        "id": "b8dc0e6d-9c69-41d2-82ed-9cd14ada8680",
+        "nome": "Seedlings - Buckwheat, Organic",
+        "preco": 24.1,
+        "quantidade": 79,
+        "idVendedor": 10
+    },
+    {
+        "id": "094b459d-03b0-41a7-9716-80b5f3223ce3",
+        "nome": "Sprouts - Onion",
+        "preco": 5.05,
+        "quantidade": 4,
+        "idVendedor": 15
+    },
+    {
+        "id": "d86d2047-7d14-46bb-97fa-3b4e0d2e5c76",
+        "nome": "Duck - Whole",
+        "preco": 22.45,
+        "quantidade": 44,
+        "idVendedor": 14
+    },
+    {
+        "id": "1e4bf187-8d1f-42d8-8e75-b0b039f0045e",
+        "nome": "Veal - Slab Bacon",
+        "preco": 20.66,
+        "quantidade": 92,
+        "idVendedor": 4
+    },
+    {
+        "id": "1ae2e486-8882-47ac-8ef7-cab92a882e73",
+        "nome": "Tart Shells - Savory, 3",
+        "preco": 74.63,
+        "quantidade": 10,
+        "idVendedor": 2
+    },
+    {
+        "id": "e3ccbca5-ade7-4d09-8d00-a907eb674eba",
+        "nome": "Beef - Rouladin, Sliced",
+        "preco": 90.05,
+        "quantidade": 39,
+        "idVendedor": 5
+    },
+    {
+        "id": "5917221b-9a29-4111-a476-e52996d187b1",
+        "nome": "Tequila Rose Cream Liquor",
+        "preco": 36.38,
+        "quantidade": 61,
+        "idVendedor": 1
+    },
+    {
+        "id": "683332d7-5c9d-4ac4-8257-dced5e884689",
+        "nome": "Juice - Prune",
+        "preco": 33.64,
+        "quantidade": 5,
+        "idVendedor": 12
+    },
+    {
+        "id": "0da1f449-32bf-4cb0-811b-b25ebd96cb7a",
+        "nome": "Salt - Table",
+        "preco": 67.34,
+        "quantidade": 97,
+        "idVendedor": 15
+    },
+    {
+        "id": "1456484b-8d5b-4b68-8f6e-3de80e7ba830",
+        "nome": "Potatoes - Yukon Gold, 80 Ct",
+        "preco": 45.64,
+        "quantidade": 31,
+        "idVendedor": 10
+    },
+    {
+        "id": "1f0d16ec-ed22-437a-943e-2bad442e9b8d",
+        "nome": "Table Cloth 90x90 Colour",
+        "preco": 94.09,
+        "quantidade": 3,
+        "idVendedor": 13
+    },
+    {
+        "id": "e091992d-ab62-433f-b604-36e97bcca37f",
+        "nome": "Brandy - Orange, Mc Guiness",
+        "preco": 74.42,
+        "quantidade": 12,
+        "idVendedor": 18
+    },
+    {
+        "id": "2f2a5b93-caa0-4db0-8c4a-cc93aaa8b34c",
+        "nome": "Toamtoes 6x7 Select",
+        "preco": 2.79,
+        "quantidade": 77,
+        "idVendedor": 6
+    },
+    {
+        "id": "0f6f9e41-9e5c-47da-b659-dd7971d156b5",
+        "nome": "Pur Source",
+        "preco": 20.0,
+        "quantidade": 23,
+        "idVendedor": 17
+    },
+    {
+        "id": "2eae55fe-b756-4029-87ff-cb23beda3533",
+        "nome": "Dill Weed - Dry",
+        "preco": 54.23,
+        "quantidade": 25,
+        "idVendedor": 1
+    },
+    {
+        "id": "17659be2-5726-4429-bdcf-24874840dfe0",
+        "nome": "Sauce - Gravy, Au Jus, Mix",
+        "preco": 25.38,
+        "quantidade": 56,
+        "idVendedor": 1
+    },
+    {
+        "id": "a6146a12-4380-4f23-adc2-f745b1fefd95",
+        "nome": "Muffin - Blueberry Individual",
+        "preco": 44.69,
+        "quantidade": 28,
+        "idVendedor": 12
+    },
+    {
+        "id": "1ca3e36e-490f-4c8a-9923-d3772d0180bf",
+        "nome": "Zucchini - Mini, Green",
+        "preco": 34.85,
+        "quantidade": 76,
+        "idVendedor": 9
+    },
+    {
+        "id": "084a6c5f-3ab7-4c7f-b719-5cfd24a7910e",
+        "nome": "Parsley Italian - Fresh",
+        "preco": 6.93,
+        "quantidade": 62,
+        "idVendedor": 17
+    },
+    {
+        "id": "c34686bc-8d61-4270-8f2d-a4b2517d6d52",
+        "nome": "Gatorade - Lemon Lime",
+        "preco": 65.57,
+        "quantidade": 81,
+        "idVendedor": 12
+    },
+    {
+        "id": "8dcd0761-2434-4ca0-8f99-406819bed1f3",
+        "nome": "Curry Powder",
+        "preco": 52.75,
+        "quantidade": 38,
+        "idVendedor": 17
+    },
+    {
+        "id": "d910ee7c-610a-4268-a54c-1e8c5ee1412c",
+        "nome": "Beets - Pickled",
+        "preco": 65.26,
+        "quantidade": 29,
+        "idVendedor": 8
+    },
+    {
+        "id": "67204556-cb5c-48f5-bb61-66d903cc343c",
+        "nome": "Appetizer - Asian Shrimp Roll",
+        "preco": 61.54,
+        "quantidade": 38,
+        "idVendedor": 4
+    },
+    {
+        "id": "92ece63c-f55d-47d9-8518-cbb83fb2bb0d",
+        "nome": "The Pop Shoppe Pinapple",
+        "preco": 9.4,
+        "quantidade": 31,
+        "idVendedor": 2
+    },
+    {
+        "id": "4718e94c-2ffe-4d7f-a8e4-3e029c0a497d",
+        "nome": "Marsala - Sperone, Fine, D.o.c.",
+        "preco": 40.84,
+        "quantidade": 55,
+        "idVendedor": 3
+    },
+    {
+        "id": "5786d7eb-870c-42ab-8fd0-1bbc0c6db51d",
+        "nome": "Cake - Box Window 10x10x2.5",
+        "preco": 95.48,
+        "quantidade": 19,
+        "idVendedor": 14
+    },
+    {
+        "id": "7ede69f1-ae93-4ca5-94e7-5c506563696f",
+        "nome": "Wine - Coteaux Du Tricastin Ac",
+        "preco": 53.25,
+        "quantidade": 64,
+        "idVendedor": 16
+    },
+    {
+        "id": "fb4693f6-7766-446d-8472-4ba2992f06d9",
+        "nome": "Mace Ground",
+        "preco": 91.38,
+        "quantidade": 63,
+        "idVendedor": 14
+    },
+    {
+        "id": "60ec0515-9516-4eda-9bb6-334bb1414f87",
+        "nome": "Cactus Pads",
+        "preco": 58.95,
+        "quantidade": 87,
+        "idVendedor": 12
+    },
+    {
+        "id": "e09a9e60-727c-4377-9ef0-e2df349981e5",
+        "nome": "Dome Lid Clear P92008h",
+        "preco": 82.46,
+        "quantidade": 58,
+        "idVendedor": 18
+    },
+    {
+        "id": "946ce2e8-c77b-40bb-9e77-d6134634dec7",
+        "nome": "Veal - Knuckle",
+        "preco": 24.95,
+        "quantidade": 58,
+        "idVendedor": 12
+    },
+    {
+        "id": "7bd7ba5c-2ba7-4981-825d-e73dce728348",
+        "nome": "Beef Wellington",
+        "preco": 61.41,
+        "quantidade": 3,
+        "idVendedor": 5
+    },
+    {
+        "id": "7e67e504-abaa-4b61-8a0c-e10fa7585cb7",
+        "nome": "Flower - Commercial Bronze",
+        "preco": 55.78,
+        "quantidade": 73,
+        "idVendedor": 8
+    },
+    {
+        "id": "6dea9cc8-a8de-492d-8a88-50d24ed2f21a",
+        "nome": "Sprouts - Peppercress",
+        "preco": 99.74,
+        "quantidade": 56,
+        "idVendedor": 17
+    },
+    {
+        "id": "1fee8051-e641-4eac-a2c7-e58100141846",
+        "nome": "Cake - Lemon Chiffon",
+        "preco": 43.85,
+        "quantidade": 33,
+        "idVendedor": 7
+    },
+    {
+        "id": "c4b81997-24e8-4777-9230-7dd0088f64ec",
+        "nome": "Muffin Mix - Oatmeal",
+        "preco": 92.44,
+        "quantidade": 4,
+        "idVendedor": 18
+    },
+    {
+        "id": "9e5da6d5-eeca-483d-aab9-1e83e3e7567c",
+        "nome": "Fireball Whisky",
+        "preco": 34.72,
+        "quantidade": 28,
+        "idVendedor": 11
+    },
+    {
+        "id": "4f725f6e-bb24-4ac2-85ad-caab1187f50b",
+        "nome": "Table Cloth 120 Round White",
+        "preco": 1.28,
+        "quantidade": 10,
+        "idVendedor": 13
+    },
+    {
+        "id": "de6c2011-a46e-4773-afce-060d2cf29b11",
+        "nome": "Plaintain",
+        "preco": 84.65,
+        "quantidade": 48,
+        "idVendedor": 7
+    },
+    {
+        "id": "3e34cb86-b9df-4424-960e-ebf67f948534",
+        "nome": "Wine - Champagne Brut Veuve",
+        "preco": 34.47,
+        "quantidade": 16,
+        "idVendedor": 8
+    },
+    {
+        "id": "aa8fb5da-e987-4cc1-a642-f5abd5c977fe",
+        "nome": "Soup - Knorr, Chicken Gumbo",
+        "preco": 29.18,
+        "quantidade": 94,
+        "idVendedor": 9
+    },
+    {
+        "id": "b50f3fd0-38c6-4824-acc7-6952d30975f5",
+        "nome": "Extract - Almond",
+        "preco": 65.71,
+        "quantidade": 12,
+        "idVendedor": 7
+    },
+    {
+        "id": "b955b5dc-9b64-4d2d-b15f-5b955ccd9546",
+        "nome": "Wine - Delicato Merlot",
+        "preco": 13.4,
+        "quantidade": 46,
+        "idVendedor": 3
+    },
+    {
+        "id": "154bed72-1893-4aee-8851-d637075f6b3d",
+        "nome": "Icecream - Dstk Cml And Fdg",
+        "preco": 39.01,
+        "quantidade": 20,
+        "idVendedor": 2
+    },
+    {
+        "id": "2a1e508c-c51f-4fc3-8424-70181ec05347",
+        "nome": "Thyme - Fresh",
+        "preco": 23.18,
+        "quantidade": 98,
+        "idVendedor": 10
+    },
+    {
+        "id": "3f41fc85-74b8-4443-8679-dd002b8eb314",
+        "nome": "Soup - Campbells Broccoli",
+        "preco": 66.56,
+        "quantidade": 27,
+        "idVendedor": 19
+    },
+    {
+        "id": "012c4d0b-587d-4e88-976a-6da855629d9d",
+        "nome": "Gingerale - Schweppes, 355 Ml",
+        "preco": 93.42,
+        "quantidade": 13,
+        "idVendedor": 5
+    },
+    {
+        "id": "59f378ef-13d7-4d03-a842-f00672b2bf42",
+        "nome": "Anisette - Mcguiness",
+        "preco": 15.15,
+        "quantidade": 85,
+        "idVendedor": 2
+    },
+    {
+        "id": "f8155359-2e34-4011-887d-5ecbda5897ec",
+        "nome": "Lid Coffee Cup 8oz Blk",
+        "preco": 14.75,
+        "quantidade": 15,
+        "idVendedor": 4
+    },
+    {
+        "id": "1143db91-095f-47c9-840b-c7e4725baea5",
+        "nome": "Yogurt - Peach, 175 Gr",
+        "preco": 54.63,
+        "quantidade": 92,
+        "idVendedor": 13
+    },
+    {
+        "id": "3527a20b-56fb-4228-91fe-9cf9a8b69b77",
+        "nome": "Chickensplit Half",
+        "preco": 7.31,
+        "quantidade": 96,
+        "idVendedor": 18
+    },
+    {
+        "id": "ed483fb4-8bf6-4a1c-85c2-f9fdacb88e00",
+        "nome": "Mushroom - Lg - Cello",
+        "preco": 51.07,
+        "quantidade": 73,
+        "idVendedor": 17
+    },
+    {
+        "id": "e4d1d305-4b5f-4150-863f-fa7931935b77",
+        "nome": "Orange - Blood",
+        "preco": 16.72,
+        "quantidade": 83,
+        "idVendedor": 8
+    },
+    {
+        "id": "40b98b34-63aa-44dd-a80b-6bc026e78b52",
+        "nome": "Jam - Raspberry,jar",
+        "preco": 89.41,
+        "quantidade": 12,
+        "idVendedor": 19
+    },
+    {
+        "id": "b5629473-0dca-4b34-bc92-ad256526ebfa",
+        "nome": "Arrowroot",
+        "preco": 92.83,
+        "quantidade": 10,
+        "idVendedor": 14
+    },
+    {
+        "id": "5dfcc8f1-2f2d-4507-adba-c6276f33c468",
+        "nome": "Kirsch - Schloss",
+        "preco": 59.22,
+        "quantidade": 1,
+        "idVendedor": 4
+    },
+    {
+        "id": "c494ac83-7bdc-435d-9a27-a6f22db6ab14",
+        "nome": "Capers - Ox Eye Daisy",
+        "preco": 94.02,
+        "quantidade": 78,
+        "idVendedor": 10
+    },
+    {
+        "id": "0bea17dd-87d4-4fcb-b616-c95fa7ee4fd9",
+        "nome": "Sugar - Monocystal / Rock",
+        "preco": 19.93,
+        "quantidade": 46,
+        "idVendedor": 17
+    },
+    {
+        "id": "83e18e55-dbd0-442f-8ae2-e58bc70fa678",
+        "nome": "Tomatoes - Roma",
+        "preco": 27.02,
+        "quantidade": 28,
+        "idVendedor": 16
+    },
+    {
+        "id": "3bf142e8-6bee-4788-ade1-d4b1a3135ebd",
+        "nome": "Higashimaru Usukuchi Soy",
+        "preco": 14.97,
+        "quantidade": 76,
+        "idVendedor": 12
+    },
+    {
+        "id": "e5eecb6d-b67b-46af-b654-b7475a9dd56e",
+        "nome": "Chicken - Base, Ultimate",
+        "preco": 40.14,
+        "quantidade": 63,
+        "idVendedor": 20
+    },
+    {
+        "id": "f4d870a3-765a-45b4-b3ff-796edb02ce92",
+        "nome": "Irish Cream - Butterscotch",
+        "preco": 25.16,
+        "quantidade": 8,
+        "idVendedor": 6
+    },
+    {
+        "id": "d1ce0515-942c-4ff4-bb47-ea926397eefc",
+        "nome": "Tea - Apple Green Tea",
+        "preco": 5.18,
+        "quantidade": 17,
+        "idVendedor": 2
+    },
+    {
+        "id": "a4323d57-7b6a-40d0-8d3b-fc28fa0e754e",
+        "nome": "Bread - Bistro Sour",
+        "preco": 37.03,
+        "quantidade": 61,
+        "idVendedor": 8
+    },
+    {
+        "id": "14216748-a312-48db-bec2-799825156cd2",
+        "nome": "Soup - Campbells, Lentil",
+        "preco": 17.45,
+        "quantidade": 61,
+        "idVendedor": 2
+    },
+    {
+        "id": "273bd396-32cf-4aff-bd5f-041fa2722e3a",
+        "nome": "Wine - Ruffino Chianti Classico",
+        "preco": 19.06,
+        "quantidade": 19,
+        "idVendedor": 12
+    },
+    {
+        "id": "3e6980f2-5453-42e8-99df-4720baf6ba5c",
+        "nome": "Wine - Redchard Merritt",
+        "preco": 42.89,
+        "quantidade": 94,
+        "idVendedor": 18
+    },
+    {
+        "id": "6e379524-43b3-41e4-bc09-fa183b0a1820",
+        "nome": "Wine - Two Oceans Sauvignon",
+        "preco": 21.67,
+        "quantidade": 35,
+        "idVendedor": 16
+    },
+    {
+        "id": "e96baf56-ea1f-459e-a3dc-9d270aeeab1d",
+        "nome": "Zucchini - Green",
+        "preco": 57.66,
+        "quantidade": 99,
+        "idVendedor": 20
+    },
+    {
+        "id": "255953f8-4bdd-4bd4-85b6-2f83a3daee89",
+        "nome": "Squid - U 5",
+        "preco": 56.5,
+        "quantidade": 50,
+        "idVendedor": 15
+    },
+    {
+        "id": "a3f9560d-8e4c-4e15-a884-6c66b4ebd1af",
+        "nome": "Canadian Emmenthal",
+        "preco": 70.13,
+        "quantidade": 49,
+        "idVendedor": 7
+    },
+    {
+        "id": "053140dc-2f34-4761-8320-44e47ec87564",
+        "nome": "Coconut - Shredded, Unsweet",
+        "preco": 10.56,
+        "quantidade": 90,
+        "idVendedor": 12
+    },
+    {
+        "id": "02d9a44a-f5c1-4414-807b-2c639ebfcab9",
+        "nome": "Crab - Back Fin Meat, Canned",
+        "preco": 64.24,
+        "quantidade": 36,
+        "idVendedor": 14
+    },
+    {
+        "id": "9842c6e4-951b-4f43-b845-db32d9d5f96a",
+        "nome": "Pastry - Chocolate Chip Muffin",
+        "preco": 73.14,
+        "quantidade": 93,
+        "idVendedor": 8
+    },
+    {
+        "id": "cb288b12-b46d-42a5-9318-67f39c84dbea",
+        "nome": "Yeast Dry - Fermipan",
+        "preco": 22.27,
+        "quantidade": 67,
+        "idVendedor": 18
+    },
+    {
+        "id": "34615d5d-fe3e-4964-a545-e1866d14a863",
+        "nome": "Magnotta Bel Paese Red",
+        "preco": 43.1,
+        "quantidade": 97,
+        "idVendedor": 6
+    },
+    {
+        "id": "a2d383ac-7355-4cb6-8ed7-d9029dfd6fac",
+        "nome": "Wine - Blue Nun Qualitatswein",
+        "preco": 8.01,
+        "quantidade": 77,
+        "idVendedor": 3
+    },
+    {
+        "id": "34110c1f-cb42-410b-ad19-e7f4e2175106",
+        "nome": "Pumpkin",
+        "preco": 47.62,
+        "quantidade": 25,
+        "idVendedor": 12
+    },
+    {
+        "id": "3fe033e9-c616-46b3-b2f1-daa29dfa1334",
+        "nome": "Salami - Genova",
+        "preco": 44.73,
+        "quantidade": 99,
+        "idVendedor": 6
+    },
+    {
+        "id": "8b98a0a0-5ab3-47f0-876f-dc1b45759465",
+        "nome": "Frangelico",
+        "preco": 26.94,
+        "quantidade": 67,
+        "idVendedor": 14
+    },
+    {
+        "id": "313a8053-e45c-405a-a992-c30277700f25",
+        "nome": "Water - Tonic",
+        "preco": 80.94,
+        "quantidade": 68,
+        "idVendedor": 16
+    },
+    {
+        "id": "f63ab6bc-ce05-44a2-bfee-4b0590a5f90f",
+        "nome": "Soup - Cream Of Broccoli, Dry",
+        "preco": 53.3,
+        "quantidade": 92,
+        "idVendedor": 13
+    },
+    {
+        "id": "bcf4a595-44c0-4670-ba2b-4f014f48b500",
+        "nome": "Scotch - Queen Anne",
+        "preco": 65.74,
+        "quantidade": 11,
+        "idVendedor": 15
+    },
+    {
+        "id": "c64e4096-7e64-4276-9ee4-e724f1303a5e",
+        "nome": "Juice - Pineapple, 341 Ml",
+        "preco": 30.43,
+        "quantidade": 36,
+        "idVendedor": 10
+    },
+    {
+        "id": "54170776-f1f1-41e6-b21e-929cf20f66a1",
+        "nome": "Mountain Dew",
+        "preco": 94.33,
+        "quantidade": 57,
+        "idVendedor": 16
+    },
+    {
+        "id": "d2099fe6-33d0-473e-b6c0-78385d4150a2",
+        "nome": "Eggs - Extra Large",
+        "preco": 4.39,
+        "quantidade": 86,
+        "idVendedor": 17
+    },
+    {
+        "id": "cd3ebaa4-35be-46ab-b0c9-7adf50045aed",
+        "nome": "Potato - Sweet",
+        "preco": 52.98,
+        "quantidade": 69,
+        "idVendedor": 3
+    },
+    {
+        "id": "101eca80-f703-470c-af60-1f08a871472c",
+        "nome": "Lychee",
+        "preco": 52.72,
+        "quantidade": 75,
+        "idVendedor": 20
+    },
+    {
+        "id": "bdda05b1-cc99-4c48-b82d-ab63618c5e9a",
+        "nome": "Coffee - Colombian, Portioned",
+        "preco": 10.8,
+        "quantidade": 13,
+        "idVendedor": 5
+    },
+    {
+        "id": "b124d750-9ded-464d-90fc-0a9cf8284cd2",
+        "nome": "Muffin Batt - Choc Chk",
+        "preco": 88.45,
+        "quantidade": 72,
+        "idVendedor": 5
+    },
+    {
+        "id": "22f058b3-eae6-4b87-bae5-23f9e52821b3",
+        "nome": "Pastry - Butterscotch Baked",
+        "preco": 42.26,
+        "quantidade": 53,
+        "idVendedor": 6
+    },
+    {
+        "id": "a126a44e-d393-4c1a-9316-cf1d96fefdf7",
+        "nome": "Mikes Hard Lemonade",
+        "preco": 39.42,
+        "quantidade": 9,
+        "idVendedor": 5
+    },
+    {
+        "id": "c9a50271-99b0-4f98-b62e-e026a6715d5c",
+        "nome": "Wine - Ej Gallo Sonoma",
+        "preco": 42.44,
+        "quantidade": 48,
+        "idVendedor": 16
+    },
+    {
+        "id": "80163eb5-bae4-4724-852c-ab73a0dde4fb",
+        "nome": "Tray - 16in Rnd Blk",
+        "preco": 64.1,
+        "quantidade": 84,
+        "idVendedor": 12
+    },
+    {
+        "id": "79ea348f-5e03-4693-a1dc-68e8b345310b",
+        "nome": "Milk - Buttermilk",
+        "preco": 14.31,
+        "quantidade": 99,
+        "idVendedor": 20
+    },
+    {
+        "id": "eccce955-2f47-4f22-a41e-2de287ab9cdc",
+        "nome": "Nougat - Paste / Cream",
+        "preco": 1.16,
+        "quantidade": 32,
+        "idVendedor": 16
+    },
+    {
+        "id": "b61c9686-d803-4745-acdb-eea532bd3b69",
+        "nome": "Garbage Bags - Black",
+        "preco": 16.27,
+        "quantidade": 6,
+        "idVendedor": 20
+    },
+    {
+        "id": "ae980e0c-3872-4d8c-9f48-f42197b0f9c0",
+        "nome": "Pasta - Agnolotti - Butternut",
+        "preco": 49.88,
+        "quantidade": 69,
+        "idVendedor": 15
+    },
+    {
+        "id": "c77867a3-a4ca-447e-9fa9-3852c5f6ae2f",
+        "nome": "Star Fruit",
+        "preco": 43.96,
+        "quantidade": 88,
+        "idVendedor": 6
+    },
+    {
+        "id": "36a21ea2-feb2-433a-baa7-e23a2c982978",
+        "nome": "Soup - Base Broth Chix",
+        "preco": 73.98,
+        "quantidade": 64,
+        "idVendedor": 9
+    },
+    {
+        "id": "45e2cca2-df76-4405-8e2e-fa5873c5d128",
+        "nome": "Muskox - French Rack",
+        "preco": 58.53,
+        "quantidade": 61,
+        "idVendedor": 9
+    },
+    {
+        "id": "2c2a4292-e731-4271-9eb5-eca92e020fcf",
+        "nome": "Table Cloth 91x91 Colour",
+        "preco": 59.53,
+        "quantidade": 82,
+        "idVendedor": 18
+    },
+    {
+        "id": "5600a0aa-b3f5-4d5b-ba33-a1eee8d136c9",
+        "nome": "Beef Wellington",
+        "preco": 8.14,
+        "quantidade": 55,
+        "idVendedor": 8
+    },
+    {
+        "id": "1d14bb34-eeec-4b72-9dbb-30b79abafe8d",
+        "nome": "Shrimp - 150 - 250",
+        "preco": 1.48,
+        "quantidade": 19,
+        "idVendedor": 12
+    },
+    {
+        "id": "d4e073e3-7464-4164-a214-a6166d4f5b33",
+        "nome": "Juice - Cranberry, 341 Ml",
+        "preco": 31.86,
+        "quantidade": 73,
+        "idVendedor": 3
+    },
+    {
+        "id": "248f0850-7a25-4713-9db5-0ec41dee9dda",
+        "nome": "Vinegar - White",
+        "preco": 2.04,
+        "quantidade": 37,
+        "idVendedor": 1
+    },
+    {
+        "id": "8565c57f-d6f2-4bb8-98e8-888c4654e4f6",
+        "nome": "Rice - Brown",
+        "preco": 48.34,
+        "quantidade": 43,
+        "idVendedor": 5
+    },
+    {
+        "id": "ce7e51f3-66bd-46e6-bdef-5ebe0bf7c5d0",
+        "nome": "Sprouts - Pea",
+        "preco": 15.37,
+        "quantidade": 70,
+        "idVendedor": 15
+    },
+    {
+        "id": "f74389a6-c5c3-40d1-8df7-59af6d9ed11a",
+        "nome": "Bay Leaf Fresh",
+        "preco": 85.9,
+        "quantidade": 55,
+        "idVendedor": 9
+    },
+    {
+        "id": "44a6724c-6286-40f9-9dfc-e069cff44eff",
+        "nome": "Chocolate - Milk Coating",
+        "preco": 10.64,
+        "quantidade": 31,
+        "idVendedor": 1
+    },
+    {
+        "id": "6c693c27-aaa1-4f30-a2a0-6ed21b704e51",
+        "nome": "Pea - Snow",
+        "preco": 37.18,
+        "quantidade": 30,
+        "idVendedor": 5
+    },
+    {
+        "id": "6da0f6fe-18af-4824-920e-1a686cec883d",
+        "nome": "Shrimp - Baby, Warm Water",
+        "preco": 74.11,
+        "quantidade": 98,
+        "idVendedor": 12
+    },
+    {
+        "id": "81788b38-f7c9-40a1-997c-77e74b606724",
+        "nome": "Turnip - White",
+        "preco": 74.29,
+        "quantidade": 31,
+        "idVendedor": 7
+    },
+    {
+        "id": "c5315d8c-03ae-4c0d-bd49-6102c7ea02c2",
+        "nome": "Energy Drink - Redbull 355ml",
+        "preco": 94.22,
+        "quantidade": 79,
+        "idVendedor": 11
+    },
+    {
+        "id": "5ecd411a-400c-4213-af80-c7107f58148d",
+        "nome": "Lamb - Leg, Bone In",
+        "preco": 43.55,
+        "quantidade": 4,
+        "idVendedor": 6
+    },
+    {
+        "id": "f6edda47-50bd-440a-b7b3-992f4678c594",
+        "nome": "Olives - Black, Pitted",
+        "preco": 56.16,
+        "quantidade": 16,
+        "idVendedor": 12
+    },
+    {
+        "id": "3f508c21-a5b3-41b1-a3a7-104823da2dbd",
+        "nome": "Passion Fruit",
+        "preco": 55.54,
+        "quantidade": 1,
+        "idVendedor": 17
+    },
+    {
+        "id": "c0ee9499-8f75-4ef7-ad39-b02c2289e125",
+        "nome": "Table Cloth 62x120 White",
+        "preco": 31.66,
+        "quantidade": 53,
+        "idVendedor": 4
+    },
+    {
+        "id": "7525743e-2c82-4dbb-990e-f284bd58e484",
+        "nome": "Transfer Sheets",
+        "preco": 66.97,
+        "quantidade": 61,
+        "idVendedor": 4
+    },
+    {
+        "id": "38f90aa6-fb34-4361-9e35-29eba97dc23b",
+        "nome": "Gatorade - Cool Blue Raspberry",
+        "preco": 28.6,
+        "quantidade": 93,
+        "idVendedor": 4
+    },
+    {
+        "id": "3e2e69ee-c7c3-4119-8eb6-414c32caa01a",
+        "nome": "Figs",
+        "preco": 57.7,
+        "quantidade": 42,
+        "idVendedor": 8
+    },
+    {
+        "id": "cf61bbe6-1b33-4ac7-ac1c-c1731b557191",
+        "nome": "Cauliflower",
+        "preco": 45.7,
+        "quantidade": 75,
+        "idVendedor": 12
+    },
+    {
+        "id": "225227d1-e2a9-40ea-ba51-28a40542ae54",
+        "nome": "Spinach - Packaged",
+        "preco": 83.35,
+        "quantidade": 23,
+        "idVendedor": 14
+    },
+    {
+        "id": "b7b0cb40-d1c1-4660-a87b-efb2878eefa1",
+        "nome": "Longos - Chicken Cordon Bleu",
+        "preco": 39.29,
+        "quantidade": 36,
+        "idVendedor": 5
+    },
+    {
+        "id": "2e261930-770d-4e95-81a5-8be402fa01b1",
+        "nome": "Wine - Chianti Classico Riserva",
+        "preco": 93.5,
+        "quantidade": 57,
+        "idVendedor": 9
+    },
+    {
+        "id": "29adb465-3731-4017-b72b-9629cf5bda60",
+        "nome": "Cleaner - Comet",
+        "preco": 58.37,
+        "quantidade": 20,
+        "idVendedor": 4
+    },
+    {
+        "id": "5675e5b7-437e-45eb-950b-20836cd657b8",
+        "nome": "Tea - Herbal I Love Lemon",
+        "preco": 31.9,
+        "quantidade": 7,
+        "idVendedor": 15
+    },
+    {
+        "id": "f0fea008-d008-478a-8acf-2d76e988ec6f",
+        "nome": "Cheese - Mozzarella",
+        "preco": 5.49,
+        "quantidade": 66,
+        "idVendedor": 4
+    },
+    {
+        "id": "c1788bc5-280d-400b-a442-d0450bd784f6",
+        "nome": "Fuji Apples",
+        "preco": 94.89,
+        "quantidade": 72,
+        "idVendedor": 10
+    },
+    {
+        "id": "59c7032d-2024-4e05-b783-300739547f86",
+        "nome": "Syrup - Monin, Amaretta",
+        "preco": 68.74,
+        "quantidade": 11,
+        "idVendedor": 2
+    },
+    {
+        "id": "00450626-c0b3-4e2c-812b-914d91ccbbea",
+        "nome": "Pastry - Butterscotch Baked",
+        "preco": 63.22,
+        "quantidade": 56,
+        "idVendedor": 19
+    },
+    {
+        "id": "4ea71f3b-0153-43be-9c5c-c3d05000c329",
+        "nome": "Ketchup - Tomato",
+        "preco": 89.12,
+        "quantidade": 10,
+        "idVendedor": 1
+    },
+    {
+        "id": "abe51fb9-bbea-445e-a351-8e599c3b1059",
+        "nome": "Cognac - Courvaisier",
+        "preco": 52.8,
+        "quantidade": 87,
+        "idVendedor": 3
+    },
+    {
+        "id": "ff60d08d-f326-43db-8a43-ac2d06c065c2",
+        "nome": "Ginger - Crystalized",
+        "preco": 27.17,
+        "quantidade": 100,
+        "idVendedor": 7
+    },
+    {
+        "id": "c1bf5394-f085-41f0-bde9-14692926e9b8",
+        "nome": "Wine - Winzer Krems Gruner",
+        "preco": 84.41,
+        "quantidade": 76,
+        "idVendedor": 10
+    },
+    {
+        "id": "ed8e0cc3-c4b4-4d52-8312-9220b1b4c4d8",
+        "nome": "Basil - Fresh",
+        "preco": 90.28,
+        "quantidade": 41,
+        "idVendedor": 8
+    },
+    {
+        "id": "d7ba39ab-7988-4002-8742-576e86a38047",
+        "nome": "Pork - Backs - Boneless",
+        "preco": 36.12,
+        "quantidade": 87,
+        "idVendedor": 11
+    },
+    {
+        "id": "2830dbf3-9c43-4c0e-9171-6480579c5d0d",
+        "nome": "Coke - Classic, 355 Ml",
+        "preco": 68.53,
+        "quantidade": 95,
+        "idVendedor": 1
+    },
+    {
+        "id": "39637742-07ec-4b81-a4a1-ab2ed494df45",
+        "nome": "Potato - Sweet",
+        "preco": 55.48,
+        "quantidade": 69,
+        "idVendedor": 12
+    },
+    {
+        "id": "513e68e1-fa94-4cd9-8664-355652655ca4",
+        "nome": "Chip - Potato Dill Pickle",
+        "preco": 37.39,
+        "quantidade": 36,
+        "idVendedor": 3
+    },
+    {
+        "id": "e5e6e93c-1d7b-4461-afdf-8a26b7e81cc1",
+        "nome": "Juice - Pineapple, 48 Oz",
+        "preco": 84.61,
+        "quantidade": 33,
+        "idVendedor": 8
+    },
+    {
+        "id": "83a48916-2922-4e91-a3ec-bc4fc6e0f93c",
+        "nome": "Tarts Assorted",
+        "preco": 21.08,
+        "quantidade": 18,
+        "idVendedor": 5
+    },
+    {
+        "id": "6a90db6c-4023-4d60-aa06-ec83d89abf08",
+        "nome": "Jam - Raspberry",
+        "preco": 44.39,
+        "quantidade": 24,
+        "idVendedor": 10
+    },
+    {
+        "id": "b4a8b470-bd1d-49bc-8bea-3ad9348905b9",
+        "nome": "Cake - Dulce De Leche",
+        "preco": 36.79,
+        "quantidade": 84,
+        "idVendedor": 19
+    },
+    {
+        "id": "a5fe329e-b43e-490b-a283-07c819d70444",
+        "nome": "Basil - Pesto Sauce",
+        "preco": 40.02,
+        "quantidade": 76,
+        "idVendedor": 13
+    },
+    {
+        "id": "6fa79177-d794-445c-a305-fb0766ffa1e9",
+        "nome": "Vol Au Vents",
+        "preco": 76.82,
+        "quantidade": 73,
+        "idVendedor": 12
+    },
+    {
+        "id": "843765b3-9460-4a08-9c5f-32f154f2090e",
+        "nome": "Energy Drink Bawls",
+        "preco": 19.31,
+        "quantidade": 55,
+        "idVendedor": 12
+    },
+    {
+        "id": "cd37a399-38a8-42bd-a0cc-a32ace502560",
+        "nome": "Pork - Ham Hocks - Smoked",
+        "preco": 97.06,
+        "quantidade": 17,
+        "idVendedor": 15
+    },
+    {
+        "id": "6a3c363a-93ca-436e-bfb2-ebea77185395",
+        "nome": "Brandy - Bar",
+        "preco": 86.94,
+        "quantidade": 3,
+        "idVendedor": 14
+    },
+    {
+        "id": "77e46c79-e5f9-40fb-8ea0-08d59bbb64d1",
+        "nome": "Beer - Alexander Kieths, Pale Ale",
+        "preco": 78.18,
+        "quantidade": 65,
+        "idVendedor": 6
+    },
+    {
+        "id": "17873569-293f-49fb-b32b-4190978f11ed",
+        "nome": "Mcguinness - Blue Curacao",
+        "preco": 51.74,
+        "quantidade": 35,
+        "idVendedor": 6
+    },
+    {
+        "id": "6788cfc1-70f5-4aa3-b87b-d37fe925dc80",
+        "nome": "Cookies - Englishbay Wht",
+        "preco": 93.65,
+        "quantidade": 43,
+        "idVendedor": 12
+    },
+    {
+        "id": "1e027624-fd2d-4145-b73c-46e60a7246b7",
+        "nome": "Fruit Mix - Light",
+        "preco": 10.34,
+        "quantidade": 77,
+        "idVendedor": 9
+    },
+    {
+        "id": "07d42983-1590-44e8-ac7c-d7f0577dea06",
+        "nome": "Glucose",
+        "preco": 70.67,
+        "quantidade": 19,
+        "idVendedor": 6
+    },
+    {
+        "id": "27060dbf-7016-4b59-9d51-d7025ec299fe",
+        "nome": "Sauce - Alfredo",
+        "preco": 3.57,
+        "quantidade": 76,
+        "idVendedor": 16
+    },
+    {
+        "id": "31719e00-a9c3-45a8-a2f8-2f8d6d020826",
+        "nome": "Scotch - Queen Anne",
+        "preco": 87.24,
+        "quantidade": 80,
+        "idVendedor": 7
+    },
+    {
+        "id": "3756910c-6810-4580-9b2b-361ae2436403",
+        "nome": "Muffin Mix - Banana Nut",
+        "preco": 45.18,
+        "quantidade": 35,
+        "idVendedor": 5
+    },
+    {
+        "id": "fd25a599-c4bb-4859-bf18-8e3093879d18",
+        "nome": "Swiss Chard - Red",
+        "preco": 28.09,
+        "quantidade": 89,
+        "idVendedor": 16
+    },
+    {
+        "id": "a628c989-2caa-4a39-8510-caa6cd01f77e",
+        "nome": "Bread - Malt",
+        "preco": 7.59,
+        "quantidade": 27,
+        "idVendedor": 2
+    },
+    {
+        "id": "dd4cb7d8-8bd4-44b6-8228-08964e8c42c8",
+        "nome": "Cookies - Assorted",
+        "preco": 9.5,
+        "quantidade": 83,
+        "idVendedor": 8
+    },
+    {
+        "id": "2bfe36f7-e491-42e4-9f2f-3eada0c469e0",
+        "nome": "Pear - Asian",
+        "preco": 43.55,
+        "quantidade": 60,
+        "idVendedor": 19
+    },
+    {
+        "id": "4b78e45e-23fc-436a-a970-7d4cf81e08ad",
+        "nome": "Oneshot Automatic Soap System",
+        "preco": 96.15,
+        "quantidade": 74,
+        "idVendedor": 10
+    },
+    {
+        "id": "77f45d11-96e8-4f54-8a51-b9311f97293c",
+        "nome": "Wine - Magnotta - Cab Sauv",
+        "preco": 50.8,
+        "quantidade": 89,
+        "idVendedor": 8
+    },
+    {
+        "id": "89c31000-205b-4d3e-9a71-77faa852473c",
+        "nome": "Mix - Cocktail Strawberry Daiquiri",
+        "preco": 49.5,
+        "quantidade": 13,
+        "idVendedor": 5
+    },
+    {
+        "id": "97c009ad-84c5-4451-a8fa-4d960251a001",
+        "nome": "Pepper - Roasted Red",
+        "preco": 16.41,
+        "quantidade": 82,
+        "idVendedor": 14
+    },
+    {
+        "id": "42f3a283-8bbe-453e-9ff4-48f0927bd6cd",
+        "nome": "Tea - English Breakfast",
+        "preco": 1.69,
+        "quantidade": 64,
+        "idVendedor": 4
+    },
+    {
+        "id": "46be1958-888e-481f-adcc-1a56f92f856c",
+        "nome": "Water - San Pellegrino",
+        "preco": 8.24,
+        "quantidade": 25,
+        "idVendedor": 20
+    },
+    {
+        "id": "824d9f66-5f39-4266-baa1-f9ef2e7d999a",
+        "nome": "Tea Leaves - Oolong",
+        "preco": 22.15,
+        "quantidade": 81,
+        "idVendedor": 8
+    },
+    {
+        "id": "6df40a18-d28f-4fc3-9e55-b22e8bd459ef",
+        "nome": "Broom - Corn",
+        "preco": 59.48,
+        "quantidade": 41,
+        "idVendedor": 9
+    },
+    {
+        "id": "8a8e3dba-c8fa-4c99-a1da-e08ab15a7242",
+        "nome": "Vermacelli - Sprinkles, Assorted",
+        "preco": 91.53,
+        "quantidade": 17,
+        "idVendedor": 20
+    },
+    {
+        "id": "aaac75d3-6f02-46a4-84e4-f3267e2c45e7",
+        "nome": "Icecream Bar - Del Monte",
+        "preco": 48.4,
+        "quantidade": 100,
+        "idVendedor": 10
+    },
+    {
+        "id": "682b2a32-26f9-4fde-9afd-659900e7ad48",
+        "nome": "Extract - Raspberry",
+        "preco": 47.78,
+        "quantidade": 2,
+        "idVendedor": 1
+    },
+    {
+        "id": "84dd5917-f97f-4fe3-9a5b-c289cf3b59d0",
+        "nome": "Corn Meal",
+        "preco": 66.11,
+        "quantidade": 14,
+        "idVendedor": 19
+    },
+    {
+        "id": "13d2918f-daa1-4fe8-a96e-f850ed0a3965",
+        "nome": "Bar Nature Valley",
+        "preco": 26.56,
+        "quantidade": 46,
+        "idVendedor": 20
+    },
+    {
+        "id": "f17a4cd8-7095-4537-a073-08fffc627b85",
+        "nome": "Jicama",
+        "preco": 58.93,
+        "quantidade": 96,
+        "idVendedor": 2
+    },
+    {
+        "id": "9868002b-49fc-48d4-bbd1-e02670465c72",
+        "nome": "Soup Campbells",
+        "preco": 10.38,
+        "quantidade": 78,
+        "idVendedor": 6
+    },
+    {
+        "id": "b2056fea-31d2-4869-8ab1-5bd4480a7506",
+        "nome": "Pasta - Fettuccine, Dry",
+        "preco": 75.38,
+        "quantidade": 52,
+        "idVendedor": 12
+    },
+    {
+        "id": "7d28709c-fa4f-400d-b3fb-3d808e7c4400",
+        "nome": "Soup - Campbells - Tomato",
+        "preco": 42.93,
+        "quantidade": 59,
+        "idVendedor": 6
+    },
+    {
+        "id": "bdefcf58-2eea-46a8-814c-0ffd134999c5",
+        "nome": "Cheese - Gouda Smoked",
+        "preco": 4.64,
+        "quantidade": 59,
+        "idVendedor": 13
+    },
+    {
+        "id": "3cce9262-f441-48c6-a776-29df5baf5731",
+        "nome": "Carbonated Water - Raspberry",
+        "preco": 2.67,
+        "quantidade": 60,
+        "idVendedor": 5
+    },
+    {
+        "id": "619fc166-98eb-408f-9ce8-79bd2f799f83",
+        "nome": "Puree - Blackcurrant",
+        "preco": 77.75,
+        "quantidade": 22,
+        "idVendedor": 4
+    },
+    {
+        "id": "ba2cbd48-3df2-4adb-86d7-936c53a908de",
+        "nome": "Beef Striploin Aaa",
+        "preco": 70.55,
+        "quantidade": 71,
+        "idVendedor": 18
+    },
+    {
+        "id": "8e21b9f2-a7c7-4e8f-91a8-e89d422c60e2",
+        "nome": "Chevril",
+        "preco": 19.82,
+        "quantidade": 72,
+        "idVendedor": 14
+    },
+    {
+        "id": "fae79f3f-0085-46ac-832f-9438a0385c85",
+        "nome": "Fork - Plastic",
+        "preco": 19.59,
+        "quantidade": 82,
+        "idVendedor": 7
+    },
+    {
+        "id": "cdf40de6-cf37-4086-941d-83d1ffdaa485",
+        "nome": "Beer - Rickards Red",
+        "preco": 16.97,
+        "quantidade": 63,
+        "idVendedor": 4
+    },
+    {
+        "id": "540980e4-6615-4894-9a7b-1675869cb9d1",
+        "nome": "Yogurt - Blueberry, 175 Gr",
+        "preco": 74.95,
+        "quantidade": 39,
+        "idVendedor": 4
+    },
+    {
+        "id": "9f8cb0d7-8d96-4e5f-b36c-dc75ff0b4a14",
+        "nome": "Cookie - Oatmeal",
+        "preco": 21.61,
+        "quantidade": 18,
+        "idVendedor": 10
+    },
+    {
+        "id": "9c3d8662-9e0f-4354-84c4-86c1e7efdd20",
+        "nome": "Mudslide",
+        "preco": 65.31,
+        "quantidade": 61,
+        "idVendedor": 6
+    },
+    {
+        "id": "bf44d145-09ea-4df9-9302-6f8c166b2f32",
+        "nome": "Food Colouring - Pink",
+        "preco": 13.58,
+        "quantidade": 12,
+        "idVendedor": 13
+    },
+    {
+        "id": "bf5cb664-dbb6-42d1-9bd9-da63d71677b3",
+        "nome": "Potatoes - Pei 10 Oz",
+        "preco": 38.09,
+        "quantidade": 57,
+        "idVendedor": 13
+    },
+    {
+        "id": "beef3e54-8b08-4d52-bc52-042c34190287",
+        "nome": "Split Peas - Yellow, Dry",
+        "preco": 25.11,
+        "quantidade": 63,
+        "idVendedor": 13
+    },
+    {
+        "id": "e2b190a3-d1e4-45dc-94c2-de20c806cda6",
+        "nome": "Dc - Sakura Fu",
+        "preco": 15.09,
+        "quantidade": 51,
+        "idVendedor": 10
+    },
+    {
+        "id": "38189578-86bc-4be4-bddf-9cec77128ee6",
+        "nome": "Pumpkin",
+        "preco": 81.58,
+        "quantidade": 70,
+        "idVendedor": 9
+    },
+    {
+        "id": "c9a3b550-4717-4b6f-a46d-4c6c6d26eada",
+        "nome": "Beef - Salted",
+        "preco": 19.99,
+        "quantidade": 48,
+        "idVendedor": 4
+    },
+    {
+        "id": "6f56c85a-2c40-4d63-8447-094011b4114b",
+        "nome": "Beans - Kidney, Canned",
+        "preco": 8.28,
+        "quantidade": 12,
+        "idVendedor": 14
+    },
+    {
+        "id": "2f3eeb24-e2e4-44fe-99b1-920bd4067da3",
+        "nome": "Cookies - Fortune",
+        "preco": 62.76,
+        "quantidade": 62,
+        "idVendedor": 2
+    },
+    {
+        "id": "55c7d9a3-c8ff-4bbc-b976-5fe70fedd6ef",
+        "nome": "Wine - Tribal Sauvignon",
+        "preco": 99.91,
+        "quantidade": 42,
+        "idVendedor": 4
+    },
+    {
+        "id": "423d82e3-6ac9-4fbb-bec7-c754ee64b345",
+        "nome": "Mushroom - Morel Frozen",
+        "preco": 29.58,
+        "quantidade": 21,
+        "idVendedor": 8
+    },
+    {
+        "id": "49738b63-c6d1-4030-a1c5-f5dfa95f8bdb",
+        "nome": "Island Oasis - Banana Daiquiri",
+        "preco": 1.32,
+        "quantidade": 26,
+        "idVendedor": 16
+    },
+    {
+        "id": "93719348-9a24-4ebb-b55c-e8208966492b",
+        "nome": "Longos - Chicken Curried",
+        "preco": 74.6,
+        "quantidade": 93,
+        "idVendedor": 17
+    },
+    {
+        "id": "1b0a597c-4443-41ba-aa37-426cb4658377",
+        "nome": "Pastry - Cheese Baked Scones",
+        "preco": 45.3,
+        "quantidade": 38,
+        "idVendedor": 5
+    },
+    {
+        "id": "cda35b0f-7c2f-453c-bcc4-39ab8ef4092a",
+        "nome": "Bread - Flat Bread",
+        "preco": 21.68,
+        "quantidade": 44,
+        "idVendedor": 8
+    },
+    {
+        "id": "4b93980a-675c-4ed6-91ad-f6c9d7c75ba8",
+        "nome": "Sobe - Green Tea",
+        "preco": 3.87,
+        "quantidade": 67,
+        "idVendedor": 18
+    },
+    {
+        "id": "19cfe0cf-623c-4e1a-acbf-dec05c6df17d",
+        "nome": "Lamb - Loin Chops",
+        "preco": 29.17,
+        "quantidade": 59,
+        "idVendedor": 11
+    },
+    {
+        "id": "a1f92b32-479f-4f66-91f9-903bb94da9fc",
+        "nome": "Vinegar - Cider",
+        "preco": 84.94,
+        "quantidade": 12,
+        "idVendedor": 4
+    },
+    {
+        "id": "63b591b0-d046-41ba-b866-81b1a60017e2",
+        "nome": "Water, Tap",
+        "preco": 37.3,
+        "quantidade": 37,
+        "idVendedor": 15
+    },
+    {
+        "id": "9366b244-deab-4cd4-b07f-00f7c236c0bb",
+        "nome": "Ecolab - Mikroklene 4/4 L",
+        "preco": 53.2,
+        "quantidade": 80,
+        "idVendedor": 5
+    },
+    {
+        "id": "6dcec679-916b-4196-af33-da7f509bf349",
+        "nome": "Crush - Grape, 355 Ml",
+        "preco": 48.36,
+        "quantidade": 57,
+        "idVendedor": 8
+    },
+    {
+        "id": "fc7204f9-5730-4219-922e-63642e194abc",
+        "nome": "Chef Hat 20cm",
+        "preco": 95.6,
+        "quantidade": 76,
+        "idVendedor": 6
+    },
+    {
+        "id": "680f151b-f385-4f35-93ec-b9d79346aa23",
+        "nome": "Tahini Paste",
+        "preco": 82.27,
+        "quantidade": 62,
+        "idVendedor": 14
+    },
+    {
+        "id": "30dce8d0-51d5-47a1-9572-4296876f68e5",
+        "nome": "Lamb - Whole, Frozen",
+        "preco": 93.69,
+        "quantidade": 64,
+        "idVendedor": 7
+    },
+    {
+        "id": "1981fe22-7d25-45fe-894f-aefe7c8dc0e7",
+        "nome": "Pastry - Cherry Danish - Mini",
+        "preco": 78.37,
+        "quantidade": 60,
+        "idVendedor": 17
+    },
+    {
+        "id": "d71e8715-84af-4575-9dd7-f6a67fb27437",
+        "nome": "Cookie Double Choco",
+        "preco": 74.23,
+        "quantidade": 25,
+        "idVendedor": 3
+    },
+    {
+        "id": "7a9651ab-f74c-485d-93b5-4455ee7fa4be",
+        "nome": "Truffle Paste",
+        "preco": 63.29,
+        "quantidade": 98,
+        "idVendedor": 14
+    },
+    {
+        "id": "9d24723d-1d23-4cba-95e7-4914518918af",
+        "nome": "Scallops - 10/20",
+        "preco": 87.57,
+        "quantidade": 39,
+        "idVendedor": 5
+    },
+    {
+        "id": "2c4333e0-25dd-4dca-a719-0ce94505c860",
+        "nome": "Marjoram - Fresh",
+        "preco": 20.57,
+        "quantidade": 67,
+        "idVendedor": 14
+    },
+    {
+        "id": "f0f16df0-e318-4631-8052-3d9ce418bcc5",
+        "nome": "Beef - Rib Eye Aaa",
+        "preco": 22.85,
+        "quantidade": 93,
+        "idVendedor": 7
+    },
+    {
+        "id": "430877b4-b2d6-47db-8679-5083b31c2112",
+        "nome": "Langers - Ruby Red Grapfruit",
+        "preco": 63.56,
+        "quantidade": 9,
+        "idVendedor": 13
+    },
+    {
+        "id": "c7cf7de3-b42c-447b-8277-095775713863",
+        "nome": "Wine - Magnotta - Pinot Gris Sr",
+        "preco": 65.85,
+        "quantidade": 95,
+        "idVendedor": 6
+    },
+    {
+        "id": "74149a33-98fc-432c-8713-245856d24392",
+        "nome": "Nestea - Ice Tea, Diet",
+        "preco": 82.69,
+        "quantidade": 31,
+        "idVendedor": 17
+    },
+    {
+        "id": "ece368ff-32f7-4a72-895e-e2f8d8572f98",
+        "nome": "Champagne - Brights, Dry",
+        "preco": 97.67,
+        "quantidade": 7,
+        "idVendedor": 16
+    },
+    {
+        "id": "b46d8abf-024a-46e9-a430-5e4da881b251",
+        "nome": "Carrots - Purple, Organic",
+        "preco": 86.29,
+        "quantidade": 79,
+        "idVendedor": 19
+    },
+    {
+        "id": "0227c462-4189-46da-80b2-b46e912b9a3c",
+        "nome": "Nestea - Ice Tea, Diet",
+        "preco": 61.58,
+        "quantidade": 76,
+        "idVendedor": 8
+    },
+    {
+        "id": "7705028c-317e-49f8-8690-7051dba1512a",
+        "nome": "Banana",
+        "preco": 83.32,
+        "quantidade": 41,
+        "idVendedor": 4
+    },
+    {
+        "id": "8fc00dec-1714-4a6d-9871-5dc0d233dd7d",
+        "nome": "Hot Choc Vending",
+        "preco": 87.88,
+        "quantidade": 29,
+        "idVendedor": 4
+    },
+    {
+        "id": "03f942cd-3cde-410b-924a-d0b720d1cc78",
+        "nome": "Dc - Sakura Fu",
+        "preco": 58.63,
+        "quantidade": 96,
+        "idVendedor": 1
+    },
+    {
+        "id": "8b38248c-8327-4cbb-88c9-7856e9c18d30",
+        "nome": "Beef - Top Butt",
+        "preco": 59.74,
+        "quantidade": 62,
+        "idVendedor": 18
+    },
+    {
+        "id": "a4718028-f400-415c-b0e7-a708bb2c3255",
+        "nome": "Chicken - Whole Fryers",
+        "preco": 55.36,
+        "quantidade": 48,
+        "idVendedor": 16
+    },
+    {
+        "id": "40c13e24-d3c1-4db7-bb53-adc51dfc4de0",
+        "nome": "Soup - Campbells Pasta Fagioli",
+        "preco": 72.65,
+        "quantidade": 98,
+        "idVendedor": 8
+    },
+    {
+        "id": "893d3e31-3672-49ae-ada0-18e7aa9e51c7",
+        "nome": "Sprouts - Bean",
+        "preco": 18.41,
+        "quantidade": 82,
+        "idVendedor": 17
+    },
+    {
+        "id": "564ffa2b-be87-4316-b5ac-23163153088e",
+        "nome": "Clam Nectar",
+        "preco": 89.46,
+        "quantidade": 63,
+        "idVendedor": 3
+    },
+    {
+        "id": "39cb058d-350e-4d5f-8eb2-f7c103b2ac61",
+        "nome": "Soup - Campbellschix Stew",
+        "preco": 37.4,
+        "quantidade": 70,
+        "idVendedor": 10
+    },
+    {
+        "id": "ef06e046-909b-49d9-aa14-e5da113a5c8d",
+        "nome": "Sugar Thermometer",
+        "preco": 59.35,
+        "quantidade": 44,
+        "idVendedor": 12
+    },
+    {
+        "id": "a376800e-2625-42b8-a411-35a2d143446b",
+        "nome": "Nut - Pistachio, Shelled",
+        "preco": 65.07,
+        "quantidade": 67,
+        "idVendedor": 12
+    },
+    {
+        "id": "f97c860b-6e38-44d4-9270-994e3c9dd2ca",
+        "nome": "Juice - Ocean Spray Cranberry",
+        "preco": 34.25,
+        "quantidade": 53,
+        "idVendedor": 1
+    },
+    {
+        "id": "cf66b895-9302-4adc-93cb-7ffea7a8c4b9",
+        "nome": "Radish - Pickled",
+        "preco": 87.42,
+        "quantidade": 52,
+        "idVendedor": 8
+    },
+    {
+        "id": "5667b167-10af-49d0-9dbb-1702c1601efa",
+        "nome": "Potatoes - Purple, Organic",
+        "preco": 33.03,
+        "quantidade": 64,
+        "idVendedor": 19
+    },
+    {
+        "id": "d7961b61-2cd1-4c72-9896-a7d345dc3616",
+        "nome": "Foil Cont Round",
+        "preco": 69.8,
+        "quantidade": 53,
+        "idVendedor": 16
+    },
+    {
+        "id": "3df7af55-bf12-495f-8b3b-fea40f76a2a7",
+        "nome": "Sauce - Gravy, Au Jus, Mix",
+        "preco": 40.18,
+        "quantidade": 27,
+        "idVendedor": 13
+    },
+    {
+        "id": "b1fa8125-9549-4145-8244-53e0ce72815d",
+        "nome": "Beef - Kindney, Whole",
+        "preco": 59.89,
+        "quantidade": 77,
+        "idVendedor": 16
+    },
+    {
+        "id": "a96c0a26-bd29-457a-88aa-eb94b873567e",
+        "nome": "Cheese - Brie Roitelet",
+        "preco": 38.7,
+        "quantidade": 79,
+        "idVendedor": 11
+    },
+    {
+        "id": "5e7d93c7-9fee-4318-9e7e-88f662583b7f",
+        "nome": "Tea - Earl Grey",
+        "preco": 97.51,
+        "quantidade": 69,
+        "idVendedor": 16
+    },
+    {
+        "id": "af8d80e8-841b-4d0a-b3c4-b96df9cb7595",
+        "nome": "Vinegar - Balsamic",
+        "preco": 83.42,
+        "quantidade": 24,
+        "idVendedor": 14
+    },
+    {
+        "id": "c87cae6b-8cb1-4159-8083-6defaf8faad9",
+        "nome": "Banana",
+        "preco": 40.44,
+        "quantidade": 24,
+        "idVendedor": 13
+    },
+    {
+        "id": "a98af1d4-5bdb-4258-80af-30159c11fc47",
+        "nome": "Wine - Soave Folonari",
+        "preco": 60.92,
+        "quantidade": 7,
+        "idVendedor": 13
+    },
+    {
+        "id": "853128d9-e2ef-4b1a-afb6-cfdc9794fc2d",
+        "nome": "Mudslide",
+        "preco": 32.95,
+        "quantidade": 77,
+        "idVendedor": 10
+    },
+    {
+        "id": "2c17fbca-083e-4c98-a5de-45cd6437904f",
+        "nome": "Salt - Table",
+        "preco": 96.04,
+        "quantidade": 66,
+        "idVendedor": 3
+    },
+    {
+        "id": "02361975-8de6-48af-af73-d654edbf4d6b",
+        "nome": "Wine - Chardonnay Mondavi",
+        "preco": 12.09,
+        "quantidade": 49,
+        "idVendedor": 9
+    },
+    {
+        "id": "ffc1a04e-6589-4c4a-b291-8cd9c7a64e92",
+        "nome": "Wine - Magnotta - Belpaese",
+        "preco": 13.94,
+        "quantidade": 54,
+        "idVendedor": 14
+    },
+    {
+        "id": "6e5070cc-1d23-447b-ac7a-d1087b79206a",
+        "nome": "Breakfast Quesadillas",
+        "preco": 78.72,
+        "quantidade": 97,
+        "idVendedor": 9
+    },
+    {
+        "id": "0b8dccd4-b1e4-4327-82c4-3e036bc2c85e",
+        "nome": "Marzipan 50/50",
+        "preco": 75.87,
+        "quantidade": 27,
+        "idVendedor": 10
+    },
+    {
+        "id": "d1e1314b-8273-4457-9f95-e32a3e44bf8b",
+        "nome": "V8 Splash Strawberry Banana",
+        "preco": 89.01,
+        "quantidade": 28,
+        "idVendedor": 19
+    },
+    {
+        "id": "345fc758-ba29-4f9b-90e6-eaa9bf09b982",
+        "nome": "C - Plus, Orange",
+        "preco": 98.01,
+        "quantidade": 18,
+        "idVendedor": 18
+    },
+    {
+        "id": "77126da4-a8bb-4344-9eb7-4c551bf09ff3",
+        "nome": "Sugar - Crumb",
+        "preco": 15.24,
+        "quantidade": 60,
+        "idVendedor": 10
+    },
+    {
+        "id": "7b47a191-8da7-4203-80ae-6ce4298a9b9b",
+        "nome": "Wine - White, Riesling, Henry Of",
+        "preco": 59.95,
+        "quantidade": 85,
+        "idVendedor": 13
+    },
+    {
+        "id": "e210e47e-0ba8-4240-8c3e-253bcc491314",
+        "nome": "Appetizer - Sausage Rolls",
+        "preco": 60.26,
+        "quantidade": 72,
+        "idVendedor": 15
+    },
+    {
+        "id": "f156c5b9-d14a-4bbe-8431-bebad2c012b3",
+        "nome": "Butter - Salted",
+        "preco": 13.32,
+        "quantidade": 45,
+        "idVendedor": 20
+    },
+    {
+        "id": "445cfbaf-ce5f-4315-8603-03a8ff947975",
+        "nome": "Bagels Poppyseed",
+        "preco": 48.33,
+        "quantidade": 64,
+        "idVendedor": 18
+    },
+    {
+        "id": "fa8bf6bb-1a72-4a36-8b9c-b5e8620e3bbe",
+        "nome": "Towel Multifold",
+        "preco": 38.35,
+        "quantidade": 13,
+        "idVendedor": 9
+    },
+    {
+        "id": "b36d88ff-0fd2-4bb6-bbec-d0fc7f936e45",
+        "nome": "Cranberries - Fresh",
+        "preco": 84.75,
+        "quantidade": 69,
+        "idVendedor": 17
+    },
+    {
+        "id": "fe1919e3-7c26-4be6-8d82-af14221b1a8a",
+        "nome": "Bag Stand",
+        "preco": 18.46,
+        "quantidade": 75,
+        "idVendedor": 12
+    },
+    {
+        "id": "015d225f-31a6-4aa3-afbe-db3518b7c94b",
+        "nome": "Ecolab - Lime - A - Way 4/4 L",
+        "preco": 56.6,
+        "quantidade": 18,
+        "idVendedor": 17
+    },
+    {
+        "id": "7e243435-c97c-4e3b-a072-2a92406b15d4",
+        "nome": "Apple - Royal Gala",
+        "preco": 74.42,
+        "quantidade": 75,
+        "idVendedor": 2
+    },
+    {
+        "id": "844f7e63-28ee-46ea-bd5b-b558099eacc6",
+        "nome": "Coffee - Frthy Coffee Crisp",
+        "preco": 75.77,
+        "quantidade": 29,
+        "idVendedor": 4
+    },
+    {
+        "id": "baefbfd6-8334-415c-8dd0-938bf00a5774",
+        "nome": "Halibut - Steaks",
+        "preco": 10.71,
+        "quantidade": 58,
+        "idVendedor": 1
+    },
+    {
+        "id": "6e367509-e10e-4176-8379-c20b6614b14c",
+        "nome": "Soup Bowl Clear 8oz92008",
+        "preco": 3.62,
+        "quantidade": 93,
+        "idVendedor": 7
+    },
+    {
+        "id": "92daa69d-1ecd-4a9b-b6d3-c87f55364cd4",
+        "nome": "Veal - Brisket, Provimi,bnls",
+        "preco": 58.94,
+        "quantidade": 25,
+        "idVendedor": 16
+    },
+    {
+        "id": "d80acee6-30f8-475d-ba48-59f4f3f46d57",
+        "nome": "Carbonated Water - Orange",
+        "preco": 35.72,
+        "quantidade": 22,
+        "idVendedor": 9
+    },
+    {
+        "id": "91276183-2e3e-4d9c-9a90-ef15652f7bc5",
+        "nome": "Quail - Whole, Boneless",
+        "preco": 81.18,
+        "quantidade": 50,
+        "idVendedor": 16
+    },
+    {
+        "id": "da1e822d-0c0d-453b-92b5-8d328eaf3989",
+        "nome": "Potatoes - Pei 10 Oz",
+        "preco": 56.75,
+        "quantidade": 41,
+        "idVendedor": 10
+    },
+    {
+        "id": "d1c4b52a-90a6-4fc7-9c4a-2eca5215c941",
+        "nome": "Wine - Red, Gallo, Merlot",
+        "preco": 33.43,
+        "quantidade": 39,
+        "idVendedor": 13
+    },
+    {
+        "id": "7bf4801b-4bb3-4002-b72d-fe3c19fecc22",
+        "nome": "Calypso - Black Cherry Lemonade",
+        "preco": 45.4,
+        "quantidade": 77,
+        "idVendedor": 5
+    },
+    {
+        "id": "b21a455b-62de-4037-81f1-faab8b54959f",
+        "nome": "Smoked Tongue",
+        "preco": 8.9,
+        "quantidade": 59,
+        "idVendedor": 7
+    },
+    {
+        "id": "5d2b7a68-679f-4970-93ed-284cdf77040d",
+        "nome": "Grapefruit - White",
+        "preco": 18.63,
+        "quantidade": 17,
+        "idVendedor": 8
+    },
+    {
+        "id": "84e86c0a-b653-4b2d-b271-d5c9b87f8205",
+        "nome": "Vector Energy Bar",
+        "preco": 36.6,
+        "quantidade": 22,
+        "idVendedor": 2
+    },
+    {
+        "id": "a1cd83c9-eac3-4c6e-9bc1-36e1560a27d5",
+        "nome": "Nantucket - Kiwi Berry Cktl.",
+        "preco": 36.93,
+        "quantidade": 49,
+        "idVendedor": 15
+    },
+    {
+        "id": "8c495e6f-661e-4e9f-95bf-002f162ac6f6",
+        "nome": "Cheese - Gouda Smoked",
+        "preco": 40.39,
+        "quantidade": 22,
+        "idVendedor": 12
+    },
+    {
+        "id": "566fc910-0ac9-4746-9ace-17648f7649cb",
+        "nome": "Sole - Iqf",
+        "preco": 63.35,
+        "quantidade": 40,
+        "idVendedor": 4
+    },
+    {
+        "id": "d512449c-57b8-4bbc-8e94-851048fa355b",
+        "nome": "Corn - Cream, Canned",
+        "preco": 61.24,
+        "quantidade": 39,
+        "idVendedor": 15
+    },
+    {
+        "id": "3eb607b0-88af-4329-bf08-5f10a27b61b0",
+        "nome": "Teriyaki Sauce",
+        "preco": 52.39,
+        "quantidade": 17,
+        "idVendedor": 11
+    },
+    {
+        "id": "c0a5dd6d-ef19-4751-b42c-98e77c60ac5e",
+        "nome": "Water, Tap",
+        "preco": 40.96,
+        "quantidade": 49,
+        "idVendedor": 14
+    },
+    {
+        "id": "ad780c5b-2f2d-4531-afa0-298119978e44",
+        "nome": "Truffle Shells - White Chocolate",
+        "preco": 70.86,
+        "quantidade": 100,
+        "idVendedor": 3
+    },
+    {
+        "id": "205146a8-c1db-4d2d-80b0-22890c236eb5",
+        "nome": "Bread - Rosemary Focaccia",
+        "preco": 21.75,
+        "quantidade": 25,
+        "idVendedor": 11
+    },
+    {
+        "id": "cab96687-920f-4ea6-afe9-ef413bb3a14e",
+        "nome": "Muffin Batt - Choc Chk",
+        "preco": 84.01,
+        "quantidade": 20,
+        "idVendedor": 18
+    },
+    {
+        "id": "cffe74e2-4ec0-4733-9ce4-799394e3f4eb",
+        "nome": "Rum - Dark, Bacardi, Black",
+        "preco": 52.98,
+        "quantidade": 54,
+        "idVendedor": 7
+    },
+    {
+        "id": "a4ec9fa0-ceb9-40e2-bb2e-483a72076d42",
+        "nome": "Longos - Chicken Curried",
+        "preco": 27.86,
+        "quantidade": 7,
+        "idVendedor": 7
+    },
+    {
+        "id": "94987a7e-ae3b-45c6-ba74-33a53f8cb5ef",
+        "nome": "Parsley - Dried",
+        "preco": 11.27,
+        "quantidade": 13,
+        "idVendedor": 5
+    },
+    {
+        "id": "e01ee97c-f7fd-418f-b57e-124047e2fbdf",
+        "nome": "Sole - Fillet",
+        "preco": 73.31,
+        "quantidade": 19,
+        "idVendedor": 4
+    },
+    {
+        "id": "50abcd35-db3c-42ca-b357-27b5b2b521af",
+        "nome": "Cheese - Augre Des Champs",
+        "preco": 1.85,
+        "quantidade": 2,
+        "idVendedor": 15
+    },
+    {
+        "id": "b6df76dd-b072-48ca-95b9-aef831889168",
+        "nome": "Table Cloth 53x69 White",
+        "preco": 11.26,
+        "quantidade": 58,
+        "idVendedor": 7
+    },
+    {
+        "id": "3f67d829-cdd4-469c-be23-6b3ebee2665c",
+        "nome": "Turnip - White, Organic",
+        "preco": 46.17,
+        "quantidade": 75,
+        "idVendedor": 3
+    },
+    {
+        "id": "93fd03c1-7fe8-4b4e-b800-e3a89b40130a",
+        "nome": "Pastry - Banana Tea Loaf",
+        "preco": 98.74,
+        "quantidade": 72,
+        "idVendedor": 14
+    },
+    {
+        "id": "c5b437c9-47d9-4bb1-987a-c7895d23a6b4",
+        "nome": "Filling - Mince Meat",
+        "preco": 95.26,
+        "quantidade": 58,
+        "idVendedor": 15
+    },
+    {
+        "id": "d2105c84-b601-4410-97bc-27a5ed18bc36",
+        "nome": "Longos - Cheese Tortellini",
+        "preco": 45.65,
+        "quantidade": 41,
+        "idVendedor": 7
+    },
+    {
+        "id": "d76bd49b-b6a7-4217-aba3-fb93c75ea072",
+        "nome": "Apricots - Halves",
+        "preco": 7.17,
+        "quantidade": 80,
+        "idVendedor": 9
+    },
+    {
+        "id": "555d3583-100c-464c-99e3-5a3ffc940cc4",
+        "nome": "Beer - Molson Excel",
+        "preco": 46.1,
+        "quantidade": 61,
+        "idVendedor": 14
+    },
+    {
+        "id": "ba90e4b5-addd-441b-9263-74b92c5df886",
+        "nome": "Veal - Round, Eye Of",
+        "preco": 40.06,
+        "quantidade": 99,
+        "idVendedor": 17
+    },
+    {
+        "id": "f0ef74fd-8bb5-42c6-87eb-6fa9f7c184d2",
+        "nome": "Lemonade - Pineapple Passion",
+        "preco": 79.49,
+        "quantidade": 17,
+        "idVendedor": 2
+    },
+    {
+        "id": "5aa881e5-ed1f-44ed-8dd6-2f0e8ce5f597",
+        "nome": "Coffee - Decafenated",
+        "preco": 58.72,
+        "quantidade": 77,
+        "idVendedor": 4
+    },
+    {
+        "id": "1d805b64-be61-483b-af42-5f9369cd0843",
+        "nome": "Chocolate - Pistoles, Lactee, Milk",
+        "preco": 84.94,
+        "quantidade": 7,
+        "idVendedor": 12
+    },
+    {
+        "id": "f61e4019-20c6-4a5f-b9a6-d180ed5fce40",
+        "nome": "Appetizer - Smoked Salmon / Dill",
+        "preco": 46.15,
+        "quantidade": 66,
+        "idVendedor": 3
+    },
+    {
+        "id": "bd5cc155-150a-48b9-852c-116001ce54aa",
+        "nome": "Jack Daniels",
+        "preco": 49.18,
+        "quantidade": 91,
+        "idVendedor": 10
+    },
+    {
+        "id": "eff1f099-669c-4fc3-9af8-fee4b8122032",
+        "nome": "Tea - Grapefruit Green Tea",
+        "preco": 35.37,
+        "quantidade": 1,
+        "idVendedor": 11
+    },
+    {
+        "id": "0ab189c7-c8eb-43c3-bd75-1782845c415a",
+        "nome": "Pail For Lid 1537",
+        "preco": 92.76,
+        "quantidade": 6,
+        "idVendedor": 8
+    },
+    {
+        "id": "32f3cb17-1ccb-4b31-aa34-e2b5de12c544",
+        "nome": "Cheese - Valancey",
+        "preco": 78.02,
+        "quantidade": 70,
+        "idVendedor": 11
+    },
+    {
+        "id": "69278b46-abc3-484c-96ee-d63ce9508e4b",
+        "nome": "Beer - Moosehead",
+        "preco": 6.22,
+        "quantidade": 41,
+        "idVendedor": 12
+    },
+    {
+        "id": "a9acbfd1-39af-4bfc-9d59-837cf77d8e94",
+        "nome": "Wine - Piper Heidsieck Brut",
+        "preco": 59.83,
+        "quantidade": 38,
+        "idVendedor": 12
+    },
+    {
+        "id": "fd1fe8fa-125e-42f2-95d7-88bc0c591fd2",
+        "nome": "Truffle Cups Green",
+        "preco": 34.53,
+        "quantidade": 35,
+        "idVendedor": 2
+    },
+    {
+        "id": "a8595599-b94d-42eb-8ce2-85d1cffbe4cd",
+        "nome": "Onions Granulated",
+        "preco": 1.73,
+        "quantidade": 55,
+        "idVendedor": 16
+    },
+    {
+        "id": "549b7901-5a9b-4a81-8376-84a7c0a8700d",
+        "nome": "Bread Cranberry Foccacia",
+        "preco": 14.66,
+        "quantidade": 23,
+        "idVendedor": 16
+    },
+    {
+        "id": "c1780fab-72cd-4c62-8302-e0673714fe0e",
+        "nome": "Pineapple - Canned, Rings",
+        "preco": 53.12,
+        "quantidade": 48,
+        "idVendedor": 14
+    },
+    {
+        "id": "2b280dac-59fa-4a44-a2e4-60eb6d1fca3e",
+        "nome": "Rolled Oats",
+        "preco": 30.71,
+        "quantidade": 84,
+        "idVendedor": 5
+    },
+    {
+        "id": "2c703a0b-3e2d-442e-b2cf-285820995e41",
+        "nome": "Raspberries - Fresh",
+        "preco": 4.82,
+        "quantidade": 27,
+        "idVendedor": 7
+    },
+    {
+        "id": "17998abb-47c1-4a1c-87e3-1ed8fae786e3",
+        "nome": "Garbag Bags - Black",
+        "preco": 50.85,
+        "quantidade": 95,
+        "idVendedor": 8
+    },
+    {
+        "id": "c4eae099-1a6c-4321-8006-adeb93af21bb",
+        "nome": "Red Pepper Paste",
+        "preco": 79.23,
+        "quantidade": 26,
+        "idVendedor": 18
+    },
+    {
+        "id": "0daf8afd-35f5-455f-94bd-677314f766e9",
+        "nome": "Triple Sec - Mcguinness",
+        "preco": 27.23,
+        "quantidade": 91,
+        "idVendedor": 10
+    },
+    {
+        "id": "7e73c264-7665-4510-a782-47b938dda0cb",
+        "nome": "Table Cloth 81x81 White",
+        "preco": 67.23,
+        "quantidade": 51,
+        "idVendedor": 6
+    },
+    {
+        "id": "5019dc24-551a-4597-8f6e-82a4633d3e06",
+        "nome": "V8 - Vegetable Cocktail",
+        "preco": 7.63,
+        "quantidade": 20,
+        "idVendedor": 10
+    },
+    {
+        "id": "931b15c2-b732-43cb-af69-03c3c5c3ef4d",
+        "nome": "Soup - Campbellschix Stew",
+        "preco": 96.1,
+        "quantidade": 92,
+        "idVendedor": 14
+    },
+    {
+        "id": "0abd5a55-d750-4d5d-9348-a381230231ba",
+        "nome": "Bread - Focaccia Quarter",
+        "preco": 42.5,
+        "quantidade": 16,
+        "idVendedor": 11
+    },
+    {
+        "id": "d76af5e7-7740-4e8d-b8c0-edc34937fce3",
+        "nome": "Appetizer - Assorted Box",
+        "preco": 85.18,
+        "quantidade": 41,
+        "idVendedor": 3
+    },
+    {
+        "id": "8ac1b587-4695-4ecb-aa64-64f177483cb1",
+        "nome": "Poppy Seed",
+        "preco": 42.5,
+        "quantidade": 28,
+        "idVendedor": 20
+    },
+    {
+        "id": "f4a34260-f354-49e8-a083-ec6a07a2019d",
+        "nome": "Snapple Raspberry Tea",
+        "preco": 30.12,
+        "quantidade": 85,
+        "idVendedor": 2
+    },
+    {
+        "id": "d25e8d54-e6ee-4b29-8b90-a77e466c2b04",
+        "nome": "Wine - Barossa Valley Estate",
+        "preco": 99.01,
+        "quantidade": 18,
+        "idVendedor": 17
+    },
+    {
+        "id": "b58c7394-ab97-4c0c-90c2-23b87a16c32b",
+        "nome": "Coffee - Colombian, Portioned",
+        "preco": 80.0,
+        "quantidade": 77,
+        "idVendedor": 9
+    },
+    {
+        "id": "8ad2c582-0508-4995-aa86-e2acd4bc8a73",
+        "nome": "Truffle - Whole Black Peeled",
+        "preco": 5.87,
+        "quantidade": 38,
+        "idVendedor": 20
+    },
+    {
+        "id": "16432a57-19a7-42eb-91f5-c5f926b4ef2e",
+        "nome": "Bay Leaf",
+        "preco": 99.9,
+        "quantidade": 11,
+        "idVendedor": 5
+    },
+    {
+        "id": "83e32b5c-7f5a-4f80-95d9-f22f6842703c",
+        "nome": "Tea - Green",
+        "preco": 60.93,
+        "quantidade": 50,
+        "idVendedor": 16
+    },
+    {
+        "id": "8f762a3f-10e0-4fd4-bd78-0975463292c3",
+        "nome": "Nantucket - Carrot Orange",
+        "preco": 17.56,
+        "quantidade": 91,
+        "idVendedor": 6
+    },
+    {
+        "id": "3d27cbff-e1cb-4558-8ee7-10ecb1434a4c",
+        "nome": "Water - Tonic",
+        "preco": 72.2,
+        "quantidade": 19,
+        "idVendedor": 3
+    },
+    {
+        "id": "967aa789-adf7-4305-bc0a-e795cf9636c3",
+        "nome": "Beef Striploin Aaa",
+        "preco": 71.09,
+        "quantidade": 69,
+        "idVendedor": 5
+    },
+    {
+        "id": "29971852-e020-4217-854f-26b57bcecdc6",
+        "nome": "Beans - Black Bean, Dry",
+        "preco": 47.68,
+        "quantidade": 95,
+        "idVendedor": 10
+    },
+    {
+        "id": "b2cd7c9a-c290-452e-9c64-d285aabb133a",
+        "nome": "Beef - Montreal Smoked Brisket",
+        "preco": 30.92,
+        "quantidade": 39,
+        "idVendedor": 20
+    },
+    {
+        "id": "9fd2b213-37d6-4046-9c71-1df24e838fba",
+        "nome": "Caviar - Salmon",
+        "preco": 17.97,
+        "quantidade": 54,
+        "idVendedor": 6
+    },
+    {
+        "id": "392f01d1-e9f6-42aa-bcad-64feadaaeefa",
+        "nome": "Pastry - Lemon Danish - Mini",
+        "preco": 90.28,
+        "quantidade": 56,
+        "idVendedor": 5
+    },
+    {
+        "id": "5f39354e-6dc3-4ffa-99b1-fbd5b4973fea",
+        "nome": "Coriander - Ground",
+        "preco": 96.56,
+        "quantidade": 13,
+        "idVendedor": 17
+    },
+    {
+        "id": "3ca4e211-1ec3-48aa-a340-b35414076287",
+        "nome": "Lettuce - California Mix",
+        "preco": 81.85,
+        "quantidade": 67,
+        "idVendedor": 13
+    },
+    {
+        "id": "1ec6d334-08c9-40ed-97ad-95a65d14e256",
+        "nome": "Potatoes - Mini White 3 Oz",
+        "preco": 25.93,
+        "quantidade": 97,
+        "idVendedor": 1
+    },
+    {
+        "id": "1dca3d63-b96a-47e3-a215-8b4cce16e140",
+        "nome": "Table Cloth 81x81 White",
+        "preco": 40.13,
+        "quantidade": 71,
+        "idVendedor": 6
+    },
+    {
+        "id": "0b432595-3990-4312-88ea-b1678c9fdeef",
+        "nome": "Raisin - Dark",
+        "preco": 38.36,
+        "quantidade": 57,
+        "idVendedor": 17
+    },
+    {
+        "id": "6056a32c-3d6c-4831-bf3d-0abc4f601468",
+        "nome": "Crackers Cheez It",
+        "preco": 44.31,
+        "quantidade": 74,
+        "idVendedor": 11
+    },
+    {
+        "id": "6c51a474-bb50-428e-8605-9a00b2770b79",
+        "nome": "Carbonated Water - Peach",
+        "preco": 5.64,
+        "quantidade": 71,
+        "idVendedor": 14
+    },
+    {
+        "id": "ef0a807f-8cd9-4381-954f-2bc65fd01755",
+        "nome": "Lid Coffeecup 12oz D9542b",
+        "preco": 90.61,
+        "quantidade": 87,
+        "idVendedor": 6
+    },
+    {
+        "id": "9510178f-8d59-4825-b971-a78df1b4d53e",
+        "nome": "Pork - Back, Long Cut, Boneless",
+        "preco": 87.69,
+        "quantidade": 49,
+        "idVendedor": 16
+    },
+    {
+        "id": "caa6a5a0-2980-4091-8d1c-c8cc673e4181",
+        "nome": "Puff Pastry - Slab",
+        "preco": 95.27,
+        "quantidade": 2,
+        "idVendedor": 13
+    },
+    {
+        "id": "671b132e-38c9-468f-9ee7-88c5bc6b4a9a",
+        "nome": "Alize Gold Passion",
+        "preco": 88.26,
+        "quantidade": 8,
+        "idVendedor": 6
+    },
+    {
+        "id": "0e58b0b8-7522-4ca0-9f0f-922b1ae04a27",
+        "nome": "Wine - Periguita Fonseca",
+        "preco": 31.13,
+        "quantidade": 92,
+        "idVendedor": 18
+    },
+    {
+        "id": "248b21a0-5af7-4a6c-8208-86316bb7b225",
+        "nome": "Berry Brulee",
+        "preco": 78.36,
+        "quantidade": 46,
+        "idVendedor": 1
+    },
+    {
+        "id": "175c329b-d4cc-4fee-8219-69bca167ae5f",
+        "nome": "Container - Clear 16 Oz",
+        "preco": 25.1,
+        "quantidade": 40,
+        "idVendedor": 6
+    },
+    {
+        "id": "c630c170-95d9-4557-bb22-b81e71b5db53",
+        "nome": "Wine - Two Oceans Cabernet",
+        "preco": 19.96,
+        "quantidade": 21,
+        "idVendedor": 7
+    },
+    {
+        "id": "5eeb4bbd-cd16-4c0d-b95d-d692f3f0ed51",
+        "nome": "Ecolab - Ster Bac",
+        "preco": 93.63,
+        "quantidade": 64,
+        "idVendedor": 9
+    },
+    {
+        "id": "caa23d16-74b9-458a-a03f-7ddb6617b607",
+        "nome": "Bagel - Ched Chs Presliced",
+        "preco": 30.02,
+        "quantidade": 25,
+        "idVendedor": 4
+    },
+    {
+        "id": "6d35ea7d-6921-461b-a341-62bfc04c10f7",
+        "nome": "Tobasco Sauce",
+        "preco": 67.35,
+        "quantidade": 45,
+        "idVendedor": 13
+    },
+    {
+        "id": "fa22cd9a-ba7e-4724-80b5-65dc5d5f1693",
+        "nome": "Bread - Roll, Canadian Dinner",
+        "preco": 80.96,
+        "quantidade": 21,
+        "idVendedor": 18
+    },
+    {
+        "id": "ed5d4d45-b70d-4c13-8772-d23f6a0e0f5c",
+        "nome": "Cheese - Shred Cheddar / Mozza",
+        "preco": 66.41,
+        "quantidade": 19,
+        "idVendedor": 15
+    },
+    {
+        "id": "688d7743-a148-42df-9e85-299b7b70c701",
+        "nome": "Muffin - Blueberry Individual",
+        "preco": 3.96,
+        "quantidade": 16,
+        "idVendedor": 5
+    },
+    {
+        "id": "7dd59b30-efc8-4b55-b028-7c0b3f7ead5c",
+        "nome": "Yoghurt Tubes",
+        "preco": 34.48,
+        "quantidade": 77,
+        "idVendedor": 13
+    },
+    {
+        "id": "f249a991-a0c0-462c-8398-c2a0fcda9928",
+        "nome": "Skirt - 24 Foot",
+        "preco": 40.12,
+        "quantidade": 61,
+        "idVendedor": 19
+    },
+    {
+        "id": "7add94ad-c6ec-470d-a8ec-860379710cdf",
+        "nome": "Milk - Chocolate 250 Ml",
+        "preco": 54.17,
+        "quantidade": 61,
+        "idVendedor": 20
+    },
+    {
+        "id": "67d89e72-dd63-4b2f-80e6-884a46ffa0ce",
+        "nome": "Beer - Blue",
+        "preco": 5.76,
+        "quantidade": 66,
+        "idVendedor": 9
+    },
+    {
+        "id": "921f549a-c4ba-4dc7-aea5-40fe140d377a",
+        "nome": "Pork - Loin, Bone - In",
+        "preco": 89.7,
+        "quantidade": 45,
+        "idVendedor": 7
+    },
+    {
+        "id": "eee4d6fb-6438-4790-9f23-b56be9c971f5",
+        "nome": "Chinese Foods - Pepper Beef",
+        "preco": 36.17,
+        "quantidade": 1,
+        "idVendedor": 4
+    },
+    {
+        "id": "24494466-55ed-4d1d-91e3-e2a05483c685",
+        "nome": "Bread - Calabrese Baguette",
+        "preco": 17.33,
+        "quantidade": 1,
+        "idVendedor": 1
+    },
+    {
+        "id": "61aad986-1bc7-492a-acfd-ee1bd59de45b",
+        "nome": "Cheese - Brie, Triple Creme",
+        "preco": 24.94,
+        "quantidade": 98,
+        "idVendedor": 12
+    },
+    {
+        "id": "36a45d5a-2afc-49bd-a206-bb7212e2d8c3",
+        "nome": "Gatorade - Fruit Punch",
+        "preco": 65.9,
+        "quantidade": 34,
+        "idVendedor": 16
+    },
+    {
+        "id": "728d2367-0bd3-4a3d-b1cf-cf00214dc530",
+        "nome": "Rabbit - Frozen",
+        "preco": 45.39,
+        "quantidade": 22,
+        "idVendedor": 1
+    },
+    {
+        "id": "42d4d4ca-c0bb-40ac-93e8-efd611c09dfc",
+        "nome": "Wine - White Cab Sauv.on",
+        "preco": 54.59,
+        "quantidade": 96,
+        "idVendedor": 16
+    },
+    {
+        "id": "70da9f5f-f338-4756-be56-f2746fa892a1",
+        "nome": "Chicken - Tenderloin",
+        "preco": 62.96,
+        "quantidade": 12,
+        "idVendedor": 14
+    },
+    {
+        "id": "b614b0d0-c352-433d-afe4-d5044988f11f",
+        "nome": "Amaretto",
+        "preco": 45.53,
+        "quantidade": 86,
+        "idVendedor": 5
+    },
+    {
+        "id": "dac7c8e6-4288-453a-b0af-5347c0f0bb37",
+        "nome": "Chef Hat 20cm",
+        "preco": 82.35,
+        "quantidade": 24,
+        "idVendedor": 3
+    },
+    {
+        "id": "fb1997b8-bd57-4754-8347-dcfabf022480",
+        "nome": "Wine - Vineland Estate Semi - Dry",
+        "preco": 43.92,
+        "quantidade": 29,
+        "idVendedor": 14
+    },
+    {
+        "id": "56ce7ce5-3685-4dda-884a-5af38cb02645",
+        "nome": "Parsley Italian - Fresh",
+        "preco": 63.48,
+        "quantidade": 18,
+        "idVendedor": 6
+    },
+    {
+        "id": "30c0e759-e759-430c-8295-e6ec9d767cb3",
+        "nome": "Water - Perrier",
+        "preco": 5.43,
+        "quantidade": 42,
+        "idVendedor": 16
+    },
+    {
+        "id": "9e5829e5-76b6-45fe-b15d-b030ea93ee3f",
+        "nome": "Thermometer Digital",
+        "preco": 47.74,
+        "quantidade": 46,
+        "idVendedor": 13
+    },
+    {
+        "id": "57c44ec4-fe33-4fa9-aa64-a717ed3e22e4",
+        "nome": "Soda Water - Club Soda, 355 Ml",
+        "preco": 26.92,
+        "quantidade": 44,
+        "idVendedor": 2
+    },
+    {
+        "id": "b0ad8a61-c277-4c9b-ab12-d591ba50f6cb",
+        "nome": "Lid Tray - 16in Dome",
+        "preco": 23.12,
+        "quantidade": 49,
+        "idVendedor": 12
+    },
+    {
+        "id": "63e77045-dd4a-4ab5-86f7-3d2520057f3f",
+        "nome": "Soup - Campbells Mac N Cheese",
+        "preco": 2.06,
+        "quantidade": 39,
+        "idVendedor": 12
+    },
+    {
+        "id": "c50b15d9-078a-4888-9a77-b6e96c9eacac",
+        "nome": "Beef - Ox Tongue, Pickled",
+        "preco": 65.68,
+        "quantidade": 28,
+        "idVendedor": 3
+    },
+    {
+        "id": "b0585243-8c66-45e8-94ac-c6201b6558fa",
+        "nome": "Dill Weed - Dry",
+        "preco": 17.88,
+        "quantidade": 54,
+        "idVendedor": 15
+    },
+    {
+        "id": "cb95c4ab-1b44-4758-b5d0-07590f22f2fa",
+        "nome": "Chicken - Wings, Tip Off",
+        "preco": 17.26,
+        "quantidade": 28,
+        "idVendedor": 14
+    },
+    {
+        "id": "198c559b-e2f8-4a66-b62f-398d959699d7",
+        "nome": "Loquat",
+        "preco": 27.63,
+        "quantidade": 31,
+        "idVendedor": 3
+    },
+    {
+        "id": "01f5c3c9-389f-4fbc-beac-5e3d933ca06c",
+        "nome": "Muffin - Mix - Strawberry Rhubarb",
+        "preco": 82.2,
+        "quantidade": 21,
+        "idVendedor": 12
+    },
+    {
+        "id": "735d6c0a-1312-4459-80df-722bef54551a",
+        "nome": "Ketchup - Tomato",
+        "preco": 40.94,
+        "quantidade": 25,
+        "idVendedor": 6
+    },
+    {
+        "id": "697bcf87-bfe2-4836-839e-5202941718c3",
+        "nome": "Roe - Flying Fish",
+        "preco": 66.9,
+        "quantidade": 68,
+        "idVendedor": 12
+    },
+    {
+        "id": "c1cb694a-cdca-4997-b207-2464e3ddf18c",
+        "nome": "Durian Fruit",
+        "preco": 54.05,
+        "quantidade": 38,
+        "idVendedor": 8
+    },
+    {
+        "id": "c9b1f50e-b126-473b-87f3-1a239ebb0982",
+        "nome": "Poppy Seed",
+        "preco": 48.97,
+        "quantidade": 92,
+        "idVendedor": 13
+    },
+    {
+        "id": "7b378063-6c2d-432d-8ace-a8864e8b9e22",
+        "nome": "Blouse / Shirt / Sweater",
+        "preco": 51.78,
+        "quantidade": 60,
+        "idVendedor": 19
+    },
+    {
+        "id": "8f162b98-ffec-4221-b470-1c9ad1af405f",
+        "nome": "Cake - Night And Day Choclate",
+        "preco": 39.63,
+        "quantidade": 85,
+        "idVendedor": 4
+    },
+    {
+        "id": "cd4ccebd-86e7-4382-baba-9ea6ed36a7d9",
+        "nome": "Sausage - Chorizo",
+        "preco": 1.54,
+        "quantidade": 49,
+        "idVendedor": 2
+    },
+    {
+        "id": "b6c80f87-efeb-425e-b289-57cd9b130319",
+        "nome": "Roe - Lump Fish, Black",
+        "preco": 96.47,
+        "quantidade": 66,
+        "idVendedor": 14
+    },
+    {
+        "id": "3349b4ee-9613-4ad6-8574-5263bd2e398e",
+        "nome": "Steampan - Foil",
+        "preco": 17.3,
+        "quantidade": 55,
+        "idVendedor": 12
+    },
+    {
+        "id": "af76e0af-cece-48cd-a779-137e9a034978",
+        "nome": "Pepper - Sorrano",
+        "preco": 4.12,
+        "quantidade": 63,
+        "idVendedor": 9
+    },
+    {
+        "id": "beb0afaa-8649-4d5a-820d-faa16fb18022",
+        "nome": "Appetizer - Seafood Assortment",
+        "preco": 17.08,
+        "quantidade": 70,
+        "idVendedor": 12
+    },
+    {
+        "id": "03281b03-a915-4d41-b151-33db25405c22",
+        "nome": "Wine - Port Late Bottled Vintage",
+        "preco": 96.36,
+        "quantidade": 39,
+        "idVendedor": 18
+    },
+    {
+        "id": "416e0caa-8b9c-4775-b76b-3618a174c87c",
+        "nome": "Shrimp - 16 - 20 Cooked, Peeled",
+        "preco": 73.42,
+        "quantidade": 55,
+        "idVendedor": 13
+    },
+    {
+        "id": "009db2cc-29ad-4a0b-8c77-97e08075042b",
+        "nome": "Bread - Hamburger Buns",
+        "preco": 45.17,
+        "quantidade": 40,
+        "idVendedor": 2
+    },
+    {
+        "id": "4131e03f-ee38-4413-9997-e9609c95ceab",
+        "nome": "Snails - Large Canned",
+        "preco": 94.47,
+        "quantidade": 44,
+        "idVendedor": 19
+    },
+    {
+        "id": "6791e4ac-b316-4285-a2ee-644e847c6630",
+        "nome": "Dome Lid Clear P92008h",
+        "preco": 69.84,
+        "quantidade": 53,
+        "idVendedor": 17
+    },
+    {
+        "id": "9bd7934c-1e73-48ef-a571-f6abe9e9d0b2",
+        "nome": "Paste - Black Olive",
+        "preco": 32.12,
+        "quantidade": 61,
+        "idVendedor": 9
+    },
+    {
+        "id": "41e36637-e683-44ee-b1a3-96fac1b2cc4e",
+        "nome": "Soup - Campbells, Classic Chix",
+        "preco": 47.36,
+        "quantidade": 15,
+        "idVendedor": 9
+    },
+    {
+        "id": "cf2932de-b309-4e6a-89f3-9a9c1d16dccc",
+        "nome": "Higashimaru Usukuchi Soy",
+        "preco": 49.28,
+        "quantidade": 64,
+        "idVendedor": 14
+    },
+    {
+        "id": "5b036a5b-d0fe-4cf8-87f4-7a4d38af5d80",
+        "nome": "Beer - Sleemans Cream Ale",
+        "preco": 6.22,
+        "quantidade": 27,
+        "idVendedor": 16
+    },
+    {
+        "id": "ae0b58ef-d368-44df-9e3e-5ace68266312",
+        "nome": "Beef - Salted",
+        "preco": 8.03,
+        "quantidade": 40,
+        "idVendedor": 5
+    },
+    {
+        "id": "6ff115f6-9577-4f9d-a74f-603f5a749031",
+        "nome": "Beans - Kidney, Canned",
+        "preco": 55.61,
+        "quantidade": 65,
+        "idVendedor": 8
+    },
+    {
+        "id": "89c453d2-590c-44b3-83c5-96e221f46d1a",
+        "nome": "Sausage - Chorizo",
+        "preco": 36.26,
+        "quantidade": 100,
+        "idVendedor": 10
+    },
+    {
+        "id": "f818a0a4-ea58-4952-852b-d94c0a599fe7",
+        "nome": "Capon - Breast, Double, Wing On",
+        "preco": 14.9,
+        "quantidade": 15,
+        "idVendedor": 18
+    },
+    {
+        "id": "41736bc1-943e-41d1-a351-320bcad05eeb",
+        "nome": "Rum - Spiced, Captain Morgan",
+        "preco": 42.43,
+        "quantidade": 48,
+        "idVendedor": 7
+    },
+    {
+        "id": "577e9a86-9770-41d7-9ee4-6b024e79c68c",
+        "nome": "Rabbit - Whole",
+        "preco": 52.27,
+        "quantidade": 62,
+        "idVendedor": 7
+    },
+    {
+        "id": "0edea8d5-f776-4654-869f-f21405d3baa4",
+        "nome": "Brandy Apricot",
+        "preco": 18.7,
+        "quantidade": 65,
+        "idVendedor": 16
+    },
+    {
+        "id": "3de57737-e2d3-46db-a862-209311e431f2",
+        "nome": "Beef Cheek Fresh",
+        "preco": 68.75,
+        "quantidade": 49,
+        "idVendedor": 11
+    },
+    {
+        "id": "eaeb7ef3-4400-4006-9eae-fd4e39110edc",
+        "nome": "Vaccum Bag 10x13",
+        "preco": 29.09,
+        "quantidade": 21,
+        "idVendedor": 16
+    },
+    {
+        "id": "f693c357-661d-4a0a-8cae-5f7b4b39903d",
+        "nome": "Wine - Beringer Founders Estate",
+        "preco": 55.43,
+        "quantidade": 10,
+        "idVendedor": 11
+    },
+    {
+        "id": "f84bb5d6-6a39-4937-a443-f002cabe6b2c",
+        "nome": "Foam Dinner Plate",
+        "preco": 12.01,
+        "quantidade": 36,
+        "idVendedor": 17
+    },
+    {
+        "id": "00657316-4eee-415c-a945-2a4be6f40e2b",
+        "nome": "Nut - Peanut, Roasted",
+        "preco": 37.22,
+        "quantidade": 51,
+        "idVendedor": 18
+    },
+    {
+        "id": "27439643-4e65-4d16-b641-fb1b42ef0dd0",
+        "nome": "Wine - Red, Gallo, Merlot",
+        "preco": 2.17,
+        "quantidade": 14,
+        "idVendedor": 12
+    },
+    {
+        "id": "c09d07f5-0793-4f12-b00b-bd2534e023ac",
+        "nome": "Mushroom - Porcini Frozen",
+        "preco": 79.8,
+        "quantidade": 1,
+        "idVendedor": 16
+    },
+    {
+        "id": "d932283c-d524-446e-b142-5bedaf5a1377",
+        "nome": "Bar Mix - Lime",
+        "preco": 22.83,
+        "quantidade": 1,
+        "idVendedor": 7
+    },
+    {
+        "id": "58d54511-6e2b-40cb-aa5d-48ff1566d33a",
+        "nome": "Foie Gras",
+        "preco": 7.87,
+        "quantidade": 82,
+        "idVendedor": 6
+    },
+    {
+        "id": "16d5d013-1486-44b9-abd3-1bdd070bfb52",
+        "nome": "Pasta - Canelloni",
+        "preco": 66.44,
+        "quantidade": 42,
+        "idVendedor": 6
+    },
+    {
+        "id": "f3f46cf6-682e-49e5-8c0b-547c15f313fd",
+        "nome": "Soup - Canadian Pea, Dry Mix",
+        "preco": 85.32,
+        "quantidade": 66,
+        "idVendedor": 5
+    },
+    {
+        "id": "f0e2a475-e994-4322-b48f-9d62b0b3fae5",
+        "nome": "General Purpose Trigger",
+        "preco": 70.78,
+        "quantidade": 93,
+        "idVendedor": 14
+    },
+    {
+        "id": "5aad0c9a-797b-43de-ba90-8e95af6f892f",
+        "nome": "Mace",
+        "preco": 20.89,
+        "quantidade": 79,
+        "idVendedor": 16
+    },
+    {
+        "id": "47aa562f-b4c7-49f9-b58d-58dd63ddf4f5",
+        "nome": "Cheese - Gouda Smoked",
+        "preco": 68.55,
+        "quantidade": 36,
+        "idVendedor": 11
+    },
+    {
+        "id": "108c20f6-f165-4153-bf1d-631c74fd009d",
+        "nome": "Cotton Wet Mop 16 Oz",
+        "preco": 75.11,
+        "quantidade": 67,
+        "idVendedor": 1
+    },
+    {
+        "id": "25d499af-161f-4a5b-9d64-8705de8ddd20",
+        "nome": "Lobster - Cooked",
+        "preco": 3.95,
+        "quantidade": 15,
+        "idVendedor": 5
+    },
+    {
+        "id": "a2e306c2-27e5-48ef-888f-94e29402d7c4",
+        "nome": "Beef - Kindney, Whole",
+        "preco": 49.73,
+        "quantidade": 40,
+        "idVendedor": 5
+    },
+    {
+        "id": "3973403f-3bb4-4d33-86d6-4cce0b9cdbd6",
+        "nome": "Buffalo - Striploin",
+        "preco": 48.06,
+        "quantidade": 1,
+        "idVendedor": 19
+    },
+    {
+        "id": "bb96d2aa-0b0d-4a81-9671-e7102836cfca",
+        "nome": "Wine - Red, Mosaic Zweigelt",
+        "preco": 58.21,
+        "quantidade": 62,
+        "idVendedor": 9
+    },
+    {
+        "id": "2c41bc59-573f-47ff-a5ae-9a7b25c4f5de",
+        "nome": "Brandy - Bar",
+        "preco": 56.67,
+        "quantidade": 25,
+        "idVendedor": 6
+    },
+    {
+        "id": "3617d56d-6df8-4d0b-b412-6ae79452677f",
+        "nome": "Chilli Paste, Ginger Garlic",
+        "preco": 30.9,
+        "quantidade": 3,
+        "idVendedor": 20
+    },
+    {
+        "id": "a3a856f4-81f4-44c7-825d-69307ac59021",
+        "nome": "Bread - Italian Roll With Herbs",
+        "preco": 77.5,
+        "quantidade": 2,
+        "idVendedor": 15
+    },
+    {
+        "id": "06c97158-1e2c-4552-a750-e0b6cf0c6acb",
+        "nome": "Fish - Artic Char, Cold Smoked",
+        "preco": 78.14,
+        "quantidade": 43,
+        "idVendedor": 6
+    },
+    {
+        "id": "44a0d566-0e85-4cf8-9f0a-591a65c08558",
+        "nome": "Apples - Spartan",
+        "preco": 69.8,
+        "quantidade": 41,
+        "idVendedor": 20
+    },
+    {
+        "id": "14072fc5-6576-48d4-a13f-87685032992a",
+        "nome": "Sage - Fresh",
+        "preco": 84.05,
+        "quantidade": 67,
+        "idVendedor": 3
+    },
+    {
+        "id": "5a8ab2c0-eff5-4409-8f57-fd2469810ef1",
+        "nome": "Goat - Leg",
+        "preco": 49.05,
+        "quantidade": 51,
+        "idVendedor": 17
+    },
+    {
+        "id": "dd2dc371-ddb6-4257-af15-fcf2b5e7a442",
+        "nome": "Salt - Seasoned",
+        "preco": 80.62,
+        "quantidade": 34,
+        "idVendedor": 9
+    },
+    {
+        "id": "12092103-0d0e-495e-bca1-6a766fe986a9",
+        "nome": "Onions - Red Pearl",
+        "preco": 49.23,
+        "quantidade": 98,
+        "idVendedor": 13
+    },
+    {
+        "id": "fef0a9f9-b7ee-4c1b-85a5-93af4c638b80",
+        "nome": "Puree - Passion Fruit",
+        "preco": 2.39,
+        "quantidade": 51,
+        "idVendedor": 3
+    },
+    {
+        "id": "88938e99-21d8-4189-96a4-85209deb1946",
+        "nome": "Ice Cream Bar - Drumstick",
+        "preco": 70.14,
+        "quantidade": 19,
+        "idVendedor": 14
+    },
+    {
+        "id": "3012ab5a-f692-4287-bc66-ce27a7ee58b5",
+        "nome": "Cakes Assorted",
+        "preco": 66.24,
+        "quantidade": 38,
+        "idVendedor": 5
+    },
+    {
+        "id": "0674868f-2046-499c-a4f6-e4c5f3da9bd0",
+        "nome": "Wine - Piper Heidsieck Brut",
+        "preco": 4.37,
+        "quantidade": 37,
+        "idVendedor": 12
+    },
+    {
+        "id": "4de3104c-caf8-4bca-8fd6-02e01f8a3681",
+        "nome": "Wine - Red, Cooking",
+        "preco": 31.96,
+        "quantidade": 48,
+        "idVendedor": 3
+    },
+    {
+        "id": "78d54671-a3ca-4bd7-985c-11db48db4c2b",
+        "nome": "Parsley - Dried",
+        "preco": 36.16,
+        "quantidade": 72,
+        "idVendedor": 3
+    },
+    {
+        "id": "48dc61b6-bd3f-4fa8-8ec8-598ff25e9d98",
+        "nome": "Sprouts - Peppercress",
+        "preco": 83.66,
+        "quantidade": 9,
+        "idVendedor": 4
+    },
+    {
+        "id": "758045e8-52e7-4598-938b-5454882f7bd8",
+        "nome": "Dill Weed - Fresh",
+        "preco": 67.32,
+        "quantidade": 32,
+        "idVendedor": 16
+    },
+    {
+        "id": "4b307d7b-8861-43c2-a1e7-9dae885ab837",
+        "nome": "Apron",
+        "preco": 27.62,
+        "quantidade": 34,
+        "idVendedor": 8
+    },
+    {
+        "id": "e337ce8c-5df9-48ba-94ca-8605e2318054",
+        "nome": "Cake Circle, Paprus",
+        "preco": 87.43,
+        "quantidade": 63,
+        "idVendedor": 9
+    },
+    {
+        "id": "a1ed3b88-7d3c-45d1-bcb8-058279435b56",
+        "nome": "Wine - Mondavi Coastal Private",
+        "preco": 4.02,
+        "quantidade": 35,
+        "idVendedor": 8
+    },
+    {
+        "id": "ee099163-7b58-45a9-895f-c229b70c2649",
+        "nome": "Persimmons",
+        "preco": 28.44,
+        "quantidade": 71,
+        "idVendedor": 1
+    },
+    {
+        "id": "3ad4a832-c3a9-4449-8770-2eec1aa1e199",
+        "nome": "Pineapple - Golden",
+        "preco": 56.07,
+        "quantidade": 84,
+        "idVendedor": 11
+    },
+    {
+        "id": "a0b37435-9051-4353-aa8f-90288452ea02",
+        "nome": "Lotus Root",
+        "preco": 77.22,
+        "quantidade": 47,
+        "idVendedor": 2
+    },
+    {
+        "id": "1da946e3-f216-49f6-bd05-2fe898b11bfa",
+        "nome": "Kellogs Cereal In A Cup",
+        "preco": 91.22,
+        "quantidade": 83,
+        "idVendedor": 5
+    },
+    {
+        "id": "064c982a-0368-4c04-bbf6-eb85e9d88364",
+        "nome": "Honey - Liquid",
+        "preco": 1.36,
+        "quantidade": 49,
+        "idVendedor": 13
+    },
+    {
+        "id": "69349551-67e1-4aab-95de-f7c30d83f5d5",
+        "nome": "Rice - Brown",
+        "preco": 74.19,
+        "quantidade": 99,
+        "idVendedor": 6
+    },
+    {
+        "id": "a2dbc83e-c559-42c2-a444-6df23b482b59",
+        "nome": "Tobasco Sauce",
+        "preco": 71.61,
+        "quantidade": 66,
+        "idVendedor": 20
+    },
+    {
+        "id": "741a36d8-9294-4a6f-af55-29db0703202e",
+        "nome": "Soho Lychee Liqueur",
+        "preco": 65.43,
+        "quantidade": 14,
+        "idVendedor": 14
+    },
+    {
+        "id": "b8231214-969a-4438-873b-35ff6dd77c0a",
+        "nome": "Chips Potato Swt Chilli Sour",
+        "preco": 44.55,
+        "quantidade": 97,
+        "idVendedor": 4
+    },
+    {
+        "id": "2a322dcc-e174-4bbe-a145-ef330a39cec9",
+        "nome": "Table Cloth 54x72 White",
+        "preco": 57.28,
+        "quantidade": 80,
+        "idVendedor": 18
+    },
+    {
+        "id": "023fa20e-d4db-4cd3-9989-6ef7075004d3",
+        "nome": "Cocoa Powder - Natural",
+        "preco": 11.28,
+        "quantidade": 75,
+        "idVendedor": 4
+    },
+    {
+        "id": "9b0e7225-18ce-4732-a347-5cac315f9dcc",
+        "nome": "Bread Foccacia Whole",
+        "preco": 41.72,
+        "quantidade": 60,
+        "idVendedor": 1
+    },
+    {
+        "id": "9c84fde5-5592-4cb0-93c0-1a598adf1aff",
+        "nome": "Lemonade - Kiwi, 591 Ml",
+        "preco": 60.99,
+        "quantidade": 44,
+        "idVendedor": 15
+    },
+    {
+        "id": "8683be17-2035-4213-99ab-8d068ebab43b",
+        "nome": "Oven Mitt - 13 Inch",
+        "preco": 69.98,
+        "quantidade": 7,
+        "idVendedor": 14
+    },
+    {
+        "id": "bf320ff2-18ec-4e18-8503-9432f418ecb6",
+        "nome": "Soup - Base Broth Chix",
+        "preco": 54.98,
+        "quantidade": 54,
+        "idVendedor": 6
+    },
+    {
+        "id": "2bb1c148-68c0-4dfc-a7ff-b2ac1f3d9bd3",
+        "nome": "Muffin Hinge Container 6",
+        "preco": 82.37,
+        "quantidade": 66,
+        "idVendedor": 2
+    },
+    {
+        "id": "3cec03be-7f53-42c0-842f-b2d2752a380c",
+        "nome": "Shopper Bag - S - 4",
+        "preco": 93.49,
+        "quantidade": 36,
+        "idVendedor": 15
+    },
+    {
+        "id": "85e5e0a8-70fa-48c7-a803-64b6e671c5f0",
+        "nome": "Arizona - Green Tea",
+        "preco": 44.41,
+        "quantidade": 62,
+        "idVendedor": 2
+    },
+    {
+        "id": "e90495ba-68ea-4d77-94a8-e337c3a28735",
+        "nome": "Savory",
+        "preco": 27.17,
+        "quantidade": 39,
+        "idVendedor": 8
+    },
+    {
+        "id": "b3950b66-2167-4f92-b9ed-c6e6da05032c",
+        "nome": "Nacho Chips",
+        "preco": 31.9,
+        "quantidade": 11,
+        "idVendedor": 3
+    },
+    {
+        "id": "7a14e040-904b-471c-8208-a6a795089ce3",
+        "nome": "Artichokes - Jerusalem",
+        "preco": 14.51,
+        "quantidade": 25,
+        "idVendedor": 1
+    },
+    {
+        "id": "5fa80b0c-1324-43ee-b11f-0a97999bf769",
+        "nome": "Wine - White, Riesling, Semi - Dry",
+        "preco": 30.39,
+        "quantidade": 19,
+        "idVendedor": 14
+    },
+    {
+        "id": "ccb0eaa3-91b9-49cf-990f-d3c27ed1ebba",
+        "nome": "Cheese - Mozzarella",
+        "preco": 64.82,
+        "quantidade": 37,
+        "idVendedor": 4
+    },
+    {
+        "id": "79e20f5a-c4e8-49c1-9cf5-9693ed477585",
+        "nome": "Ice Cream - Life Savers",
+        "preco": 82.95,
+        "quantidade": 6,
+        "idVendedor": 13
+    },
+    {
+        "id": "eb784c1f-9cb9-4235-bdb1-93e7c942921a",
+        "nome": "Smoked Tongue",
+        "preco": 53.57,
+        "quantidade": 28,
+        "idVendedor": 5
+    },
+    {
+        "id": "21f194e5-0285-4afd-81b7-3097dc654e62",
+        "nome": "Mayonnaise",
+        "preco": 88.3,
+        "quantidade": 94,
+        "idVendedor": 6
+    },
+    {
+        "id": "a6fbf5ae-d48b-49da-b02f-d8e3df1220f6",
+        "nome": "Muffin - Blueberry Individual",
+        "preco": 29.27,
+        "quantidade": 71,
+        "idVendedor": 11
+    },
+    {
+        "id": "b079fdad-179a-45e2-a564-de9c43fbd0f7",
+        "nome": "Lentils - Green, Dry",
+        "preco": 68.26,
+        "quantidade": 5,
+        "idVendedor": 12
+    },
+    {
+        "id": "1eb84f64-f6a0-42d6-afb9-fb25ed9a0159",
+        "nome": "Pail - 15l White, With Handle",
+        "preco": 48.23,
+        "quantidade": 64,
+        "idVendedor": 18
+    },
+    {
+        "id": "7d8277aa-9801-4f27-b6e4-6f566146e911",
+        "nome": "Pear - Asian",
+        "preco": 41.38,
+        "quantidade": 1,
+        "idVendedor": 3
+    },
+    {
+        "id": "718db06c-c2a4-481a-b0a3-1f111c32c890",
+        "nome": "Wine - White, Pelee Island",
+        "preco": 28.0,
+        "quantidade": 70,
+        "idVendedor": 2
+    },
+    {
+        "id": "230527e1-8e77-46de-a402-23da3cd9a185",
+        "nome": "Ham - Cooked Italian",
+        "preco": 82.12,
+        "quantidade": 59,
+        "idVendedor": 3
+    },
+    {
+        "id": "bd94fd1f-d19e-4d63-a5f6-c2c62a9db1c5",
+        "nome": "Table Cloth 54x54 Colour",
+        "preco": 82.04,
+        "quantidade": 71,
+        "idVendedor": 15
+    },
+    {
+        "id": "871ef684-34ab-4203-830f-d733dee5ef39",
+        "nome": "Soup - Base Broth Chix",
+        "preco": 95.85,
+        "quantidade": 77,
+        "idVendedor": 6
+    },
+    {
+        "id": "2ec49ac1-4ed8-4bee-8862-2cf6c523cb5b",
+        "nome": "Juice - Happy Planet",
+        "preco": 45.72,
+        "quantidade": 52,
+        "idVendedor": 11
+    },
+    {
+        "id": "9bf99fb2-93ad-4b53-b444-151d0d4321ce",
+        "nome": "Wine - White, Chardonnay",
+        "preco": 99.06,
+        "quantidade": 78,
+        "idVendedor": 2
+    },
+    {
+        "id": "21367ef1-1609-4f03-ab51-f3eceef8eba1",
+        "nome": "Munchies Honey Sweet Trail Mix",
+        "preco": 52.69,
+        "quantidade": 79,
+        "idVendedor": 15
+    },
+    {
+        "id": "80f66d8e-a00c-4cbe-8ce1-7a335279e687",
+        "nome": "Lamb Leg - Bone - In Nz",
+        "preco": 50.97,
+        "quantidade": 10,
+        "idVendedor": 1
+    },
+    {
+        "id": "4ca8ea7a-951b-41b4-babc-074e96eeb113",
+        "nome": "Beef - Ground Medium",
+        "preco": 5.16,
+        "quantidade": 27,
+        "idVendedor": 17
+    },
+    {
+        "id": "aaa0ca60-665b-4c2b-b7af-934fdeb7b869",
+        "nome": "Curry Paste - Madras",
+        "preco": 75.06,
+        "quantidade": 49,
+        "idVendedor": 6
+    },
+    {
+        "id": "674f9874-8625-4572-817e-c7ca14f09cbb",
+        "nome": "Nantucket Apple Juice",
+        "preco": 48.89,
+        "quantidade": 9,
+        "idVendedor": 14
+    },
+    {
+        "id": "fbc590d4-d603-4044-a001-985404cf3df6",
+        "nome": "Grapefruit - Pink",
+        "preco": 97.64,
+        "quantidade": 44,
+        "idVendedor": 20
+    },
+    {
+        "id": "6067fb06-f11b-4abb-88b8-d5297c9ef850",
+        "nome": "Broom - Corn",
+        "preco": 5.14,
+        "quantidade": 57,
+        "idVendedor": 20
+    },
+    {
+        "id": "c039a3df-2f8e-4b1a-a392-df74cdd99635",
+        "nome": "Soda Water - Club Soda, 355 Ml",
+        "preco": 79.27,
+        "quantidade": 57,
+        "idVendedor": 8
+    },
+    {
+        "id": "9eaabbab-82a5-4db7-b6ea-3da915105441",
+        "nome": "Sprouts - Baby Pea Tendrils",
+        "preco": 10.16,
+        "quantidade": 55,
+        "idVendedor": 16
+    },
+    {
+        "id": "0556f6fd-8720-43ab-b277-423cdd377b70",
+        "nome": "Ice Cream - Strawberry",
+        "preco": 61.33,
+        "quantidade": 95,
+        "idVendedor": 12
+    },
+    {
+        "id": "bf3ac5fa-2353-4ebb-afd7-e554f54e704b",
+        "nome": "Tuna - Fresh",
+        "preco": 78.81,
+        "quantidade": 53,
+        "idVendedor": 3
+    },
+    {
+        "id": "9661487a-b839-457d-9ca9-a5880640d136",
+        "nome": "Sour Puss Sour Apple",
+        "preco": 43.12,
+        "quantidade": 93,
+        "idVendedor": 12
+    },
+    {
+        "id": "37710477-25c7-45c1-903d-c86df35a5f19",
+        "nome": "Chinese Foods - Cantonese",
+        "preco": 83.19,
+        "quantidade": 77,
+        "idVendedor": 19
+    },
+    {
+        "id": "6b6f9b06-9d86-467a-8336-10bf40a07dc4",
+        "nome": "Fennel",
+        "preco": 68.16,
+        "quantidade": 95,
+        "idVendedor": 13
+    },
+    {
+        "id": "97ebd49f-a529-457b-b4ae-3a5c0d7d61d4",
+        "nome": "Bread - Hamburger Buns",
+        "preco": 2.0,
+        "quantidade": 73,
+        "idVendedor": 13
+    },
+    {
+        "id": "2a395b68-4639-46c2-b6e1-6779429c46e8",
+        "nome": "Longos - Assorted Sandwich",
+        "preco": 30.64,
+        "quantidade": 37,
+        "idVendedor": 15
+    },
+    {
+        "id": "2dc0fdfe-8b16-422f-9958-bf1a45d90ecf",
+        "nome": "Sugar - Palm",
+        "preco": 53.8,
+        "quantidade": 2,
+        "idVendedor": 11
+    },
+    {
+        "id": "a906b657-dd45-4aab-86f2-12c22ae42b6b",
+        "nome": "Ham - Smoked, Bone - In",
+        "preco": 97.79,
+        "quantidade": 45,
+        "idVendedor": 10
+    },
+    {
+        "id": "e27522b5-5457-4654-9f14-c90cbab4dfb8",
+        "nome": "Croissants Thaw And Serve",
+        "preco": 47.56,
+        "quantidade": 61,
+        "idVendedor": 7
+    },
+    {
+        "id": "504fbf7e-4beb-4487-88a3-cd774a7d3ce3",
+        "nome": "Spice - Peppercorn Melange",
+        "preco": 2.88,
+        "quantidade": 20,
+        "idVendedor": 5
+    },
+    {
+        "id": "5da8f961-1c48-4c83-8474-b2b4798f1344",
+        "nome": "Lettuce - Romaine, Heart",
+        "preco": 13.0,
+        "quantidade": 68,
+        "idVendedor": 14
+    },
+    {
+        "id": "71f40bcd-44fb-40c3-97e4-c21d759700eb",
+        "nome": "Rhubarb",
+        "preco": 13.2,
+        "quantidade": 12,
+        "idVendedor": 14
+    },
+    {
+        "id": "83ac292b-2492-4d10-b6c7-8601cdb6a5a4",
+        "nome": "Bread Cranberry Foccacia",
+        "preco": 16.69,
+        "quantidade": 34,
+        "idVendedor": 16
+    },
+    {
+        "id": "2448da62-8e2d-42af-98d0-23e03f840063",
+        "nome": "Salmon - Whole, 4 - 6 Pounds",
+        "preco": 27.83,
+        "quantidade": 74,
+        "idVendedor": 4
+    },
+    {
+        "id": "a8878d40-4285-478a-9506-9eba7ce9372b",
+        "nome": "Hersey Shakes",
+        "preco": 26.44,
+        "quantidade": 94,
+        "idVendedor": 12
+    },
+    {
+        "id": "0569fe8a-d999-4b58-88c4-396fab0abcad",
+        "nome": "Beans - Yellow",
+        "preco": 93.34,
+        "quantidade": 24,
+        "idVendedor": 16
+    },
+    {
+        "id": "221729c3-818f-4f2e-a919-8a92e1c76ffc",
+        "nome": "Trout - Hot Smkd, Dbl Fillet",
+        "preco": 72.29,
+        "quantidade": 36,
+        "idVendedor": 1
+    },
+    {
+        "id": "973f588d-317e-44cd-81d4-84fbe6989d3c",
+        "nome": "Seedlings - Mix, Organic",
+        "preco": 78.62,
+        "quantidade": 51,
+        "idVendedor": 15
+    },
+    {
+        "id": "efe58007-28c0-4322-8f59-8039c685c91d",
+        "nome": "Flour - Whole Wheat",
+        "preco": 19.32,
+        "quantidade": 56,
+        "idVendedor": 18
+    },
+    {
+        "id": "7c349ac5-f700-495c-a7f5-41f0ff2f2654",
+        "nome": "Nantucket - Pomegranate Pear",
+        "preco": 75.25,
+        "quantidade": 13,
+        "idVendedor": 7
+    },
+    {
+        "id": "19ad1250-c1e0-4841-8358-eea0f864b2b2",
+        "nome": "Tomatoes Tear Drop Yellow",
+        "preco": 4.47,
+        "quantidade": 20,
+        "idVendedor": 9
+    },
+    {
+        "id": "26e68d34-7030-4900-b939-206aec211bff",
+        "nome": "Lettuce - Romaine, Heart",
+        "preco": 92.24,
+        "quantidade": 98,
+        "idVendedor": 17
+    },
+    {
+        "id": "eeb80f16-f612-45b1-802c-f75d7ae67d08",
+        "nome": "Shrimp - 150 - 250",
+        "preco": 37.64,
+        "quantidade": 58,
+        "idVendedor": 19
+    },
+    {
+        "id": "d869a5d7-dc43-4494-9837-89da95bf725d",
+        "nome": "Oneshot Automatic Soap System",
+        "preco": 84.78,
+        "quantidade": 45,
+        "idVendedor": 4
+    },
+    {
+        "id": "097f7f5a-8915-47ad-b811-b93ce314c07e",
+        "nome": "Beef - Top Sirloin - Aaa",
+        "preco": 96.22,
+        "quantidade": 38,
+        "idVendedor": 17
+    },
+    {
+        "id": "a2e81fa1-d9a4-422a-a16f-0e98ead2be94",
+        "nome": "Radish",
+        "preco": 21.79,
+        "quantidade": 85,
+        "idVendedor": 5
+    },
+    {
+        "id": "f6be8e22-65b2-436c-862b-274e6ed8c8a4",
+        "nome": "Irish Cream - Butterscotch",
+        "preco": 35.98,
+        "quantidade": 93,
+        "idVendedor": 3
+    },
+    {
+        "id": "b7c50fff-1ff8-4b22-b058-e62bf244ba97",
+        "nome": "Salmon - Atlantic, Fresh, Whole",
+        "preco": 62.49,
+        "quantidade": 32,
+        "idVendedor": 12
+    },
+    {
+        "id": "f8cdaa50-423e-4f31-b2c8-54544fd8bdef",
+        "nome": "Clams - Canned",
+        "preco": 12.44,
+        "quantidade": 46,
+        "idVendedor": 12
+    },
+    {
+        "id": "5382c254-2c80-4437-b1db-bf088f0f2189",
+        "nome": "Cod - Fillets",
+        "preco": 98.16,
+        "quantidade": 100,
+        "idVendedor": 17
+    },
+    {
+        "id": "a74fb63a-4764-4366-b440-4470fcb6d79e",
+        "nome": "Glucose",
+        "preco": 3.46,
+        "quantidade": 29,
+        "idVendedor": 5
+    },
+    {
+        "id": "a18409af-855e-4ddc-96b1-7e91e2d54193",
+        "nome": "Wine - Riesling Alsace Ac 2001",
+        "preco": 57.45,
+        "quantidade": 58,
+        "idVendedor": 16
+    },
+    {
+        "id": "4980f7b6-c474-4ef7-9081-f45ed969f243",
+        "nome": "Mountain Dew",
+        "preco": 93.04,
+        "quantidade": 6,
+        "idVendedor": 10
+    },
+    {
+        "id": "1f1ad297-4231-4882-b3fe-57ecd115cfed",
+        "nome": "Crush - Orange, 355ml",
+        "preco": 38.06,
+        "quantidade": 27,
+        "idVendedor": 12
+    },
+    {
+        "id": "32bfe5c1-e547-4a64-bb46-1f003c89988e",
+        "nome": "Chicken Thigh - Bone Out",
+        "preco": 64.96,
+        "quantidade": 95,
+        "idVendedor": 14
+    },
+    {
+        "id": "02e7cf59-ff6b-45ec-a618-ff224945b483",
+        "nome": "Cake - Cheese Cake 9 Inch",
+        "preco": 7.13,
+        "quantidade": 51,
+        "idVendedor": 17
+    },
+    {
+        "id": "4b19c54a-ff20-42d4-b9aa-fd936026b743",
+        "nome": "Lentils - Green, Dry",
+        "preco": 5.19,
+        "quantidade": 17,
+        "idVendedor": 7
+    },
+    {
+        "id": "e828613e-fc38-4235-a8e8-f8da79467713",
+        "nome": "Macaroons - Two Bite Choc",
+        "preco": 71.38,
+        "quantidade": 55,
+        "idVendedor": 18
+    },
+    {
+        "id": "3065d500-b4c5-49f0-880e-9b032ad7aa71",
+        "nome": "Icecream - Dibs",
+        "preco": 10.47,
+        "quantidade": 63,
+        "idVendedor": 3
+    },
+    {
+        "id": "920b4797-e843-4977-87e7-fd74972d77e1",
+        "nome": "Skirt - 29 Foot",
+        "preco": 98.73,
+        "quantidade": 25,
+        "idVendedor": 3
+    },
+    {
+        "id": "56a74006-909d-4a50-904d-7905e963df26",
+        "nome": "Bowl 12 Oz - Showcase 92012",
+        "preco": 86.45,
+        "quantidade": 43,
+        "idVendedor": 4
+    },
+    {
+        "id": "7cf975af-fff5-41f0-9321-dd870277ba97",
+        "nome": "Nut - Almond, Blanched, Whole",
+        "preco": 86.89,
+        "quantidade": 53,
+        "idVendedor": 1
+    },
+    {
+        "id": "b75e767b-e4cc-4b7a-ab37-aebc6c4b7c71",
+        "nome": "Sauce - Soy Low Sodium - 3.87l",
+        "preco": 17.52,
+        "quantidade": 31,
+        "idVendedor": 12
+    },
+    {
+        "id": "323ede07-6a9f-4469-a4b3-e2be4150847a",
+        "nome": "Salmon - Smoked, Sliced",
+        "preco": 13.08,
+        "quantidade": 38,
+        "idVendedor": 18
+    },
+    {
+        "id": "5ad36fa6-9023-4856-9e0d-4f995c1df387",
+        "nome": "Onions - Vidalia",
+        "preco": 16.21,
+        "quantidade": 81,
+        "idVendedor": 3
+    },
+    {
+        "id": "8c7fa774-78f0-4e9e-a1ef-b6cb537248c6",
+        "nome": "Ice Cream - Turtles Stick Bar",
+        "preco": 68.45,
+        "quantidade": 14,
+        "idVendedor": 16
+    },
+    {
+        "id": "4621c0a1-0207-4fa8-86ed-52dd2a6481ae",
+        "nome": "Wine - Pinot Grigio Collavini",
+        "preco": 80.01,
+        "quantidade": 8,
+        "idVendedor": 12
+    },
+    {
+        "id": "744b33fd-9fa7-41aa-9827-95857075a641",
+        "nome": "Appetiser - Bought",
+        "preco": 23.44,
+        "quantidade": 36,
+        "idVendedor": 9
+    },
+    {
+        "id": "3e654137-c4a9-4305-bd41-b24bdd945c6a",
+        "nome": "Bread - Pita",
+        "preco": 81.51,
+        "quantidade": 18,
+        "idVendedor": 14
+    },
+    {
+        "id": "ba2ed01e-d453-491c-a09e-204722864744",
+        "nome": "Cheese - Perron Cheddar",
+        "preco": 17.76,
+        "quantidade": 62,
+        "idVendedor": 19
+    },
+    {
+        "id": "560f7efe-a6cc-410b-b66e-4e2d36771173",
+        "nome": "Beer - Tetleys",
+        "preco": 65.75,
+        "quantidade": 12,
+        "idVendedor": 15
+    },
+    {
+        "id": "13b278c0-3c01-4f48-af47-b0e866924733",
+        "nome": "Corn Shoots",
+        "preco": 89.29,
+        "quantidade": 30,
+        "idVendedor": 7
+    },
+    {
+        "id": "43f32803-d8d5-4595-b10f-96663697bda0",
+        "nome": "Lid Coffeecup 12oz D9542b",
+        "preco": 17.58,
+        "quantidade": 27,
+        "idVendedor": 16
+    },
+    {
+        "id": "ea068ea1-8717-4d2d-9828-859f39fdb85d",
+        "nome": "Croissants Thaw And Serve",
+        "preco": 30.69,
+        "quantidade": 4,
+        "idVendedor": 3
+    },
+    {
+        "id": "646f8319-639b-416c-babf-c466df2f0b2e",
+        "nome": "Chicken - Wieners",
+        "preco": 96.96,
+        "quantidade": 70,
+        "idVendedor": 7
+    },
+    {
+        "id": "c6b7bd80-d831-46ad-9f68-59daf9cd05cc",
+        "nome": "Sobe - Tropical Energy",
+        "preco": 88.32,
+        "quantidade": 3,
+        "idVendedor": 9
+    },
+    {
+        "id": "bd37db37-96be-4366-ac76-0d3ed857bb99",
+        "nome": "Salmon - Canned",
+        "preco": 82.74,
+        "quantidade": 75,
+        "idVendedor": 9
+    },
+    {
+        "id": "9948f6f1-a1cf-4f5b-815a-aa8e7ba36bdf",
+        "nome": "Crab Brie In Phyllo",
+        "preco": 40.31,
+        "quantidade": 30,
+        "idVendedor": 18
+    },
+    {
+        "id": "3c3e1123-76aa-4a18-8fe0-9b790765aece",
+        "nome": "Cherries - Fresh",
+        "preco": 78.81,
+        "quantidade": 47,
+        "idVendedor": 19
+    },
+    {
+        "id": "361694fe-9709-4e47-8395-aac13eef4088",
+        "nome": "Dehydrated Kelp Kombo",
+        "preco": 38.56,
+        "quantidade": 27,
+        "idVendedor": 19
+    },
+    {
+        "id": "fd004fe4-1b67-47bc-b2ba-659db235581d",
+        "nome": "Ice Cream - Strawberry",
+        "preco": 79.75,
+        "quantidade": 88,
+        "idVendedor": 9
+    },
+    {
+        "id": "03dd1e9e-2c66-498a-aaa1-2aaafa579f14",
+        "nome": "Bandage - Fexible 1x3",
+        "preco": 21.18,
+        "quantidade": 9,
+        "idVendedor": 10
+    },
+    {
+        "id": "26d5cf0d-df47-419c-b07d-cd4a5bffa21e",
+        "nome": "Mushroom - Morels, Dry",
+        "preco": 45.42,
+        "quantidade": 39,
+        "idVendedor": 2
+    },
+    {
+        "id": "833f00d3-b78d-4829-9e7c-38ced9572f14",
+        "nome": "Island Oasis - Ice Cream Mix",
+        "preco": 81.85,
+        "quantidade": 85,
+        "idVendedor": 1
+    },
+    {
+        "id": "60fd9338-0bf5-42ce-92e4-333e1ddb8191",
+        "nome": "Scallops - U - 10",
+        "preco": 94.25,
+        "quantidade": 59,
+        "idVendedor": 1
+    },
+    {
+        "id": "c5e0e6d7-dbd6-44a6-ae56-64f3431d755a",
+        "nome": "Egg - Salad Premix",
+        "preco": 99.75,
+        "quantidade": 98,
+        "idVendedor": 12
+    },
+    {
+        "id": "9aafd6d0-c751-49ba-a996-71bb5f3f5714",
+        "nome": "Pail For Lid 1537",
+        "preco": 13.5,
+        "quantidade": 98,
+        "idVendedor": 1
+    },{
+        "id": "7da7e3f8-0e56-400f-b037-e2a28548fa58",
+        "nome": "Sultanas",
+        "preco": 98.79,
+        "quantidade": 56,
+        "idVendedor": 16
+    },
+    {
+        "id": "95cc0421-4782-4ec0-ae16-e9d6f88c3d61",
+        "nome": "Ecolab - Balanced Fusion",
+        "preco": 85.4,
+        "quantidade": 32,
+        "idVendedor": 6
+    }
+]

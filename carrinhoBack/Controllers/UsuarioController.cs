@@ -148,8 +148,11 @@ namespace carrinhoBack.Controllers
             }
             else
             {
-                var usuarioId = tokenValidado.Claims.First(x => x.Type == "id").Value;
-                return Ok(usuarioId);
+                var usuarioRole = tokenValidado.Claims.First(x => x.Type == "role").Value;
+                
+                return Ok(new {
+                    role= usuarioRole,
+                });
             }
 
         }

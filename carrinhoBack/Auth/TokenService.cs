@@ -24,7 +24,7 @@ namespace carrinhoBack.Auth
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Subject = new ClaimsIdentity(new[] { new Claim("id", usuario.Id.ToString()) }),
+                Subject = new ClaimsIdentity(new[] { new Claim("role", usuario.Role.ToString()) }),
                 Expires = DateTime.UtcNow.AddHours(12),
                 SigningCredentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature)
             };

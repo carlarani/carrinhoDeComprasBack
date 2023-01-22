@@ -36,12 +36,21 @@ namespace carrinhoBack.Controllers
                 .ToListAsync();
         }
 
-        //GET com paginação : api/Produto/pag/{paginaSelecionda}/res/{
+        //GET com paginação : api/Produto/pag/{paginaSelecionda}/res/{resultadoPorPagina}
 
         [HttpGet("pag/{paginaSelecionda}/res/{resultadosPorPagina}")]
         public async Task<ActionResult<IEnumerable<Produto>>> Get([FromRoute] int paginaSelecionda, [FromRoute] int resultadosPorPagina)
         {
             var produtos = await _produtoRepository.GetProdutosComPag(paginaSelecionda, resultadosPorPagina);
+            return Ok(produtos);
+        }
+
+        //GET com paginação e filtro : api/Produto/pag/{paginaSelecionda}/res/{resultadoPorPagina}/filtro/{ProdutoFiltro}
+
+        [HttpGet("pag/{paginaSelecionda}/res/{resultadosPorPagina}/filtro/{produtoFiltro}")]
+        public async Task<ActionResult<IEnumerable<Produto>>> Get([FromRoute] int paginaSelecionda, [FromRoute] int resultadosPorPagina, [FromRoute] string produtoFiltro)
+        {
+            var produtos = await _produtoRepository.GetProdutosComPagEComFiltro(paginaSelecionda, resultadosPorPagina, produtoFiltro);
             return Ok(produtos);
         }
 

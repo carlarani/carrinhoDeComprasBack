@@ -32,7 +32,10 @@ namespace carrinhoBack.Controllers
         [HttpGet("Compra/{idCompra}")]
         public async Task<ActionResult<IEnumerable<ProdutoCompra>>> GetProdutoCompraPorIdCompra(Guid idCompra)
         {
-            return await _context.ProdutoCompra.Where((x)=> x.IdCompra==idCompra).ToListAsync();
+            return await _context.ProdutoCompra
+                .Where((x) => x.IdCompra == idCompra)
+                .OrderBy(x => x.IdProduto)
+                .ToListAsync();
         }
 
         // GET: api/ProdutoCompras/5
